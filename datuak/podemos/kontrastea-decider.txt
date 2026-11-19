@@ -1,0 +1,238 @@
+Gaia nagusia (Claude) Decider-ek ere: 423/450 (94%)
+Gaiak G01–G21: precision 68% · recall 85% (Claude erreferentzia)
+Baieztapenak, 'ez du aipatzen' bai/ez: 4626/4690 (98.6%)
+
+Berrikusteko desadostasunak (233):
+  POD-p004-1a G01: Claude=ez Decider p=0.93
+  POD-p004-1a G06: Claude=ez Decider p=0.92
+  POD-p004-1a S01: Claude=ez Decider=+1 (0.39)
+  POD-p004-1b S01: Claude=ez Decider=+1 (0.58)
+  POD-p004-1b S03: Claude=ez Decider=+1 (0.69)
+  POD-p004-1c S03: Claude=ez Decider=+1 (0.58)
+  POD-p004-1d G01: Claude=ez Decider p=0.98
+  POD-p004-1d S01: Claude=ez Decider=+1 (0.68)
+  POD-p004-1d S03: Claude=ez Decider=+1 (0.47)
+  POD-p004-1d S04: Claude=ez Decider=+1 (0.75)
+  POD-p004-1e G08: Claude=ez Decider p=0.83
+  POD-p004-1e S04: Claude=ez Decider=+1 (0.60)
+  POD-p004-1f G01: Claude=ez Decider p=0.96
+  POD-p004-1f S04: Claude=ez Decider=+1 (0.72)
+  POD-p006-1 S01: Claude=ez Decider=+1 (0.23)
+  POD-p007-1a S01: Claude=ez Decider=+1 (0.62)
+  POD-p007-1c S01: Claude=ez Decider=+1 (0.80)
+  POD-002 S01: Claude=jarrera Decider=ez (0.93)
+  POD-004 S01: Claude=ez Decider=+2 (0.52)
+  POD-006 G14: Claude=bai Decider p=0.11
+  POD-010 S01: Claude=ez Decider=+1 (0.31)
+  POD-011 S04: Claude=ez Decider=+1 (0.36)
+  POD-012 S01: Claude=ez Decider=+1 (0.33)
+  POD-019 G09: Claude=bai Decider p=0.20
+  POD-021 G13: Claude=bai Decider p=0.04
+  POD-023 G09: Claude=bai Decider p=0.10
+  POD-024 G09: Claude=bai Decider p=0.09
+  POD-027 gaia nagusia G09: Decider p=0.31
+  POD-p016-1a G10: Claude=ez Decider p=0.86
+  POD-p016-1b S01: Claude=ez Decider=0 (0.29)
+  POD-p016-1b S04: Claude=ez Decider=+1 (0.30)
+  POD-p016-1c G10: Claude=ez Decider p=0.80
+  POD-p016-1c S01: Claude=ez Decider=+1 (0.53)
+  POD-031 G09: Claude=ez Decider p=0.95
+  POD-031 G10: Claude=ez Decider p=0.91
+  POD-032 G09: Claude=ez Decider p=0.99
+  POD-035 G10: Claude=ez Decider p=0.85
+  POD-036 G09: Claude=ez Decider p=0.98
+  POD-037 G09: Claude=ez Decider p=0.99
+  POD-040 S04: Claude=ez Decider=+1 (0.55)
+  POD-041 S04: Claude=ez Decider=+1 (0.56)
+  POD-042 G09: Claude=ez Decider p=0.97
+  POD-042 G10: Claude=ez Decider p=0.85
+  POD-043 G09: Claude=ez Decider p=0.92
+  POD-045 G09: Claude=ez Decider p=0.94
+  POD-046 gaia nagusia G06: Decider p=0.11
+  POD-046 G06: Claude=bai Decider p=0.11
+  POD-046 G09: Claude=ez Decider p=0.95
+  POD-047 G10: Claude=ez Decider p=0.92
+  POD-049 S04: Claude=ez Decider=+1 (0.68)
+  POD-051 S04: Claude=ez Decider=+1 (0.57)
+  POD-053 G09: Claude=ez Decider p=0.94
+  POD-054 G09: Claude=ez Decider p=0.80
+  POD-055 G09: Claude=ez Decider p=0.89
+  POD-056 G09: Claude=ez Decider p=0.91
+  POD-056 S04: Claude=ez Decider=+1 (0.47)
+  POD-057 G09: Claude=ez Decider p=0.89
+  POD-057 S04: Claude=ez Decider=+1 (0.32)
+  POD-058 G09: Claude=ez Decider p=0.88
+  POD-059 G09: Claude=ez Decider p=0.84
+  POD-059 S04: Claude=ez Decider=+1 (0.30)
+  POD-060 G10: Claude=ez Decider p=0.82
+  POD-060 S04: Claude=ez Decider=+1 (0.69)
+  POD-061 G09: Claude=ez Decider p=0.86
+  POD-061 G10: Claude=ez Decider p=0.91
+  POD-062 G09: Claude=ez Decider p=0.89
+  POD-062 S03: Claude=ez Decider=+1 (0.24)
+  POD-063 G10: Claude=ez Decider p=0.97
+  POD-063 S04: Claude=ez Decider=+1 (0.52)
+  POD-064 gaia nagusia G07: Decider p=0.47
+  POD-064 G10: Claude=ez Decider p=0.97
+  POD-065 G09: Claude=ez Decider p=0.86
+  POD-065 G10: Claude=ez Decider p=0.98
+  POD-067 G09: Claude=ez Decider p=0.99
+  POD-069 G09: Claude=ez Decider p=0.88
+  POD-087 G14: Claude=bai Decider p=0.10
+  POD-087 G19: Claude=ez Decider p=0.84
+  POD-087 G20: Claude=ez Decider p=0.85
+  POD-088 G20: Claude=ez Decider p=0.82
+  POD-088 S06: Claude=jarrera Decider=ez (0.62)
+  POD-097 G14: Claude=bai Decider p=0.03
+  POD-099 G14: Claude=bai Decider p=0.14
+  POD-100 G18: Claude=ez Decider p=0.93
+  POD-101 G19: Claude=ez Decider p=0.95
+  POD-105 S04: Claude=ez Decider=+2 (0.93)
+  POD-106 G21: Claude=bai Decider p=0.00
+  POD-110 S02: Claude=ez Decider=+2 (0.21)
+  POD-p040-1a G09: Claude=ez Decider p=0.84
+  POD-p040-1a S02: Claude=ez Decider=+2 (0.66)
+  POD-p040-1b S02: Claude=ez Decider=+2 (0.66)
+  POD-p040-1b S04: Claude=ez Decider=0 (0.28)
+  POD-p040-1c S02: Claude=ez Decider=+2 (0.95)
+  POD-117 S02: Claude=ez Decider=+1 (0.21)
+  POD-119 S02: Claude=ez Decider=+2 (0.48)
+  POD-122 G06: Claude=bai Decider p=0.03
+  POD-124 G14: Claude=bai Decider p=0.09
+  POD-126 G07: Claude=bai Decider p=0.14
+  POD-126 S04: Claude=ez Decider=+1 (0.46)
+  POD-127 G02: Claude=ez Decider p=0.88
+  POD-127 S05: Claude=jarrera Decider=ez (0.73)
+  POD-129 G02: Claude=ez Decider p=0.92
+  POD-135 gaia nagusia G06: Decider p=0.24
+  POD-138 G03: Claude=ez Decider p=0.98
+  POD-140 S02: Claude=ez Decider=+1 (0.31)
+  POD-p050-1a gaia nagusia G08: Decider p=0.08
+  POD-p050-1a G08: Claude=bai Decider p=0.08
+  POD-p050-1a G11: Claude=ez Decider p=0.96
+  POD-p050-1a S03: Claude=ez Decider=+1 (0.71)
+  POD-p050-1a S04: Claude=ez Decider=+1 (0.68)
+  POD-p050-1b gaia nagusia G08: Decider p=0.24
+  POD-p050-1b G11: Claude=ez Decider p=0.90
+  POD-p050-1b S03: Claude=ez Decider=0 (0.26)
+  POD-p050-1b S04: Claude=ez Decider=0 (0.42)
+  POD-p050-1c G11: Claude=ez Decider p=0.99
+  POD-155 G14: Claude=ez Decider p=0.95
+  POD-156 G14: Claude=ez Decider p=0.91
+  POD-158 G13: Claude=bai Decider p=0.07
+  POD-158 G19: Claude=ez Decider p=0.82
+  POD-159 G19: Claude=ez Decider p=0.81
+  POD-162 G06: Claude=ez Decider p=0.88
+  POD-168 G06: Claude=ez Decider p=0.81
+  POD-174 gaia nagusia G15: Decider p=0.26
+  POD-174 G19: Claude=ez Decider p=0.92
+  POD-175 G19: Claude=ez Decider p=0.96
+  POD-176 gaia nagusia G06: Decider p=0.29
+  POD-177 gaia nagusia G06: Decider p=0.43
+  POD-189 G02: Claude=bai Decider p=0.12
+  POD-189 G15: Claude=ez Decider p=0.85
+  POD-191 G04: Claude=ez Decider p=0.81
+  POD-196 S03: Claude=ez Decider=+2 (0.31)
+  POD-203 G15: Claude=ez Decider p=0.83
+  POD-205 G19: Claude=ez Decider p=0.86
+  POD-206 G19: Claude=ez Decider p=0.94
+  POD-207 S06: Claude=ez Decider=+2 (0.53)
+  POD-209 G19: Claude=ez Decider p=0.89
+  POD-214 G13: Claude=bai Decider p=0.01
+  POD-215 G13: Claude=bai Decider p=0.16
+  POD-216 G06: Claude=ez Decider p=0.81
+  POD-220 G19: Claude=ez Decider p=0.82
+  POD-223 gaia nagusia G13: Decider p=0.22
+  POD-224 gaia nagusia G13: Decider p=0.19
+  POD-224 G13: Claude=bai Decider p=0.19
+  POD-225 G19: Claude=ez Decider p=0.82
+  POD-227 gaia nagusia G01: Decider p=0.20
+  POD-227 G09: Claude=bai Decider p=0.14
+  POD-229 S01: Claude=ez Decider=+1 (0.48)
+  POD-237 G19: Claude=ez Decider p=0.85
+  POD-247 G05: Claude=ez Decider p=0.83
+  POD-252 gaia nagusia G16: Decider p=0.12
+  POD-252 G16: Claude=bai Decider p=0.12
+  POD-261 gaia nagusia G16: Decider p=0.40
+  POD-267 G21: Claude=bai Decider p=0.09
+  POD-281 G08: Claude=ez Decider p=0.83
+  POD-295 G14: Claude=bai Decider p=0.08
+  POD-298 G08: Claude=ez Decider p=0.90
+  POD-298 G10: Claude=bai Decider p=0.12
+  POD-301 S03: Claude=ez Decider=+1 (0.47)
+  POD-303 S03: Claude=ez Decider=+2 (0.69)
+  POD-304 S03: Claude=ez Decider=+1 (0.63)
+  POD-305 S03: Claude=ez Decider=+1 (0.67)
+  POD-306 S03: Claude=ez Decider=+1 (0.36)
+  POD-307 G13: Claude=bai Decider p=0.04
+  POD-307 S03: Claude=ez Decider=+1 (0.48)
+  POD-308 S02: Claude=ez Decider=0 (0.28)
+  POD-320 G05: Claude=bai Decider p=0.04
+  POD-322 S02: Claude=ez Decider=+1 (0.49)
+  POD-325 G21: Claude=bai Decider p=0.11
+  POD-333 G21: Claude=bai Decider p=0.05
+  POD-338 G10: Claude=bai Decider p=0.07
+  POD-343 G11: Claude=ez Decider p=0.90
+  POD-345 G11: Claude=ez Decider p=0.84
+  POD-346 G11: Claude=ez Decider p=0.95
+  POD-347 G11: Claude=ez Decider p=1.00
+  POD-349 G08: Claude=ez Decider p=0.82
+  POD-351 G11: Claude=ez Decider p=0.97
+  POD-360 G01: Claude=bai Decider p=0.01
+  POD-362 G11: Claude=ez Decider p=0.81
+  POD-363 G11: Claude=ez Decider p=0.84
+  POD-363 S08: Claude=ez Decider=-2 (0.53)
+  POD-367 G21: Claude=bai Decider p=0.16
+  POD-369 G11: Claude=ez Decider p=0.98
+  POD-371 G11: Claude=ez Decider p=0.95
+  POD-373 G11: Claude=ez Decider p=0.96
+  POD-374 G11: Claude=ez Decider p=0.80
+  POD-376 gaia nagusia G21: Decider p=0.42
+  POD-376 G11: Claude=ez Decider p=0.90
+  POD-379 G11: Claude=ez Decider p=0.99
+  POD-380 G11: Claude=ez Decider p=0.87
+  POD-381 gaia nagusia G04: Decider p=0.33
+  POD-381 G09: Claude=bai Decider p=0.20
+  POD-381 G11: Claude=ez Decider p=0.98
+  POD-390 G21: Claude=bai Decider p=0.06
+  POD-391 gaia nagusia G11: Decider p=0.19
+  POD-391 G11: Claude=bai Decider p=0.19
+  POD-392 G17: Claude=bai Decider p=0.16
+  POD-393 G11: Claude=ez Decider p=0.85
+  POD-396 G11: Claude=ez Decider p=0.88
+  POD-398 gaia nagusia G05: Decider p=0.26
+  POD-398 G11: Claude=ez Decider p=0.82
+  POD-399 gaia nagusia G21: Decider p=0.45
+  POD-399 G11: Claude=ez Decider p=0.89
+  POD-400 gaia nagusia G21: Decider p=0.42
+  POD-400 G11: Claude=ez Decider p=0.85
+  POD-402 gaia nagusia G10: Decider p=0.00
+  POD-402 G10: Claude=bai Decider p=0.00
+  POD-403 G11: Claude=ez Decider p=0.90
+  POD-404 gaia nagusia G16: Decider p=0.20
+  POD-p126-1a S04: Claude=ez Decider=+1 (0.68)
+  POD-p126-1b G08: Claude=ez Decider p=0.86
+  POD-p126-1b S04: Claude=ez Decider=0 (0.39)
+  POD-p126-1c G14: Claude=ez Decider p=0.96
+  POD-p126-1c S04: Claude=ez Decider=+1 (0.46)
+  POD-p126-1d S04: Claude=ez Decider=+1 (0.58)
+  POD-p126-1d S09: Claude=ez Decider=+1 (0.26)
+  POD-406 gaia nagusia G17: Decider p=0.10
+  POD-406 G17: Claude=bai Decider p=0.10
+  POD-406 S09: Claude=ez Decider=+1 (0.36)
+  POD-409 G14: Claude=ez Decider p=0.96
+  POD-414 G14: Claude=ez Decider p=0.90
+  POD-415 G14: Claude=ez Decider p=0.97
+  POD-417 G14: Claude=ez Decider p=0.95
+  POD-418 G08: Claude=ez Decider p=0.88
+  POD-418 G14: Claude=ez Decider p=0.96
+  POD-419 G14: Claude=ez Decider p=0.99
+  POD-421 G14: Claude=ez Decider p=0.86
+  POD-422 G14: Claude=ez Decider p=0.86
+  POD-426 gaia nagusia G14: Decider p=0.41
+  POD-430 gaia nagusia G05: Decider p=0.00
+  POD-430 G05: Claude=bai Decider p=0.00
+  POD-440 gaia nagusia G19: Decider p=0.16
+  POD-440 G19: Claude=bai Decider p=0.16
+  POD-442 gaia nagusia G10: Decider p=0.03
+  POD-442 G10: Claude=bai Decider p=0.03

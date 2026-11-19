@@ -1,0 +1,130 @@
+Gaia nagusia (Claude) Decider-ek ere: 200/224 (89%)
+Gaiak G01–G21: precision 79% · recall 78% (Claude erreferentzia)
+Baieztapenak, 'ez du aipatzen' bai/ez: 2563/2610 (98.2%)
+
+Berrikusteko desadostasunak (125):
+  PP-I08-08 S08: Claude=ez Decider=-2 (0.76)
+  PP-I08-08 S09: Claude=ez Decider=-2 (0.51)
+  PP-I09-09 S09: Claude=ez Decider=-1 (0.28)
+  PP-I09-14 gaia nagusia G17: Decider p=0.08
+  PP-I09-14 G17: Claude=bai Decider p=0.08
+  PP-I09-14 S08: Claude=ez Decider=-2 (0.60)
+  PP-I09-14 S09: Claude=ez Decider=-2 (0.52)
+  PP-I09-15 gaia nagusia G10: Decider p=0.14
+  PP-I09-15 G10: Claude=bai Decider p=0.14
+  PP-I12-17 S08: Claude=ez Decider=-2 (0.35)
+  PP-N013 S06: Claude=ez Decider=-2 (0.92)
+  PP-N014 gaia nagusia G17: Decider p=0.22
+  PP-N015 gaia nagusia G17: Decider p=0.34
+  PP-N015 S08: Claude=ez Decider=-2 (0.57)
+  PP-N015 S09: Claude=ez Decider=-2 (0.70)
+  PP-N016 G08: Claude=ez Decider p=0.89
+  PP-N016 S08: Claude=ez Decider=-1 (0.47)
+  PP-N016 S09: Claude=ez Decider=-2 (0.43)
+  PP-N017 S08: Claude=ez Decider=-2 (0.73)
+  PP-N018 G08: Claude=ez Decider p=0.85
+  PP-N018 S08: Claude=ez Decider=-2 (0.51)
+  PP-N018 S09: Claude=ez Decider=-2 (0.80)
+  PP-N033 G08: Claude=ez Decider p=0.93
+  PP-I28-18 G08: Claude=ez Decider p=0.87
+  PP-I38-19 S08: Claude=ez Decider=-2 (0.79)
+  PP-I38-19 S09: Claude=ez Decider=-2 (0.85)
+  PP-I40-20 S08: Claude=ez Decider=-1 (0.52)
+  PP-I40-20 S09: Claude=ez Decider=-1 (0.36)
+  PP-I52-21 G02: Claude=ez Decider p=0.81
+  PP-I52-21 S03: Claude=ez Decider=0 (0.46)
+  PP-N037 S06: Claude=ez Decider=-2 (0.85)
+  PP-N038 S06: Claude=ez Decider=-2 (0.43)
+  PP-N039 G02: Claude=bai Decider p=0.10
+  PP-N039 S06: Claude=ez Decider=-2 (0.37)
+  PP-N040 G02: Claude=bai Decider p=0.17
+  PP-N040 S06: Claude=ez Decider=-2 (0.27)
+  PP-N041 G02: Claude=bai Decider p=0.11
+  PP-N041 S06: Claude=ez Decider=-2 (0.26)
+  PP-N045 S06: Claude=ez Decider=-2 (0.67)
+  PP-N046 S06: Claude=ez Decider=-2 (0.47)
+  PP-N050 gaia nagusia G14: Decider p=0.47
+  PP-N051 gaia nagusia G14: Decider p=0.23
+  PP-N057 gaia nagusia G19: Decider p=0.30
+  PP-N059 gaia nagusia G17: Decider p=0.20
+  PP-N059 S08: Claude=ez Decider=-2 (0.48)
+  PP-N059 S09: Claude=ez Decider=-2 (0.33)
+  PP-N066 G17: Claude=bai Decider p=0.19
+  PP-N067 G14: Claude=ez Decider p=0.92
+  PP-N068 G14: Claude=ez Decider p=0.92
+  PP-N069 G14: Claude=ez Decider p=0.99
+  PP-N070 G14: Claude=ez Decider p=0.98
+  PP-N071 G14: Claude=ez Decider p=0.99
+  PP-N072 G14: Claude=ez Decider p=0.98
+  PP-N073 G14: Claude=ez Decider p=1.00
+  PP-N077 gaia nagusia G14: Decider p=0.19
+  PP-N077 G14: Claude=bai Decider p=0.19
+  PP-N082 G14: Claude=ez Decider p=0.84
+  PP-N085 G08: Claude=ez Decider p=0.97
+  PP-N090 G08: Claude=ez Decider p=0.90
+  PP-N091 gaia nagusia G19: Decider p=0.01
+  PP-N091 G19: Claude=bai Decider p=0.01
+  PP-N092 gaia nagusia G17: Decider p=0.47
+  PP-N092 G06: Claude=bai Decider p=0.02
+  PP-N092 S08: Claude=ez Decider=-2 (0.60)
+  PP-N092 S09: Claude=ez Decider=-2 (0.40)
+  PP-N095 G17: Claude=bai Decider p=0.15
+  PP-N096 S07: Claude=ez Decider=-1 (0.38)
+  PP-N096 S08: Claude=ez Decider=-2 (0.27)
+  PP-N098 gaia nagusia G13: Decider p=0.18
+  PP-N098 G06: Claude=bai Decider p=0.10
+  PP-N098 G13: Claude=bai Decider p=0.18
+  PP-N098 S08: Claude=ez Decider=-2 (0.45)
+  PP-N098 S09: Claude=ez Decider=-2 (0.61)
+  PP-N100 S03: Claude=ez Decider=+1 (0.56)
+  PP-N100 S08: Claude=jarrera Decider=ez (0.39)
+  PP-N101 S09: Claude=ez Decider=-2 (0.66)
+  PP-N103 gaia nagusia G17: Decider p=0.35
+  PP-N104 gaia nagusia G17: Decider p=0.19
+  PP-N104 G17: Claude=bai Decider p=0.19
+  PP-N105 G08: Claude=ez Decider p=0.85
+  PP-N105 G17: Claude=bai Decider p=0.06
+  PP-N106 gaia nagusia G17: Decider p=0.21
+  PP-N107 gaia nagusia G08: Decider p=0.24
+  PP-N107 G03: Claude=bai Decider p=0.19
+  PP-N107 S05: Claude=ez Decider=0 (0.39)
+  PP-N110 G03: Claude=bai Decider p=0.04
+  PP-N111 G19: Claude=ez Decider p=0.89
+  PP-N112 gaia nagusia G06: Decider p=0.50
+  PP-N117 G11: Claude=bai Decider p=0.02
+  PP-N126 G21: Claude=bai Decider p=0.16
+  PP-N127 S07: Claude=ez Decider=-1 (0.43)
+  PP-N128 gaia nagusia G17: Decider p=0.08
+  PP-N128 G17: Claude=bai Decider p=0.08
+  PP-N128 S08: Claude=ez Decider=-2 (0.36)
+  PP-N128 S09: Claude=ez Decider=-2 (0.42)
+  PP-N137 G20: Claude=bai Decider p=0.07
+  PP-N139 gaia nagusia G16: Decider p=0.14
+  PP-N139 G16: Claude=bai Decider p=0.14
+  PP-N142 gaia nagusia G13: Decider p=0.47
+  PP-N142 G14: Claude=bai Decider p=0.10
+  PP-N142 S09: Claude=ez Decider=-2 (0.54)
+  PP-N143 gaia nagusia G13: Decider p=0.13
+  PP-N143 G13: Claude=bai Decider p=0.13
+  PP-N151 G17: Claude=bai Decider p=0.03
+  PP-N156 S01: Claude=jarrera Decider=ez (0.36)
+  PP-N159 gaia nagusia G06: Decider p=0.43
+  PP-N159 G15: Claude=bai Decider p=0.16
+  PP-N168 gaia nagusia G14: Decider p=0.36
+  PP-N170 G03: Claude=ez Decider p=0.86
+  PP-N172 G06: Claude=bai Decider p=0.01
+  PP-N174 G10: Claude=ez Decider p=0.97
+  PP-N175 gaia nagusia G02: Decider p=0.45
+  PP-N178 S04: Claude=ez Decider=-2 (0.39)
+  PP-N179 G10: Claude=ez Decider p=0.82
+  PP-N181 S04: Claude=ez Decider=-2 (0.57)
+  PP-N184 S04: Claude=ez Decider=-2 (0.38)
+  PP-N192 G11: Claude=bai Decider p=0.03
+  PP-N201 G20: Claude=bai Decider p=0.05
+  PP-N208 G11: Claude=bai Decider p=0.18
+  PP-N213 G06: Claude=bai Decider p=0.08
+  PP-N219 G17: Claude=bai Decider p=0.13
+  PP-N222 S03: Claude=ez Decider=0 (0.37)
+  PP-N224 G10: Claude=bai Decider p=0.00
+  PP-N227 G17: Claude=bai Decider p=0.03
+  PP-N236 G21: Claude=bai Decider p=0.10

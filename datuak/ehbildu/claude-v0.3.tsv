@@ -1,0 +1,232 @@
+# Claude-ren sailkapena, kodeketa-liburua v0.3 (02-metodologia.md §11). EH Bildu, 29-N programa (euskarazko bertsioa).
+id	gaiak	D1	D2	D3	D4	D5	D6	D7	S	oharra
+EHB-04-02	G99	ez	ez	ez	ez	0	0	-	-	-
+EHB-04-03	G99	ez	ez	ez	ez	0	0	-	-	-
+EHB-04-04	G03,G01,G07,G19	ez	ez	ez	ez	1	0	-	-	aurreko legealdiko lorpenak (ez proposamenak)
+EHB-04-05	G99	ez	ez	ez	ez	0	0	-	-	-
+EHB-04-06	G99	ez	ez	ez	ez	0	0	-	-	-
+EHB-04-07	G99	ez	ez	ez	ez	0	0	-	-	-
+EHB-05-01	G01	ez|zabaldu	ez	ez	ez	1	0	-	S01=+2	"prezioak erregulatu eta mugatu", etxegabetzeak debekatu
+EHB-05-02	G01	ez	ez	ez	ez	0	0	-	-	-
+EHB-05-03	G01	ez	ez	ez	ez	2	0	-	-	alokairu-kontratu mugagabeak
+EHB-05-04	G01	zabaldu	ez	ez	handitu	2	0	prekarioak=onura	-	etxegabetze-debeku iraunkorra
+EHB-05-05	G01,G17	ez	ez	ez	handitu	2	0	-	S01=+1|+2	-
+EHB-05-06	G01	ez	ez	ez	ez	2	0	-	-	-
+EHB-05-07	G01	ez	ez	ez	ez	2	0	enpresahandiak=kaltea;errentaaltuak=kaltea	-	erosketa espekulatiboa debekatu
+EHB-05-08	G01	ez	ez	ez	ez	3	0	errentaaltuak=kaltea	-	-
+EHB-05-09	G01	ez	ez	ez	ez	2	0	enpresahandiak=kaltea	S01=+1	-
+EHB-05-10	G01	ez	ez	ez	ez	3	0	-	S01=+2	alokairuaren urteko igoera %2ra mugatu
+EHB-06-01	G01,G07	ez	ez	igo_handiei|ez	ez	2	0	-	S01=+1	-
+EHB-06-02	G01,G07	ez	ez	igo_orokorra|igo_handiei	ez	3	0	-	-	turismo-pisuei %21eko BEZa
+EHB-06-03	G01,G07	ez	ez	igo_handiei	ez	2	0	enpresahandiak=kaltea	-	SOCIMIen zerga-abantailak kendu
+EHB-06-04	G02	ez	hobetu	ez	ez	0	0	-	-	-
+EHB-06-05	G02	ez	hobetu	ez	ez	3	0	langileak=onura	S02=+2	32 ordu soldata murriztu gabe
+EHB-06-06	G02,G17	ez	hobetu	ez	ez	2	0	langileak=onura;gazteak=onura;emakumeak=onura	-	LGS propioa erkidegoetan
+EHB-06-07	G02	ez	hobetu	ez	ez	3	0	langileak=onura;emakumeak=onura;gazteak=onura	-	45 eguneko kalte-ordaina; EEEetan aurretiazko baimena
+EHB-07-01	G02	ez	hobetu	ez	ez	2	0	langileak=onura	-	-
+EHB-07-02	G02	ez	hobetu	ez	ez	3	0	langileak=onura	-	-
+EHB-07-03	G02,G08	zabaldu	ez	ez	handitu	1	0	prekarioak=onura	-	-
+EHB-07-04	G02,G06	zabaldu	hobetu	ez	ez	2	0	-	-	desgaitasuna
+EHB-07-05	G02,G17	ez	hobetu|ez	ez	ez	1	0	-	-	ZEHARKA: Lan Harremanen Euskal Esparrua [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-07-06	G13,G02	ez	ez	ez	ez	1	0	etorkinak=onura	-	-
+EHB-07-07	G02,G06	zabaldu	hobetu	ez	ez	2	0	langileak=onura	-	etxeko langileak
+EHB-07-08	G02,G17	ez	hobetu	ez	handitu	2	0	-	-	ZEHARKA: Lan Ikuskaritzaren eskumena transferitu [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-07-09	G02,G17	ez	ez	ez	ez	2	0	-	-	ZEHARKA: enplegu-politika pasiboak Nafarroara [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-07-10	G03	zabaldu	ez	ez	ez	1	0	pentsiodunak=onura	-	-
+EHB-07-12	G03	mantendu|zabaldu	ez	ez	ez	2	0	pentsiodunak=onura	-	erretiro-adina eta kalkulu-aldia luzatzeari uko
+EHB-08-01	G03	mantendu	ez	ez	ez	2	0	pentsiodunak=onura	S05=+2	KPIaren araberako eguneratzea blindatu
+EHB-08-02	G03	zabaldu	ez	ez	ez	3	0	pentsiodunak=onura	-	gutxieneko pentsioak 1.220 €
+EHB-08-03	G03,G15	zabaldu	ez	ez	ez	3	0	pentsiodunak=onura;emakumeak=onura	-	-
+EHB-08-04	G03,G02	zabaldu	ez	ez	ez	3	0	langileak=onura;pentsiodunak=onura	-	40 urte kotizatuta penalizaziorik gabe
+EHB-08-05	G03,G17	ez	ez	ez	ez	2	0	-	-	ZEHARKA: Gizarte Segurantzaren araubide ekonomikoa transferitu [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-08-06	G09	ez	ez	ez	ez	0	0	-	-	-
+EHB-08-07	G09,G10	ez	ez	ez	ez	2	0	enpresahandiak=kaltea	-	energia/elikadura enpresa handien marjinetan esku hartu
+EHB-08-08	G09,G11	ez	ez	ez	ez	2	0	-	-	-
+EHB-08-09	G09	ez	ez	ez	ez	2	0	-	-	-
+EHB-08-10	G09,G20,G11	ez	ez	ez	ez	1	0	-	-	-
+EHB-09-01	G09,G21	ez	ez	ez	ez	2	0	enpresahandiak=kaltea	-	-
+EHB-09-02	G09,G10,G21	ez	ez	ez	handitu	1	0	-	-	-
+EHB-09-03	G09,G12	zabaldu|mantendu	ez	ez	handitu	1	0	-	-	-
+EHB-09-04	G09,G06	zabaldu	ez	ez	ez	2	0	prekarioak=onura	-	-
+EHB-09-05	G04,G17	zabaldu	ez	ez	ez	0	0	-	-	ZEHARKA: Osasun Ministerioaren eskumenak eskuratu [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-10-01	G04	ez	ez	ez	ez	0	0	-	-	-
+EHB-10-03	G04	zabaldu	ez	ez	ez	2	0	prekarioak=onura	-	-
+EHB-10-04	G04,G15,G07	zabaldu	ez	jaitsi_orokorra	ez	2	0	emakumeak=onura	-	-
+EHB-10-05	G04	zabaldu	ez	ez	ez	2	0	-	-	-
+EHB-10-06	G04	ez	ez	ez	ez	1	0	-	-	-
+EHB-10-07	G04	zabaldu	ez	ez	ez	2	0	-	-	eutanasia-legea zabaldu
+EHB-10-08	G04,G15	ez	ez	ez	ez	1	0	emakumeak=onura	-	-
+EHB-10-09	G04	ez	ez	ez	ez	1	0	-	-	-
+EHB-10-11	G04,G16	ez	ez	ez	ez	3	0	-	S07=+1|+2	BAME/BAPE plazen %53 bi hizkuntza ofizialak dakizkitenei
+EHB-10-12	G04,G05	ez	ez	ez	ez	1	0	-	-	-
+EHB-10-13	G04	zabaldu|ez	ez	ez	ez	1	0	-	-	-
+EHB-10-14	G04	ez	ez	ez	ez	2	0	-	-	-
+EHB-10-15	G04,G17	ez	ez	ez	ez	1	0	-	-	ZEHARKA: prestakuntza espezializatuaren eskumena transferitu [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-11-02	G04	zabaldu|ez	ez	ez	ez	1	0	-	-	-
+EHB-11-03	G04	zabaldu	ez	ez	ez	2	0	-	S03=+2	15/1997 Legea indargabetu (osasun-zerbitzuen pribatizazioa ahalbidetzen duena)
+EHB-11-04	G04,G10	ez	ez	ez	ez	1	0	-	-	-
+EHB-11-05	G04,G10	ez	ez	ez	ez	0	0	-	-	-
+EHB-11-06	G04,G17	zabaldu	ez	ez	handitu	2	0	-	S03=+1	farmazia publikoa
+EHB-11-07	G04	ez	ez	ez	ez	1	0	-	-	-
+EHB-11-08	G04,G06	zabaldu	ez	ez	ez	1	0	-	-	-
+EHB-11-09	G04,G17	ez	ez	ez	ez	2	0	-	-	ZEHARKA: kanpo-osasunaren eskumena transferitu [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-11-10	G05,G16,G17	ez	ez	ez	ez	0	0	-	-	ZEHARKA: hezkuntza-sistema propioa "euskalduna eta subiranoa" [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-11-11	G05	zabaldu	ez	ez	ez	1	0	-	-	ratioak jaitsi
+EHB-11-12	G05,G02	ez	hobetu	ez	ez	1	0	langileak=onura	-	-
+EHB-11-13	G05	zabaldu	ez	ez	handitu	3	0	-	-	BPGaren %6ra hurbildu
+EHB-11-14	G05	zabaldu	ez	ez	ez	1	0	-	-	-
+EHB-12-01	G06	ez	ez	ez	ez	0	0	-	-	-
+EHB-12-02	G06	zabaldu	ez	ez	ez	1	0	-	-	zaintzan pribatizazioa eta irabazi-asmoa mugatu
+EHB-12-03	G06	zabaldu	ez	ez	ez	1	0	-	-	-
+EHB-12-04	G06	zabaldu	ez	ez	ez	2	0	-	-	mendekotasun-prestazioa eskaeraren egunetik
+EHB-12-05	G06,G15,G02	zabaldu	hobetu	ez	ez	1	0	emakumeak=onura	-	-
+EHB-12-06	G06,G19	zabaldu	ez	ez	ez	1	0	-	-	-
+EHB-12-07	G06	zabaldu	ez	ez	ez	2	0	-	-	zaintza pertsonalen koordainketa kendu
+EHB-12-08	G08	zabaldu	ez	ez	handitu	2	0	-	-	aurrez aurreko arreta nahitaezkoa
+EHB-12-09	G08,G06	zabaldu	ez	ez	ez	1	0	prekarioak=onura	-	-
+EHB-12-10	G16,G08	ez	ez	ez	ez	2	0	-	S07=+2	Estatuko administrazioan (justizia barne) euskara baldintza
+EHB-12-11	G08	ez	ez	ez	ez	1	0	-	-	-
+EHB-12-12	G08,G02,G17	ez	hobetu	ez	ez	2	0	langileak=onura	-	ZEHARKA: EAE/Nafarroako administrazioek soldatak beren kabuz [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-13-01	G06	mantendu|zabaldu	ez	ez	ez	0	0	prekarioak=onura	-	-
+EHB-13-02	G06,G09	zabaldu	ez	ez	ez	2	0	prekarioak=onura	-	hornidura-etenak debekatu iraunkorki
+EHB-13-03	G06,G09	zabaldu	ez	ez	ez	1	0	prekarioak=onura	-	-
+EHB-13-04	G06,G09	zabaldu	ez	ez	ez	1	0	prekarioak=onura	-	-
+EHB-13-05	G06	zabaldu	ez	ez	handitu	2	0	prekarioak=onura	-	IPREMa KPIaren arabera + aparteko igoera
+EHB-13-06	G06	zabaldu	ez	ez	ez	1	0	prekarioak=onura	-	-
+EHB-13-07	G06,G17	zabaldu	ez	ez	ez	1	0	prekarioak=onura	-	ZEHARKA: BGDSren eskumena transferitu [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-13-08	G06	zabaldu	ez	ez	ez	0	0	-	-	-
+EHB-13-09	G06,G02	zabaldu	hobetu	ez	ez	2	0	-	-	-
+EHB-13-10	G06	ez	ez	ez	ez	0	0	gazteak=onura	-	-
+EHB-13-11	G06,G17	zabaldu	ez	ez	ez	1	0	-	-	-
+EHB-13-12	G06,G02	zabaldu	hobetu	ez	ez	2	0	langileak=onura;autonomoak=onura	-	guraso bakarreko familien baimenak berdindu; jaio aurreko baimena
+EHB-14-01	G06	zabaldu	ez	ez	ez	1	0	-	-	-
+EHB-14-02	G13,G06	zabaldu	ez	ez	handitu	1	0	etorkinak=onura	-	-
+EHB-14-03	G07	ez	ez	igo_handiei	ez	0	0	enpresahandiak=kaltea	-	-
+EHB-14-04	G07,G17	ez	ez	igo_handiei	ez	2	0	enpresahandiak=kaltea	-	energia-enpresen zerga iraunkorra, foru-ogasunekin itunduta
+EHB-14-05	G07	ez	ez	igo_handiei	ez	1	0	errentaaltuak=kaltea	S04=+2	"Bankuen eta fortuna handien gaineko zergaren karga fiskala handitzea"
+EHB-14-06	G07,G09	ez	ez	igo_handiei	ez	1	0	enpresahandiak=kaltea	-	-
+EHB-14-07	G07,G01	ez	ez	igo_orokorra|igo_handiei	ez	3	0	-	-	-
+EHB-14-08	G08,G17	ez	ez	ez	handitu	1	0	-	-	inbertsio publikoa mugatzen duten arau fiskalak kendu
+EHB-14-09	G08	ez	ez	ez	handitu	1	0	-	-	Konstituzioaren 135. art. aldaketa indargabetu
+EHB-14-10	G08,G03,G02	mantendu	mantendu	ez	ez	0	0	-	-	austeritateari uko
+EHB-14-11	G11	ez	ez	ez	ez	0	0	-	-	-
+EHB-15-01	G11,G17	ez	ez	ez	ez	0	0	-	-	ZEHARKA: euskal erakundeen erabaki-ahalmena eta Kontzertua errespetatu [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-15-02	G11	ez	ez	ez	ez	3	0	-	-	deskarbonizazioa 2045era aurreratu
+EHB-15-03	G11	ez	ez	ez	ez	1	0	-	-	-
+EHB-15-04	G11	ez	ez	ez	ez	1	0	-	-	-
+EHB-15-05	G11	ez	ez	ez	ez	2	0	-	-	itxiera nuklearraren egutegia mantendu
+EHB-15-06	G11	ez	ez	ez	ez	1	0	-	-	-
+EHB-15-07	G11,G09	zabaldu	ez	ez	ez	1	0	prekarioak=onura	-	-
+EHB-16-01	G10,G20	ez	ez	ez	ez	1	0	-	-	-
+EHB-16-02	G10,G11	ez	ez	ez	ez	1	0	-	-	-
+EHB-16-03	G10,G20	ez	ez	ez	ez	1	0	autonomoak=onura;enpresahandiak=kaltea	-	-
+EHB-16-04	G10,G02	ez	hobetu	ez	ez	1	0	langileak=onura	-	ekonomia soziala, langileen partaidetza
+EHB-16-05	G21,G17	ez	ez	ez	ez	1	0	-	-	ZEHARKA: nekazaritza-politika propioa [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-16-06	G21,G17	ez	ez	ez	ez	1	0	-	-	ZEHARKA: arrantza-politika propioa [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-17-01	G21,G09	zabaldu	ez	ez	ez	1	0	-	-	-
+EHB-17-02	G21	ez	ez	ez	ez	1	0	-	-	-
+EHB-17-03	G21,G09	ez	ez	ez	ez	1	0	enpresahandiak=kaltea	-	-
+EHB-17-04	G21,G11	ez	ez	ez	ez	1	0	-	-	-
+EHB-17-05	G12,G17	ez	ez	ez	ez	2	0	-	-	ZEHARKA: trenbide, aireportu eta portuen eskumenak transferitu [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-17-06	G12	ez	ez	ez	handitu	3	0	-	-	AHTaren alternatiba: "plataforma bat, hiru zerbitzu"
+EHB-17-07	G12	ez	ez	ez	handitu	1	0	-	-	-
+EHB-17-08	G12,G11	zabaldu	ez	ez	ez	2	0	prekarioak=onura	-	-
+EHB-17-09	G12,G11	ez	ez	ez	ez	1	0	-	-	-
+EHB-17-10	G12,G17	ez	ez	ez	ez	2	0	-	-	ZEHARKA [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-18-01	G12,G17	ez	ez	ez	ez	2	0	-	-	-
+EHB-18-02	G01,G11	zabaldu	ez	ez	handitu	3	0	prekarioak=onura	-	-
+EHB-18-03	G01,G11	zabaldu	ez	ez	handitu	2	0	prekarioak=onura	-	-
+EHB-18-04	G01,G11	ez	ez	ez	ez	2	0	-	S01=+1	-
+EHB-18-05	G07,G11	ez	ez	igo_handiei	ez	1	0	enpresahandiak=kaltea	-	-
+EHB-18-06	G07,G11	ez	ez	igo_orokorra|igo_handiei	ez	2	0	-	-	-
+EHB-18-07	G07,G11	ez	ez	igo_orokorra	ez	1	0	-	-	-
+EHB-18-08	G07,G11	ez	ez	igo_handiei	ez	2	0	errentaaltuak=kaltea	-	hegaldi pribatuei zerga
+EHB-18-09	G07,G17	ez	ez	ez	ez	2	0	-	-	ZEHARKA: Kontzertua/Hitzarmena errespetatu [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-18-10	G15	ez	ez	ez	ez	0	0	emakumeak=onura	-	-
+EHB-18-11	G15,G04	zabaldu	ez	ez	ez	1	0	emakumeak=onura	-	abortatzeko eskubidea blindatu
+EHB-19-01	G15,G04	ez	ez	ez	ez	2	0	emakumeak=onura	-	-
+EHB-19-02	G15	ez	ez	ez	ez	1	0	-	-	-
+EHB-19-03	G15	ez	ez	ez	ez	1	0	emakumeak=onura	-	-
+EHB-19-04	G15	ez	ez	ez	ez	1	0	emakumeak=onura	-	-
+EHB-19-05	G15	ez	ez	ez	ez	0	0	-	-	-
+EHB-19-06	G15	ez	ez	ez	ez	1	0	emakumeak=onura	-	-
+EHB-19-07	G15	ez	ez	ez	ez	0	0	-	-	-
+EHB-19-08	G15	ez	ez	ez	ez	2	0	-	-	-
+EHB-19-09	G15	ez	ez	ez	ez	0	0	-	-	-
+EHB-19-10	G15,G14	ez	ez	ez	ez	1	0	-	-	-
+EHB-19-11	G15,G04	ez	ez	ez	ez	1	0	-	-	-
+EHB-19-12	G15,G13	ez	ez	ez	ez	2	0	etorkinak=onura	-	-
+EHB-19-13	G13	ez	ez	ez	ez	0	0	etorkinak=onura	-	-
+EHB-20-01	G13	ez	ez	ez	ez	1	0	etorkinak=onura	S06=+2	"Erregularizazio eraginkorra, irisgarria eta egonkorra"
+EHB-20-02	G13	ez	ez	ez	ez	2	0	etorkinak=onura	-	CIEak baztertu; prozedurarik gabeko itzulerei ez
+EHB-20-03	G13,G06	zabaldu	ez	ez	ez	1	0	etorkinak=onura	-	zerbitzu publikoak egoera administratiboa edozein dela ere
+EHB-20-04	G13,G14	ez	ez	ez	ez	1	0	etorkinak=onura	-	-
+EHB-20-05	G13,G22	ez	ez	ez	ez	1	0	etorkinak=onura	-	atzerritar egoiliarren boto-eskubidea
+EHB-20-06	G13	ez	ez	ez	handitu	1	0	etorkinak=onura	-	-
+EHB-20-07	G13,G17	ez	ez	ez	ez	1	0	-	-	ZEHARKA: migrazio-eskumenak transferitu [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-20-08	G10	ez	ez	ez	ez	0	0	-	-	-
+EHB-20-09	G10	ez	ez	ez	ez	0	0	-	-	-
+EHB-21-01	G10	ez	ez	ez	ez	0	0	-	-	-
+EHB-21-02	G10,G14	ez	ez	ez	ez	1	0	-	-	-
+EHB-21-03	G10	ez	ez	ez	ez	1	0	-	-	-
+EHB-21-04	G10,G02	ez	hobetu	ez	ez	1	0	langileak=onura	S02=+1	AAren onurekin lanaldia murriztu soldata murriztu gabe
+EHB-21-05	G10,G15	ez	ez	ez	ez	1	0	-	-	-
+EHB-21-06	G10,G05	ez	ez	ez	ez	1	0	-	-	-
+EHB-21-07	G10,G16	ez	ez	ez	handitu	2	0	-	-	euskarazko AArako estatu-finantzaketa
+EHB-21-08	G10,G11	ez	ez	ez	ez	1	0	-	-	-
+EHB-21-09	G10,G14	ez	ez	ez	ez	2	0	-	-	-
+EHB-22-01	G14	ez	ez	ez	ez	0	0	-	-	-
+EHB-22-02	G14,G13	ez	ez	ez	ez	2	0	-	-	ASKATASUN ZIBILAK: Mozal Legea; gomazko pilotak debekatu
+EHB-22-03	G14	ez	ez	ez	ez	2	0	-	-	ASKATASUN ZIBILAK: Koroari kritika, erlijio-sentimenduak eta terrorismoaren goraipamena despenalizatu
+EHB-22-04	G14	ez	ez	ez	ez	1	0	-	-	-
+EHB-22-05	G22,G16	ez	ez	ez	ez	1	0	-	-	-
+EHB-23-02	G17,G22	ez	ez	ez	ez	0	0	-	-	-
+EHB-23-03	G17,G22	ez	ez	ez	ez	0	0	-	-	"78ko erregimena"
+EHB-23-04	G17,G22	ez	ez	ez	ez	0	0	-	-	-
+EHB-23-05	G17	ez	ez	ez	ez	0	0	-	-	ZEHARKA [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-23-06	G17	ez	ez	ez	ez	0	0	-	-	-
+EHB-23-07	G17	ez	ez	ez	ez	1	0	-	S08=+2	Estatuaren izaera plurinazionala aitortu
+EHB-23-08	G17	ez	ez	ez	ez	1	0	-	S08=+2	"Euskal Herria nazio gisa errespetatzea eta aitortzea"
+EHB-23-09	G17,G18	ez	ez	ez	ez	1	0	-	S08=+2	gatazkaren izaera politikoa aitortu
+EHB-23-10	G18	ez	ez	ez	ez	1	0	-	S09=+2	"Euskal Herriaren erabakitzeko eskubidea aitortzea"
+EHB-24-01	G17	ez	ez	ez	ez	1	0	-	S08=+2	-
+EHB-24-02	G17,G18	ez	ez	ez	ez	1	0	-	S08=+2	estatus berriaren akordioak errespetatu (aldebikotasuna)
+EHB-24-03	G17	ez	ez	ez	ez	2	0	-	-	Estatutuko eta Hobekuntzako eskumen guztiak transferitu [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-24-04	G17,G03,G13,G02	ez	ez	ez	ez	2	0	-	-	eskumen berriak: migrazioa, Gizarte Segurantza, langabezia, portuak, energia [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-24-05	G17	ez	ez	ez	ez	1	0	-	-	birzentralizazioaren aurka [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-24-06	G17,G07	ez	ez	ez	ez	1	0	-	-	Kontzertua eta Hitzarmena defendatu eta zabaldu; Kupoaren eredu berria [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-25-01	G16	ez	ez	ez	ez	0	0	-	S07=+1	-
+EHB-25-02	G16,G08	ez	ez	ez	ez	2	0	-	S07=+2	Estatuko administrazioan euskara: sarbide-irizpideak aldatu
+EHB-25-03	G16	ez	ez	ez	ez	1	0	-	-	-
+EHB-25-04	G16	ez	ez	ez	ez	0	0	-	-	-
+EHB-25-05	G16,G20	ez	ez	ez	ez	1	0	-	-	euskara ofiziala EBn
+EHB-25-06	G16	ez	ez	ez	ez	0	0	-	-	-
+EHB-25-07	G16	ez	ez	ez	ez	1	0	-	-	-
+EHB-25-08	G16	ez	ez	ez	ez	3	0	-	-	Zinema Funtsaren %15 gaztelania ez diren hizkuntzetarako
+EHB-25-09	G16	ez	ez	ez	ez	1	0	enpresahandiak=kaltea	-	-
+EHB-25-10	G16,G15	ez	ez	ez	ez	1	0	emakumeak=onura;gazteak=onura	-	-
+EHB-26-01	G16,G17	ez	ez	ez	ez	1	0	-	-	ZEHARKA: euskal selekzio ofizialak [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-26-02	G16,G17	ez	ez	ez	ez	1	0	-	-	-
+EHB-27-01	G19	ez	ez	ez	ez	0	0	-	-	-
+EHB-27-02	G19	ez	ez	ez	ez	0	0	-	-	-
+EHB-27-03	G19	ez	ez	ez	ez	0	0	-	-	-
+EHB-27-04	G19	ez	ez	ez	ez	0	0	-	-	-
+EHB-27-05	G19	ez	ez	ez	ez	0	0	-	-	-
+EHB-27-06	G19	ez	ez	ez	ez	2	0	-	-	Memoria Demokratikoaren Legea zabaldu: tortura, gerra zikina…
+EHB-27-07	G19,G22	ez	ez	ez	ez	2	0	-	-	Sekretu Ofizialen Legea indargabetu (Zabalza, Germán, martxoak 3)
+EHB-27-08	G19,G14	ez	ez	ez	ez	2	0	-	S10=+2	"Espetxe-legedi arrunta preso guztiei… salbuespen-neurri guztiei amaiera"
+EHB-27-09	G19,G14	ez	ez	ez	ez	2	0	-	-	-
+EHB-27-10	G14,G17	ez	ez	ez	ez	1	0	-	-	ZEHARKA: Estatuko segurtasun-indarrak EAEtik eta Nafarroatik atera [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+EHB-28-01	G20	ez	ez	ez	ez	0	0	-	-	-
+EHB-28-02	G20	ez	ez	ez	murriztu	1	0	-	-	arma-bidalketei eta NATOren gastu-igoerari uko
+EHB-28-03	G20	ez	ez	ez	ez	0	0	-	-	-
+EHB-28-04	G20	ez	ez	ez	ez	1	0	-	-	NATOri ez
+EHB-28-05	G20	ez	ez	ez	ez	0	0	-	-	-
+EHB-28-06	G20,G21	ez	ez	ez	handitu	2	0	-	-	Bardeako tiro-eremua itxi
+EHB-28-07	G20	ez	ez	ez	ez	2	0	-	-	-
+EHB-28-08	G20	ez	ez	ez	ez	1	0	-	-	-
+EHB-29-01	G20	ez	ez	ez	ez	2	0	-	-	-
+EHB-29-02	G20	ez	ez	ez	ez	2	0	-	-	-
+EHB-29-03	G20	ez	ez	ez	ez	1	0	-	-	-
+EHB-29-04	G20	ez	ez	ez	ez	1	0	-	-	-
+EHB-29-05	G20	ez	ez	ez	ez	0	0	-	-	-

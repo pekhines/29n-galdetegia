@@ -1,0 +1,471 @@
+# Claude-ren sailkapena, kodeketa-liburua v0.3.1 (02-metodologia.md §11). Podemos, 29-N programa "Así de básico: Paz, casa y trabajo".
+id	gaiak	D1	D2	D3	D4	D5	D6	D7	S	oharra
+POD-p004-1a	G09,G99	ez	ez	ez	ez	0	0	-	-	erretorika
+POD-p004-1b	G09,G01,G04	ez	ez	ez	ez	1	0	-	-	diagnostikoa
+POD-p004-1c	G04,G06	ez	ez	ez	ez	1	0	-	-	diagnostikoa
+POD-p004-1d	G09,G10	ez	ez	ez	ez	1	0	-	-	diagnostikoa
+POD-p004-1e	G20,G10	ez	ez	ez	ez	1	0	-	-	diagnostikoa
+POD-p004-1f	G99	ez	ez	ez	ez	0	0	-	-	erretorika
+POD-p006-1	G01	ez	ez	ez	ez	0	0	-	-	izenburua
+POD-p007-1a	G01	ez	ez	ez	ez	0	0	-	-	diagnostikoa
+POD-p007-1b	G01	ez	ez	ez	ez	1	0	-	-	diagnostikoa
+POD-p007-1c	G01	ez	ez	ez	ez	0	0	-	-	erretorika
+POD-001	G01	ez	ez	ez	ez	3	0	-	S01=+2	alokairuak % 40 jaitsi legez, kontratu indarrekoetan ere
+POD-002	G01	zabaldu	ez	ez	ez	2	0	-	S01=+1	alokairu-kontratu mugagabeak
+POD-003	G01	ez	ez	ez	ez	3	0	-	-	bizitzeko ez diren etxebizitzak erostea debekatu
+POD-004	G01	zabaldu	ez	ez	handitu	3	0	enpresahandiak=kaltea	-	>10 etxebizitzako jabe handien erabilera desjabetu
+POD-005	G01	zabaldu	ez	ez	ez	2	0	prekarioak=onura	-	-
+POD-006	G01,G14	ez	ez	ez	ez	2	0	-	-	desokupazio-enpresak legez kanpo
+POD-007	G01	ez	ez	ez	ez	3	0	-	-	pisu turistikoak debekatu
+POD-008	G01	zabaldu	ez	ez	handitu	3	0	-	S01=+2	inmobiliaria publikoa: errenta ≤ udal-errenta ertainaren % 30
+POD-009	G01	zabaldu	ez	ez	handitu	2	0	-	-	-
+POD-010	G01,G07	ez	ez	igo_handiei	ez	0	0	-	-	erreferentzia
+POD-011	G01,G07	ez	ez	igo_handiei	ez	0	0	-	-	erreferentzia
+POD-012	G01,G07	ez	ez	igo_handiei	ez	0	0	-	-	erreferentzia
+POD-013	G01,G07	ez	ez	igo_handiei	ez	0	0	-	-	erreferentzia
+POD-014	G01,G07	ez	ez	igo_orokorra	ez	0	0	-	-	erreferentzia
+POD-015	G01	ez	ez	ez	ez	2	0	-	S01=+2	denboraldiko eta logelako alokairuak arautu
+POD-016	G01	zabaldu	ez	ez	handitu	3	0	-	-	-
+POD-017	G01	mantendu	ez	ez	ez	2	0	-	-	-
+POD-018	G01	mantendu	ez	ez	ez	2	0	-	-	-
+POD-019	G01,G11,G09	zabaldu	ez	ez	handitu	2	0	-	-	-
+POD-020	G01	ez	ez	ez	ez	2	0	-	-	maizter-sindikatuak aitortu
+POD-021	G01,G15,G13	ez	ez	ez	ez	2	0	etorkinak=onura	-	-
+POD-022	G01	ez	ez	ez	ez	2	0	-	-	-
+POD-023	G01,G09	zabaldu	ez	igo_handiei	ez	3	1	enpresahandiak=kaltea	-	bankuek % 0,15eko funtsa; ordainean ematea
+POD-024	G01,G09	zabaldu	ez	ez	ez	3	1	-	-	-
+POD-025	G01	zabaldu	ez	ez	ez	2	0	-	-	-
+POD-026	G01,G06	zabaldu	ez	ez	ez	1	0	emakumeak=onura	-	-
+POD-027	G09	zabaldu	ez	ez	ez	2	0	prekarioak=onura	-	-
+POD-028	G09	zabaldu	ez	ez	handitu	3	0	prekarioak=onura	-	300 €-ko energia-txekea
+POD-029	G09	zabaldu	ez	ez	handitu	3	0	prekarioak=onura	-	-
+POD-p016-1a	G09	ez	ez	ez	ez	1	0	-	-	diagnostikoa
+POD-p016-1b	G09,G10	ez	ez	ez	ez	1	0	-	-	diagnostikoa
+POD-p016-1c	G09	ez	ez	ez	ez	0	0	-	-	-
+POD-030	G07	ez	ez	igo_handiei	ez	3	0	errentaaltuak=kaltea	S04=+2	fortuna handien zerga iraunkorra
+POD-031	G07	ez	ez	igo_handiei	ez	3	0	enpresahandiak=kaltea	S04=+2	bankuen eta elektrikoen zerga iraunkorra
+POD-032	G10	ez	ez	ez	ez	1	0	-	-	-
+POD-033	G10	ez	ez	ez	ez	2	0	-	-	banka publikoa
+POD-034	G09,G10	ez	ez	ez	ez	1	0	-	-	supermerkatu-sare publikoa
+POD-035	G09	ez	ez	ez	ez	2	0	enpresahandiak=kaltea	-	-
+POD-036	G11,G10	ez	ez	ez	ez	2	0	-	-	-
+POD-037	G11,G10	ez	ez	ez	handitu	2	0	enpresahandiak=kaltea	-	Repsol nazionalizatu
+POD-038	G09	ez	ez	ez	ez	3	0	-	-	-
+POD-039	G09,G11	ez	ez	ez	ez	2	0	enpresahandiak=kaltea	-	-
+POD-040	G12,G09	zabaldu	ez	igo_handiei	handitu	2	1	-	-	garraio publiko osoa doan
+POD-041	G07,G11	ez	ez	igo_handiei	ez	3	1	enpresahandiak=kaltea;errentaaltuak=kaltea	-	-
+POD-042	G07	ez	ez	jaitsi_orokorra	ez	3	0	autonomoak=onura	-	-
+POD-043	G07	zabaldu	ez	jaitsi_orokorra	ez	2	0	-	-	-
+POD-044	G07,G16	ez	ez	jaitsi_orokorra	ez	3	0	-	-	-
+POD-045	G07,G15	ez	ez	jaitsi_orokorra	ez	3	0	emakumeak=onura	-	-
+POD-046	G06	zabaldu	ez	ez	ez	3	0	prekarioak=onura	-	IPREM 700 €, KPIari lotua
+POD-047	G07	ez	ez	igo_handiei	ez	3	0	enpresahandiak=kaltea	S04=+2	Sozietate Zerga: gutxieneko tipoa % 19; oligopolioak % 29/35
+POD-048	G07	ez	ez	igo_handiei	ez	3	0	errentaaltuak=kaltea	S04=+2	IRPF: 60.000 €tik gora tipoak igo; SMItik behera zergarik ez
+POD-049	G07	ez	ez	igo_handiei	ez	2	0	errentaaltuak=kaltea	-	-
+POD-050	G07,G03	ez	ez	igo_handiei	ez	2	0	-	-	pentsio-plan pribatuen kenkariak kendu
+POD-051	G07	ez	ez	igo_handiei	ez	2	0	-	-	-
+POD-052	G07	ez	ez	igo_orokorra	ez	2	0	-	-	-
+POD-053	G07,G01	ez	ez	igo_orokorra	ez	3	0	-	-	-
+POD-054	G07,G01	ez	ez	igo_handiei	ez	3	0	-	-	-
+POD-055	G07,G01	ez	ez	igo_handiei	ez	2	0	-	-	-
+POD-056	G07,G01	ez	ez	igo_handiei	ez	2	0	enpresahandiak=kaltea	-	-
+POD-057	G07,G01	ez	ez	igo_handiei	ez	2	0	enpresahandiak=kaltea	-	SOCIMIen araubidea kendu
+POD-058	G07,G01	ez	ez	igo_handiei	ez	1	0	-	-	-
+POD-059	G07,G01	ez	ez	igo_handiei	ez	1	0	-	-	-
+POD-060	G07,G08	ez	ez	ez	handitu	2	0	-	-	-
+POD-061	G07,G08	ez	ez	ez	ez	2	0	-	-	-
+POD-062	G08	mantendu	ez	ez	handitu	2	0	-	-	135. artikuluaren erreforma indargabetu
+POD-063	G07	ez	ez	igo_handiei	ez	1	0	autonomoak=onura;enpresahandiak=kaltea	-	-
+POD-064	G07,G02	ez	ez	igo_handiei	ez	2	0	autonomoak=onura	-	-
+POD-065	G07	ez	ez	jaitsi_orokorra	ez	2	0	autonomoak=onura	-	-
+POD-066	G08,G10	ez	ez	ez	berrantolatu	1	0	autonomoak=onura	-	-
+POD-067	G10	ez	ez	ez	ez	1	0	autonomoak=onura	-	-
+POD-068	G10,G02	ez	hobetu	ez	handitu	2	0	langileak=onura	-	-
+POD-069	G02,G10	ez	hobetu	ez	ez	1	0	prekarioak=onura	-	-
+POD-p026-1a	G20	ez	ez	ez	ez	0	0	-	-	diagnostikoa
+POD-p026-1b	G20	ez	ez	ez	ez	0	0	-	-	diagnostikoa
+POD-p026-1c	G20	ez	ez	ez	ez	1	0	-	-	diagnostikoa
+POD-p026-1d	G20	ez	ez	ez	ez	0	0	-	-	-
+POD-070	G20	ez	ez	ez	ez	2	0	-	-	NATOtik atera; Rota eta Morón itxi
+POD-071	G20,G22	ez	ez	ez	ez	2	0	-	-	-
+POD-072	G20,G08	ez	ez	ez	berrantolatu	2	0	-	-	berrarmatzea atzera bota gizarte-gastura
+POD-073	G20	ez	ez	ez	ez	2	0	-	-	-
+POD-074	G20,G08	ez	ez	ez	ez	2	0	-	-	-
+POD-075	G20,G08	ez	ez	ez	ez	1	0	-	-	-
+POD-076	G20	ez	ez	ez	ez	2	0	-	-	-
+POD-077	G20,G15	ez	ez	ez	ez	1	0	-	-	-
+POD-078	G20	ez	ez	ez	ez	2	0	-	-	-
+POD-079	G20	ez	ez	ez	ez	1	0	-	-	-
+POD-080	G20	ez	ez	ez	ez	0	0	-	-	-
+POD-081	G20,G13	ez	ez	ez	ez	0	0	-	-	-
+POD-082	G20	ez	ez	ez	ez	1	0	-	-	-
+POD-083	G20	ez	ez	ez	ez	1	0	-	-	-
+POD-084	G20	ez	ez	ez	ez	1	0	-	-	-
+POD-085	G20	ez	ez	ez	ez	0	0	-	-	-
+POD-086	G13,G20	ez	ez	ez	ez	2	0	etorkinak=onura	-	EBko Migrazio eta Asilo Ituna indargabetu
+POD-087	G13,G14	ez	ez	ez	ez	1	0	etorkinak=onura	-	-
+POD-088	G13	zabaldu	ez	ez	ez	2	0	etorkinak=onura	S06=+1	bide legalak; errotzea malgutu; lan bila aritzeko bisa
+POD-089	G13,G20	ez	ez	ez	handitu	2	0	etorkinak=onura	-	Frontex desagerrarazi
+POD-090	G13,G20	ez	ez	ez	ez	2	0	etorkinak=onura	-	-
+POD-091	G13,G11	ez	ez	ez	ez	0	0	-	-	-
+POD-092	G20	ez	ez	ez	ez	1	0	-	-	-
+POD-093	G20	ez	ez	ez	ez	1	0	-	-	-
+POD-094	G20	ez	ez	ez	ez	2	0	-	-	Israelekin harremanak eten
+POD-095	G20	ez	ez	ez	ez	2	0	-	-	-
+POD-096	G20	ez	ez	ez	ez	1	0	-	-	Palestinaren autodeterminazioa (nazioartekoa, ez S09)
+POD-097	G20,G14	ez	ez	ez	ez	1	0	-	-	-
+POD-098	G20	ez	ez	ez	handitu	1	0	-	-	-
+POD-099	G20,G14	ez	ez	ez	ez	1	0	-	-	-
+POD-100	G20	ez	ez	ez	ez	2	0	-	-	Saharako erreferenduma (nazioartekoa, ez S09)
+POD-101	G20	ez	ez	ez	handitu	1	0	-	-	-
+POD-102	G20	ez	ez	ez	ez	2	0	-	-	-
+POD-103	G20,G13	ez	ez	ez	ez	2	0	-	-	-
+POD-104	G13,G20	ez	ez	ez	handitu	2	0	etorkinak=onura	-	-
+POD-105	G20,G07	ez	ez	igo_handiei	ez	1	0	errentaaltuak=kaltea	-	gutxieneko zerga globala milmilioidunei; Tobin tasa
+POD-106	G20,G21	ez	ez	ez	ez	1	0	-	-	-
+POD-107	G20	ez	ez	ez	ez	0	0	-	-	-
+POD-108	G20	ez	ez	ez	handitu	1	0	-	-	-
+POD-109	G20	ez	ez	ez	ez	1	0	-	-	-
+POD-110	G20,G14	ez	ez	ez	ez	0	0	-	-	-
+POD-p040-1a	G02	ez	ez	ez	ez	1	0	-	-	diagnostikoa
+POD-p040-1b	G02	ez	ez	ez	ez	1	0	-	-	diagnostikoa
+POD-p040-1c	G02	ez	ez	ez	ez	0	0	langileak=onura	-	erretorika
+POD-111	G02	ez	hobetu	ez	ez	3	0	langileak=onura;prekarioak=onura	-	SMI 1.800 €; ≥ soldata medianaren % 75
+POD-112	G02,G09	ez	hobetu	ez	ez	2	0	langileak=onura	-	soldatak bizi-kostuaren arabera automatikoki
+POD-113	G02	ez	hobetu	ez	ez	3	0	langileak=onura	S02=+2	30 orduko lanaldia (35etik hasita), soldata murriztu gabe
+POD-114	G02,G08	ez	hobetu	ez	ez	2	0	prekarioak=onura	-	-
+POD-115	G03	zabaldu	ez	ez	handitu	2	0	pentsiodunak=onura	-	-
+POD-116	G03	zabaldu	ez	ez	handitu	3	0	pentsiodunak=onura;langileak=onura	-	erretiro-adin arrunta 63 urtera
+POD-117	G02	ez	hobetu	ez	ez	1	0	langileak=onura	-	2010 eta 2012ko lan-erreformak indargabetu
+POD-118	G02	ez	hobetu	ez	ez	3	0	langileak=onura	-	45 eguneko kalte-ordaina; berronartzea aukeratu
+POD-119	G02	ez	hobetu	ez	ez	2	0	langileak=onura	-	-
+POD-120	G02	ez	hobetu	ez	ez	2	0	prekarioak=onura	-	-
+POD-121	G02	ez	hobetu	ez	ez	2	0	prekarioak=onura;emakumeak=onura	-	Kellys Legea
+POD-122	G02,G06	zabaldu	ez	ez	ez	3	0	prekarioak=onura	-	-
+POD-123	G02	ez	hobetu	ez	ez	2	0	langileak=onura	-	-
+POD-124	G02,G14	ez	hobetu	ez	ez	2	0	langileak=onura	-	-
+POD-125	G02,G15	ez	hobetu	ez	ez	1	0	emakumeak=onura	-	-
+POD-126	G03,G07	ez	ez	igo_handiei	ez	2	0	errentaaltuak=kaltea	-	gehienezko kotizazio-oinarria kendu
+POD-127	G03	zabaldu	ez	ez	handitu	3	0	pentsiodunak=onura	S05=+1	gutxieneko pentsioa = SMI (KPIa baino gehiago, baina ez du KPIa aipatzen)
+POD-128	G03,G08	ez	ez	ez	ez	2	0	-	-	-
+POD-129	G03	zabaldu	ez	ez	ez	2	0	pentsiodunak=onura;autonomoak=onura	-	-
+POD-130	G03,G02	zabaldu	ez	ez	ez	1	0	langileak=onura	-	-
+POD-131	G03,G15	zabaldu	ez	ez	ez	0	0	emakumeak=onura;pentsiodunak=onura	-	-
+POD-132	G03	zabaldu	ez	ez	ez	2	0	pentsiodunak=onura	-	-
+POD-133	G03,G08	ez	ez	ez	berrantolatu	2	0	-	-	mutuak sistema publikoan integratu
+POD-134	G02,G05	ez	hobetu	ez	ez	2	0	gazteak=onura	-	-
+POD-135	G06	zabaldu	ez	ez	handitu	1	0	-	-	errenta unibertsal baldintzarik gabea
+POD-136	G02,G11	ez	hobetu	ez	ez	3	0	langileak=onura	-	-
+POD-137	G06	zabaldu	ez	ez	handitu	3	0	emakumeak=onura	-	-
+POD-138	G02,G15	ez	hobetu	ez	ez	2	0	emakumeak=onura	-	-
+POD-139	G02,G15	ez	hobetu	ez	ez	1	0	emakumeak=onura	-	-
+POD-140	G02,G06	ez	hobetu	ez	ez	0	0	-	-	-
+POD-141	G02,G21	zabaldu	hobetu	ez	handitu	3	0	prekarioak=onura	-	-
+POD-142	G12,G02	ez	hobetu	ez	ez	2	0	autonomoak=onura	-	-
+POD-143	G16,G02	zabaldu	hobetu	ez	ez	2	0	-	-	-
+POD-144	G16	ez	ez	jaitsi_orokorra	ez	0	0	-	-	-
+POD-p050-1a	G08,G04	ez	ez	ez	ez	0	0	-	-	diagnostikoa
+POD-p050-1b	G08,G15	ez	ez	ez	ez	0	0	-	-	diagnostikoa
+POD-p050-1c	G99	ez	ez	ez	ez	0	0	-	-	erretorika
+POD-145	G15	zabaldu	ez	ez	handitu	3	0	emakumeak=onura	-	-
+POD-146	G15,G04	zabaldu	ez	ez	ez	2	0	emakumeak=onura	-	abortua Konstituzioan
+POD-147	G15,G14	ez	ez	ez	ez	1	0	-	-	-
+POD-148	G15	zabaldu	ez	ez	handitu	1	0	emakumeak=onura	-	-
+POD-149	G15,G06	zabaldu	ez	ez	handitu	1	0	-	-	-
+POD-150	G15	zabaldu	ez	ez	ez	2	0	-	-	LGTBIQA+: genero ez-bitarra, trans kupoa
+POD-151	G15,G06	zabaldu	ez	ez	handitu	3	0	emakumeak=onura	-	-
+POD-152	G15,G02	zabaldu	hobetu	ez	ez	1	0	emakumeak=onura	-	-
+POD-153	G15	ez	ez	ez	ez	0	0	-	-	-
+POD-154	G15	zabaldu	ez	ez	handitu	2	0	emakumeak=onura;etorkinak=onura	-	-
+POD-155	G15,G22	ez	ez	ez	ez	2	0	emakumeak=onura	-	-
+POD-156	G15,G22	zabaldu	ez	ez	ez	2	0	emakumeak=onura	-	-
+POD-157	G15	ez	ez	ez	ez	0	0	emakumeak=onura	-	-
+POD-158	G15,G13	zabaldu	ez	ez	ez	1	0	emakumeak=onura;etorkinak=onura	-	-
+POD-159	G13,G15	zabaldu	ez	ez	ez	1	0	emakumeak=onura;etorkinak=onura	-	-
+POD-160	G15	zabaldu	ez	ez	handitu	1	0	emakumeak=onura	-	-
+POD-161	G15,G22	ez	ez	ez	ez	1	0	-	-	-
+POD-162	G15,G14	ez	ez	ez	ez	1	0	emakumeak=onura	-	-
+POD-163	G15	zabaldu	ez	ez	ez	1	0	emakumeak=onura	-	-
+POD-164	G15,G04	zabaldu	ez	ez	ez	1	0	emakumeak=onura	-	-
+POD-165	G15,G04	zabaldu	ez	ez	ez	1	0	emakumeak=onura	-	-
+POD-166	G15,G04	zabaldu	ez	ez	ez	2	0	emakumeak=onura	-	-
+POD-167	G15,G04	zabaldu	ez	ez	handitu	2	0	emakumeak=onura	-	-
+POD-168	G15	ez	ez	ez	ez	1	0	-	-	-
+POD-169	G15	ez	ez	ez	ez	0	0	-	-	-
+POD-170	G15,G22	zabaldu	ez	ez	ez	1	0	emakumeak=onura	-	-
+POD-171	G15,G02	ez	hobetu	ez	ez	1	0	-	-	-
+POD-172	G15,G22	ez	ez	ez	ez	1	0	emakumeak=onura	-	-
+POD-173	G15,G22	zabaldu	ez	ez	handitu	1	0	-	-	-
+POD-174	G15,G06	zabaldu	ez	ez	ez	1	0	-	-	-
+POD-175	G15,G06	zabaldu	ez	ez	handitu	1	0	emakumeak=onura	-	-
+POD-176	G06,G12	zabaldu	ez	ez	handitu	3	1	-	-	irisgarritasun-funtsa: obra publikoen % 1
+POD-177	G06,G04	zabaldu	ez	ez	handitu	1	0	-	-	-
+POD-178	G06,G02	zabaldu	hobetu	ez	handitu	3	0	langileak=onura;emakumeak=onura	-	jaiotza-baimena 26 aste
+POD-179	G06	zabaldu	ez	ez	handitu	3	0	-	-	hazkuntza-prestazioa 21 urtera (SMIaren % 15)
+POD-180	G06,G02	zabaldu	hobetu	ez	handitu	3	0	langileak=onura	-	-
+POD-181	G06,G02	zabaldu	hobetu	ez	ez	3	0	langileak=onura	-	-
+POD-182	G06	zabaldu	ez	ez	ez	0	0	-	-	-
+POD-183	G06,G02	zabaldu	hobetu	ez	ez	3	0	langileak=onura	-	-
+POD-184	G06,G02	zabaldu	hobetu	ez	ez	2	0	langileak=onura	-	-
+POD-185	G06,G15	zabaldu	ez	ez	ez	2	0	emakumeak=onura	-	-
+POD-186	G02	ez	hobetu	ez	ez	3	0	langileak=onura	-	-
+POD-187	G06,G15	zabaldu	ez	ez	ez	2	0	emakumeak=onura	-	-
+POD-188	G06	zabaldu	ez	ez	ez	1	0	-	-	-
+POD-189	G06,G02	zabaldu	hobetu	ez	ez	1	0	-	-	-
+POD-190	G06	zabaldu	ez	ez	handitu	2	0	-	-	Zaintza Sistema Estatala, laugarren zutabea
+POD-191	G06,G02	ez	hobetu	ez	ez	1	0	-	-	-
+POD-192	G06	zabaldu	ez	ez	handitu	2	0	emakumeak=onura	-	-
+POD-193	G06,G02	zabaldu	hobetu	ez	ez	3	0	langileak=onura	-	zaintzaileen soldata ≥ 1,5 × SMI
+POD-194	G06,G15	ez	ez	ez	ez	0	0	-	-	-
+POD-195	G06,G08	ez	ez	ez	handitu	1	0	-	-	-
+POD-196	G06,G08	zabaldu	ez	ez	berrantolatu	3	0	enpresahandiak=kaltea	-	egoitzak desprivatizatu: % 100 kudeaketa publiko zuzena; itun berririk ez
+POD-197	G06	zabaldu	ez	ez	handitu	1	0	-	-	-
+POD-198	G06,G02	zabaldu	hobetu	ez	handitu	1	0	-	-	-
+POD-199	G06	zabaldu	ez	ez	ez	0	0	-	-	-
+POD-200	G06	ez	ez	ez	ez	2	0	-	-	-
+POD-201	G06,G22	ez	ez	ez	ez	1	0	pentsiodunak=onura	-	-
+POD-202	G06	zabaldu	ez	ez	ez	1	0	pentsiodunak=onura	-	-
+POD-203	G04,G06	zabaldu	ez	ez	handitu	1	0	gazteak=onura	-	-
+POD-204	G06,G21	zabaldu	ez	ez	handitu	1	0	pentsiodunak=onura	-	-
+POD-205	G13	zabaldu	ez	ez	ez	2	0	etorkinak=onura	S06=+2	Atzerritarren Legea indargabetu; adingabe bakarrik etorritakoak erregularizatu
+POD-206	G13,G14	ez	ez	ez	ez	3	0	etorkinak=onura	-	CIEak itxi
+POD-207	G13,G22	zabaldu	ez	ez	handitu	2	0	etorkinak=onura	-	"Espainian bizi eta lan egiten duenak NANa eta botoa"
+POD-208	G13	ez	ez	ez	ez	3	0	etorkinak=onura	-	ius soli
+POD-209	G13,G14	ez	ez	ez	ez	1	0	etorkinak=onura	-	-
+POD-210	G13	zabaldu	ez	ez	ez	2	0	etorkinak=onura	S06=+2	erregularizazio-prozedura iraunkorra
+POD-211	G13	zabaldu	ez	ez	ez	2	0	etorkinak=onura	S06=+2	errotzea frogabide zabalagoekin (2026ko aparteko erregularizazioaren eredua)
+POD-212	G13	ez	ez	ez	ez	2	0	etorkinak=onura	-	-
+POD-213	G13,G08	ez	ez	ez	handitu	2	0	-	-	-
+POD-214	G14,G13	ez	ez	ez	ez	1	0	-	-	-
+POD-215	G05,G13	zabaldu	ez	ez	ez	2	0	etorkinak=onura	-	-
+POD-216	G04,G13	zabaldu	ez	ez	ez	2	0	etorkinak=onura	-	-
+POD-217	G13,G02	ez	hobetu	ez	ez	1	0	etorkinak=onura	-	-
+POD-218	G13,G06	zabaldu	ez	ez	ez	2	0	etorkinak=onura;emakumeak=onura	-	-
+POD-219	G13,G06	zabaldu	ez	ez	handitu	2	0	etorkinak=onura	-	-
+POD-220	G13	ez	ez	ez	ez	2	0	etorkinak=onura	-	-
+POD-221	G13,G06	zabaldu	ez	ez	handitu	1	0	etorkinak=onura	-	-
+POD-222	G13,G22	ez	ez	ez	ez	1	0	etorkinak=onura	-	-
+POD-223	G13,G08	ez	ez	ez	ez	1	0	-	-	-
+POD-224	G13,G14	ez	ez	ez	ez	1	0	-	-	-
+POD-225	G15,G16,G05	ez	ez	ez	ez	1	0	-	-	-
+POD-226	G01	zabaldu	ez	ez	handitu	1	0	-	-	-
+POD-227	G01,G09	zabaldu	ez	ez	ez	1	0	-	-	-
+POD-228	G01	ez	ez	ez	ez	0	0	-	-	-
+POD-229	G01,G13	ez	ez	ez	ez	1	0	etorkinak=onura	-	-
+POD-230	G16	ez	ez	ez	handitu	3	0	-	-	Kultura-partida bikoiztu
+POD-231	G16	zabaldu	ez	ez	ez	1	0	-	-	-
+POD-232	G16	ez	ez	ez	ez	1	0	-	-	-
+POD-233	G16	ez	ez	ez	ez	0	0	-	-	-
+POD-234	G16	zabaldu	ez	ez	ez	2	0	-	-	-
+POD-235	G16,G21	ez	ez	ez	ez	1	0	-	-	-
+POD-236	G16	ez	ez	ez	ez	0	0	-	-	-
+POD-237	G16	ez	ez	ez	ez	1	0	-	-	-
+POD-238	G16	ez	ez	ez	handitu	1	0	-	-	-
+POD-239	G16,G15	ez	ez	ez	ez	2	0	gazteak=onura	-	-
+POD-240	G16	ez	ez	ez	ez	1	0	-	-	-
+POD-241	G16	ez	ez	ez	handitu	1	0	-	-	-
+POD-242	G16	ez	ez	ez	handitu	1	0	-	-	-
+POD-243	G16,G05	ez	ez	ez	ez	0	0	-	-	-
+POD-244	G16,G02	ez	hobetu	ez	ez	1	0	-	-	-
+POD-245	G16,G10	ez	ez	ez	ez	0	0	-	-	-
+POD-246	G16	ez	ez	ez	ez	1	0	-	-	-
+POD-247	G16	ez	ez	ez	ez	1	0	-	-	-
+POD-248	G16,G15	ez	ez	ez	ez	1	0	-	-	-
+POD-249	G16,G15	ez	ez	ez	ez	1	0	-	-	-
+POD-250	G16	ez	ez	ez	ez	0	0	-	-	-
+POD-251	G16	ez	ez	ez	ez	1	0	-	-	-
+POD-252	G16,G02	ez	hobetu	ez	ez	1	0	-	-	-
+POD-253	G16	ez	ez	ez	handitu	1	0	-	-	-
+POD-254	G16	ez	ez	ez	ez	1	0	-	-	-
+POD-255	G16	ez	ez	ez	ez	2	0	-	-	-
+POD-256	G16	ez	ez	ez	ez	1	0	-	-	hizkuntza ofizialentzako pantaila-kuotak
+POD-257	G16,G10	ez	ez	ez	ez	2	0	-	-	-
+POD-258	G16,G20	ez	ez	ez	ez	0	0	-	-	-
+POD-259	G16,G15	ez	ez	ez	ez	1	0	emakumeak=onura	-	-
+POD-260	G16,G15	ez	ez	ez	ez	1	0	-	-	-
+POD-261	G16,G15	ez	ez	ez	ez	1	0	-	-	-
+POD-262	G16	ez	ez	ez	ez	0	0	-	-	-
+POD-263	G16,G11	ez	ez	ez	ez	1	0	-	-	-
+POD-264	G16	ez	ez	ez	ez	1	0	-	-	-
+POD-265	G16,G08	ez	ez	ez	ez	1	0	-	-	-
+POD-266	G16	ez	ez	ez	ez	1	0	-	-	-
+POD-267	G16,G21	ez	ez	ez	handitu	1	0	-	-	-
+POD-268	G03,G16	zabaldu	ez	ez	ez	2	0	-	-	-
+POD-269	G16	ez	ez	ez	ez	1	0	-	-	-
+POD-270	G16	ez	ez	ez	ez	1	0	-	-	-
+POD-271	G16	ez	ez	ez	handitu	1	0	-	-	-
+POD-272	G16,G02	ez	hobetu	ez	ez	2	0	-	-	-
+POD-273	G16,G03	zabaldu	ez	ez	handitu	2	0	-	-	-
+POD-274	G16	ez	ez	ez	ez	0	0	-	-	-
+POD-275	G16,G15	ez	ez	ez	ez	1	0	-	-	-
+POD-276	G16	ez	ez	ez	ez	2	0	-	-	-
+POD-277	G16	ez	ez	ez	ez	0	0	-	-	-
+POD-278	G05,G02	zabaldu	hobetu	ez	handitu	2	0	langileak=onura	-	-
+POD-279	G05,G08	zabaldu	ez	ez	berrantolatu	2	0	-	-	hezkuntza desprivatizatu: itun berririk ez; itunpekoak sare publikoan txertatu
+POD-280	G05	zabaldu	ez	ez	handitu	3	0	-	-	ratioak: Lehen Hezkuntzan 15, DBHn 20
+POD-281	G05	zabaldu	ez	ez	handitu	3	1	-	-	hezkuntza: BPGaren % 7; 0-3 doan eta publikoa
+POD-282	G05,G02	ez	hobetu	ez	handitu	3	0	langileak=onura	-	irakaskuntza publikoan soldatak +% 30
+POD-283	G05,G02	ez	hobetu	ez	handitu	3	0	langileak=onura	-	-
+POD-284	G05,G02	ez	hobetu	ez	ez	1	0	-	-	-
+POD-285	G05,G08	ez	ez	ez	handitu	1	0	-	-	-
+POD-286	G05	zabaldu	ez	ez	handitu	2	0	-	-	-
+POD-287	G05	zabaldu	ez	ez	handitu	3	0	-	-	-
+POD-288	G05	ez	ez	ez	ez	2	0	-	-	erlijio-irakasgaia kendu
+POD-289	G05,G15	zabaldu	ez	ez	ez	1	0	-	-	-
+POD-290	G05,G06	zabaldu	ez	ez	ez	1	0	-	-	-
+POD-291	G05,G11	ez	ez	ez	handitu	2	0	-	-	-
+POD-292	G05,G16	ez	ez	ez	ez	1	0	-	-	hizkuntza koofizialak irakasteko eskaintza bermatu (hezkuntza; ez S07)
+POD-293	G05	zabaldu	ez	ez	handitu	1	0	-	-	-
+POD-294	G05	zabaldu	ez	ez	handitu	3	0	gazteak=onura	-	unibertsitate publikoa doan; beka-soldata 800 €
+POD-295	G05,G14	ez	ez	ez	ez	0	0	-	-	-
+POD-296	G05	ez	ez	ez	ez	2	0	-	-	unibertsitate pribatu berriei moratoria
+POD-297	G05,G02	ez	hobetu	ez	handitu	3	0	-	-	-
+POD-298	G05,G10	ez	ez	ez	handitu	3	0	-	-	zientzia BPGaren % 2
+POD-299	G05,G15	zabaldu	ez	ez	handitu	2	0	-	-	-
+POD-300	G04	zabaldu	ez	ez	berrantolatu	3	0	enpresahandiak=kaltea	S03=+2	15/1997 Legea indargabetu; kudeaketa publiko zuzena derrigorrezko
+POD-301	G04,G10	ez	ez	ez	handitu	2	0	-	-	-
+POD-302	G04	zabaldu	ez	ez	handitu	3	1	-	S03=+2	2.900 €/biztanle (BPGaren ~% 8); kudeaketa zuzenari soilik
+POD-303	G04,G02	zabaldu	hobetu	ez	handitu	3	0	langileak=onura	-	-
+POD-304	G04	zabaldu	ez	ez	handitu	1	0	-	-	-
+POD-305	G04	zabaldu	ez	ez	handitu	3	0	-	-	Lehen Mailako Arreta: 48 orduko hitzordua
+POD-306	G04	zabaldu	ez	ez	handitu	3	0	-	-	-
+POD-307	G04,G13	zabaldu	ez	ez	handitu	2	0	etorkinak=onura	-	-
+POD-308	G04,G02	ez	hobetu	ez	ez	2	0	langileak=onura	-	-
+POD-309	G04	zabaldu	ez	ez	ez	1	0	-	-	-
+POD-310	G04,G22	ez	ez	ez	ez	1	0	-	-	-
+POD-311	G04,G22	ez	ez	ez	ez	1	0	-	-	-
+POD-312	G04,G15	zabaldu	ez	ez	ez	1	0	-	-	-
+POD-313	G04	zabaldu	ez	ez	handitu	1	0	-	-	eutanasia bermatu
+POD-314	G11	ez	ez	ez	handitu	1	0	-	-	-
+POD-315	G11,G20	ez	ez	ez	ez	1	0	-	-	-
+POD-316	G11	ez	ez	ez	ez	3	0	-	-	-
+POD-317	G11,G08	ez	ez	ez	berrantolatu	1	0	-	-	-
+POD-318	G11	ez	ez	ez	handitu	1	0	-	-	-
+POD-319	G11,G04	ez	ez	ez	handitu	2	0	-	-	-
+POD-320	G11,G05,G04	zabaldu	ez	ez	handitu	2	0	-	-	-
+POD-321	G11,G06	zabaldu	ez	ez	ez	1	0	pentsiodunak=onura	-	-
+POD-322	G02,G11	ez	hobetu	ez	ez	3	0	langileak=onura	-	beroaldietan kanpoko lana debekatu 12-18, soldata galdu gabe
+POD-323	G11	zabaldu	ez	ez	handitu	2	0	-	-	-
+POD-324	G11	ez	ez	ez	ez	0	0	-	-	-
+POD-325	G11,G21	ez	ez	ez	handitu	0	0	-	-	-
+POD-326	G11	ez	ez	ez	ez	2	0	-	-	-
+POD-327	G11,G21	ez	ez	ez	ez	2	0	-	-	-
+POD-328	G11,G02	ez	hobetu	ez	ez	3	0	langileak=onura	-	% 95 elektrizitate berriztagarria 2035ean
+POD-329	G11,G10	ez	ez	ez	handitu	2	0	-	-	-
+POD-330	G11	ez	ez	ez	ez	1	0	-	-	-
+POD-331	G11,G09,G01	zabaldu	ez	ez	handitu	2	0	prekarioak=onura	-	-
+POD-332	G11,G21	ez	ez	ez	handitu	1	0	-	-	-
+POD-333	G11,G21	ez	ez	ez	ez	3	0	-	-	-
+POD-334	G11,G10	ez	ez	ez	ez	1	0	-	-	-
+POD-335	G11	ez	ez	ez	ez	0	0	-	-	-
+POD-336	G11,G12	ez	ez	ez	ez	0	0	-	-	-
+POD-337	G11,G10	ez	ez	ez	ez	0	0	-	-	-
+POD-338	G11,G10	ez	ez	ez	ez	1	0	enpresahandiak=kaltea	-	-
+POD-339	G11,G02	ez	ez	ez	ez	2	0	-	-	nuklearren itxiera-egutegia bete
+POD-340	G12,G11	ez	ez	ez	berrantolatu	2	0	-	-	-
+POD-341	G12,G11,G07	ez	ez	igo_handiei	ez	2	0	errentaaltuak=kaltea	-	-
+POD-342	G12,G11	ez	ez	ez	handitu	1	0	-	-	-
+POD-343	G12	ez	ez	ez	handitu	3	0	-	-	trenbide-inbertsioa 5.000tik 20.000 M€-ra urtean
+POD-344	G12	ez	ez	ez	handitu	1	0	-	-	-
+POD-345	G12,G08	ez	ez	ez	handitu	2	0	-	-	trenbidea birnazionalizatu
+POD-346	G12	ez	ez	ez	ez	3	0	-	-	-
+POD-347	G12	ez	ez	ez	ez	1	0	-	-	-
+POD-348	G12,G21	ez	ez	ez	handitu	1	0	-	-	-
+POD-349	G12,G02	ez	hobetu	ez	ez	1	0	-	-	-
+POD-350	G12	ez	ez	ez	handitu	1	0	-	-	-
+POD-351	G12,G02	ez	hobetu	ez	berrantolatu	2	0	-	-	-
+POD-352	G12,G21	ez	ez	ez	handitu	1	0	-	-	-
+POD-353	G12,G21	zabaldu	ez	ez	handitu	1	0	-	-	-
+POD-354	G12	ez	ez	ez	ez	1	0	-	-	-
+POD-355	G12,G02	ez	ez	ez	ez	2	0	autonomoak=onura	-	-
+POD-356	G12	ez	ez	ez	ez	1	0	-	-	-
+POD-357	G11	ez	ez	ez	handitu	1	0	-	-	-
+POD-358	G21,G11	ez	ez	ez	ez	2	0	enpresahandiak=kaltea	-	-
+POD-359	G11	ez	ez	ez	handitu	1	0	-	-	-
+POD-360	G11,G01	ez	ez	ez	ez	2	0	-	-	-
+POD-361	G11,G21	ez	ez	ez	handitu	1	0	-	-	-
+POD-362	G21	ez	ez	ez	ez	1	0	gazteak=onura;emakumeak=onura	-	-
+POD-363	G21,G20	ez	ez	ez	berrantolatu	1	0	-	-	-
+POD-364	G21,G11	ez	ez	ez	ez	1	0	enpresahandiak=kaltea	-	-
+POD-365	G21,G11	ez	ez	ez	handitu	1	0	-	-	-
+POD-366	G21,G02	ez	hobetu	ez	ez	1	0	etorkinak=onura;prekarioak=onura	-	-
+POD-367	G11,G21	ez	ez	ez	ez	1	0	-	-	-
+POD-368	G21,G09	ez	ez	ez	ez	1	0	enpresahandiak=kaltea	-	-
+POD-369	G21,G08	ez	ez	ez	berrantolatu	1	0	-	-	-
+POD-370	G21,G11	ez	ez	ez	handitu	1	0	-	-	-
+POD-371	G21	ez	ez	ez	ez	1	0	-	-	-
+POD-372	G21,G11	ez	ez	ez	handitu	0	0	-	-	-
+POD-373	G21,G09,G07	ez	ez	jaitsi_orokorra	ez	2	0	-	-	-
+POD-374	G21	ez	ez	ez	handitu	2	0	gazteak=onura	-	-
+POD-375	G21,G15	ez	ez	ez	ez	1	0	emakumeak=onura	-	-
+POD-376	G21,G20	ez	ez	ez	ez	1	0	-	-	-
+POD-377	G21,G11	ez	ez	ez	handitu	0	0	-	-	-
+POD-378	G21,G11	ez	ez	ez	ez	1	0	-	-	-
+POD-379	G21	ez	ez	ez	ez	0	0	-	-	-
+POD-380	G21,G09	ez	ez	ez	ez	0	0	-	-	-
+POD-381	G04,G21,G09	zabaldu	ez	ez	ez	2	0	prekarioak=onura	-	-
+POD-382	G21,G22	ez	ez	ez	ez	1	0	-	-	-
+POD-383	G11	ez	ez	ez	ez	1	0	-	-	-
+POD-384	G11	ez	ez	ez	ez	2	0	-	-	-
+POD-385	G11	ez	ez	ez	ez	1	0	-	-	-
+POD-386	G11	ez	ez	ez	ez	1	0	-	-	-
+POD-387	G11,G02	ez	hobetu	ez	handitu	1	0	-	-	-
+POD-388	G11,G21	ez	ez	ez	handitu	1	0	-	-	-
+POD-389	G11,G08	ez	ez	ez	berrantolatu	2	0	-	-	-
+POD-390	G11,G21	ez	ez	ez	handitu	1	0	-	-	-
+POD-391	G11,G02	ez	hobetu	ez	ez	2	0	-	-	-
+POD-392	G11,G17	ez	ez	ez	ez	1	0	-	-	-
+POD-393	G07	zabaldu	ez	jaitsi_orokorra	ez	0	0	-	-	erreferentzia
+POD-394	G11,G99	ez	ez	ez	ez	1	0	-	-	animalien babesa
+POD-395	G99	ez	ez	ez	handitu	1	0	-	-	animalien babesa
+POD-396	G99	ez	ez	ez	ez	1	0	-	-	-
+POD-397	G01,G99	ez	ez	ez	ez	1	0	-	-	-
+POD-398	G99,G05	ez	ez	ez	ez	0	0	-	-	-
+POD-399	G21,G99	ez	ez	ez	ez	1	0	-	-	-
+POD-400	G21,G99	ez	ez	ez	ez	1	0	-	-	-
+POD-401	G11,G99	ez	ez	ez	ez	1	0	-	-	-
+POD-402	G10,G99	ez	ez	ez	handitu	1	0	-	-	-
+POD-403	G04,G21,G99	ez	ez	ez	ez	1	0	-	-	-
+POD-404	G16,G99	ez	ez	ez	murriztu	2	0	-	-	tauromakiari laguntzak kendu
+POD-405	G99	ez	ez	ez	ez	1	0	-	-	-
+POD-p126-1a	G22,G19	ez	ez	ez	ez	0	0	-	-	diagnostikoa
+POD-p126-1b	G22,G19	ez	ez	ez	ez	0	0	-	-	diagnostikoa
+POD-p126-1c	G22	ez	ez	ez	ez	0	0	-	-	diagnostikoa
+POD-p126-1d	G22,G14	ez	ez	ez	ez	0	0	-	-	-
+POD-406	G22,G17	ez	ez	ez	ez	1	0	-	S08=+1	prozesu konstituziogilea, III. Errepublika, "plurinazionaltasuna aitortu"; erreferenduma monarkia/errepublikari buruz (ez S09)
+POD-407	G22	ez	ez	ez	ez	2	0	-	-	-
+POD-408	G22	ez	ez	ez	ez	2	0	-	-	-
+POD-409	G22	ez	ez	ez	ez	2	0	-	-	-
+POD-410	G22	ez	ez	ez	ez	2	0	-	-	-
+POD-411	G22	ez	ez	ez	ez	3	0	-	-	hauteskunde-barruti autonomikoa; Sainte-Laguë
+POD-412	G22,G17	ez	ez	ez	ez	1	0	-	-	-
+POD-413	G22	ez	ez	ez	ez	3	0	gazteak=onura	-	-
+POD-414	G22	ez	ez	ez	ez	2	0	-	-	-
+POD-415	G22	ez	ez	ez	ez	2	0	-	-	-
+POD-416	G22,G14	ez	ez	ez	ez	2	0	-	-	-
+POD-417	G22	ez	ez	ez	ez	0	0	-	-	-
+POD-418	G22	ez	ez	ez	ez	2	0	-	-	-
+POD-419	G22,G08	zabaldu	hobetu	ez	handitu	1	0	-	-	-
+POD-420	G22,G14	ez	ez	ez	ez	2	0	-	-	Auzitegi Nazionala ezabatu (terrorismo-epaitegi berezia; ez da S10 zenbatu)
+POD-421	G22,G19	ez	ez	ez	ez	2	0	-	-	-
+POD-422	G22	zabaldu	ez	ez	ez	2	0	-	-	-
+POD-423	G14,G22	ez	ez	ez	ez	2	0	-	-	-
+POD-424	G14	ez	ez	ez	ez	2	0	-	-	-
+POD-425	G14,G22	ez	ez	ez	ez	1	0	-	-	-
+POD-426	G14,G19,G22	ez	ez	ez	ez	3	0	-	-	Sekretu Ofizialen lege berria; GALen dokumentuak desklasifikatu
+POD-427	G14	ez	ez	ez	ez	3	0	-	-	Mozal Legea indargabetu; atxiloketa max 48 h
+POD-428	G08	ez	ez	ez	ez	2	0	-	-	-
+POD-429	G14,G04	ez	ez	ez	ez	1	0	-	-	kalamua legeztatu
+POD-430	G22,G05	ez	ez	ez	ez	2	0	-	-	-
+POD-431	G22	ez	ez	ez	ez	1	0	-	-	-
+POD-432	G15	zabaldu	ez	ez	ez	1	0	-	-	-
+POD-433	G19	ez	ez	ez	ez	2	0	-	-	-
+POD-434	G19	ez	ez	ez	ez	2	0	-	-	1977ko Amnistia Legea aldatu; Trantsizioko biktimak
+POD-435	G19,G15	ez	ez	ez	ez	2	0	emakumeak=onura	-	-
+POD-436	G19	ez	ez	ez	ez	1	0	-	-	-
+POD-437	G19,G15	zabaldu	ez	ez	handitu	3	0	-	-	-
+POD-438	G19,G20	ez	ez	ez	ez	1	0	-	-	-
+POD-439	G19	ez	ez	ez	handitu	2	0	-	-	-
+POD-440	G19	ez	ez	ez	ez	1	0	-	-	-
+POD-441	G22	ez	ez	ez	ez	2	0	-	-	ASKATASUN ZIBILAK? informazio faltsuagatiko zigor-araubidea; espazio audiobisuala hirutan
+POD-442	G22,G10	ez	ez	ez	ez	1	0	-	-	-

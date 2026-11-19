@@ -1,0 +1,170 @@
+Gaia nagusia (Claude) Decider-ek ere: 270/284 (95%)
+Gaiak G01–G21: precision 66% · recall 75% (Claude erreferentzia)
+Baieztapenak, 'ez du aipatzen' bai/ez: 3069/3090 (99.3%)
+
+Berrikusteko desadostasunak (165):
+  PNV-p03-01 S05: Claude=ez Decider=0 (0.43)
+  PNV-p03-02 G01: Claude=ez Decider p=0.82
+  PNV-p03-02 G03: Claude=ez Decider p=0.85
+  PNV-p03-02 G17: Claude=ez Decider p=0.81
+  PNV-p03-02 S05: Claude=ez Decider=+1 (0.56)
+  PNV-p03-02 S08: Claude=ez Decider=+1 (0.22)
+  PNV-p05-01 G01: Claude=ez Decider p=0.86
+  PNV-p05-01 G02: Claude=ez Decider p=0.93
+  PNV-p05-03 G10: Claude=ez Decider p=0.93
+  PNV-p05-04 G12: Claude=ez Decider p=0.82
+  PNV-p05-05 G14: Claude=ez Decider p=0.87
+  PNV-p05-07 G03: Claude=ez Decider p=0.89
+  PNV-p05-07 G04: Claude=ez Decider p=0.91
+  PNV-p05-09 G17: Claude=ez Decider p=0.85
+  PNV-p06-02 G02: Claude=ez Decider p=0.91
+  PNV-p07-01 S01: Claude=ez Decider=+1 (0.77)
+  PNV-p07-07 S01: Claude=ez Decider=+1 (0.41)
+  PNV-1.1-04 S01: Claude=ez Decider=+1 (0.23)
+  PNV-1.1-07 G06: Claude=bai Decider p=0.03
+  PNV-1.2-04 G06: Claude=bai Decider p=0.08
+  PNV-1.2-05 gaia nagusia G01: Decider p=0.44
+  PNV-1.2-05 G06: Claude=bai Decider p=0.01
+  PNV-1.2-05 G17: Claude=bai Decider p=0.12
+  PNV-1.3-02 G17: Claude=bai Decider p=0.01
+  PNV-1.3-10 G06: Claude=bai Decider p=0.01
+  PNV-p10-01 G17: Claude=bai Decider p=0.06
+  PNV-1.4-02 G16: Claude=bai Decider p=0.16
+  PNV-1.4-04 G17: Claude=bai Decider p=0.16
+  PNV-1.4-06 G10: Claude=bai Decider p=0.15
+  PNV-p12-03 G10: Claude=ez Decider p=0.98
+  PNV-p13-01 G07: Claude=ez Decider p=0.93
+  PNV-p13-01 S04: Claude=ez Decider=-1 (0.31)
+  PNV-p13-02 G07: Claude=ez Decider p=0.90
+  PNV-p13-02 G11: Claude=bai Decider p=0.12
+  PNV-p13-04 G07: Claude=ez Decider p=0.95
+  PNV-p13-07 G07: Claude=ez Decider p=0.89
+  PNV-p14-01 G06: Claude=bai Decider p=0.01
+  PNV-2.2-04 G02: Claude=ez Decider p=0.90
+  PNV-2.2-04 G06: Claude=bai Decider p=0.01
+  PNV-2.2-05 G02: Claude=ez Decider p=0.87
+  PNV-2.2-05 G06: Claude=bai Decider p=0.01
+  PNV-p15-01 G09: Claude=ez Decider p=0.96
+  PNV-2.3-06 gaia nagusia G11: Decider p=0.46
+  PNV-2.3-06 G10: Claude=ez Decider p=0.90
+  PNV-2.3-11 G06: Claude=bai Decider p=0.02
+  PNV-2.3-12 G09: Claude=ez Decider p=0.94
+  PNV-2.4-01 G01: Claude=bai Decider p=0.11
+  PNV-2.4-08 G17: Claude=bai Decider p=0.10
+  PNV-2.4-09 G17: Claude=bai Decider p=0.11
+  PNV-2.5-01 G17: Claude=bai Decider p=0.15
+  PNV-2.5-10 G20: Claude=bai Decider p=0.01
+  PNV-2.5-14 G20: Claude=bai Decider p=0.02
+  PNV-2.6-07 G06: Claude=bai Decider p=0.00
+  PNV-2.6-13 G17: Claude=bai Decider p=0.06
+  PNV-2.6-19 G10: Claude=bai Decider p=0.17
+  PNV-p20-02 G10: Claude=ez Decider p=0.92
+  PNV-p20-02 S04: Claude=ez Decider=0 (0.38)
+  PNV-2.7-03 G07: Claude=ez Decider p=0.87
+  PNV-2.7-06 G10: Claude=ez Decider p=0.92
+  PNV-p22-02 G07: Claude=ez Decider p=0.93
+  PNV-p23-01 G16: Claude=bai Decider p=0.19
+  PNV-p23-01 G19: Claude=ez Decider p=0.87
+  PNV-p23-02 G19: Claude=ez Decider p=0.99
+  PNV-p23-03 G19: Claude=ez Decider p=0.99
+  PNV-p23-04 G14: Claude=ez Decider p=0.90
+  PNV-p23-04 G19: Claude=ez Decider p=0.99
+  PNV-p23-05 G19: Claude=ez Decider p=0.98
+  PNV-p23-06 G14: Claude=ez Decider p=0.93
+  PNV-p23-06 G19: Claude=ez Decider p=0.99
+  PNV-p23-07 G17: Claude=bai Decider p=0.16
+  PNV-p24-01 G17: Claude=bai Decider p=0.11
+  PNV-3.3-02 G17: Claude=bai Decider p=0.01
+  PNV-3.3-10 G06: Claude=bai Decider p=0.14
+  PNV-3.3-11 G03: Claude=ez Decider p=0.91
+  PNV-p27-01 G14: Claude=ez Decider p=0.89
+  PNV-p27-01 G19: Claude=ez Decider p=0.80
+  PNV-3.4-03 G14: Claude=ez Decider p=0.81
+  PNV-p27-02 G19: Claude=ez Decider p=1.00
+  PNV-3.5-01 G19: Claude=ez Decider p=0.99
+  PNV-3.5-02 G19: Claude=ez Decider p=0.97
+  PNV-3.5-03 G19: Claude=ez Decider p=0.97
+  PNV-3.5-04 G13: Claude=ez Decider p=0.82
+  PNV-3.5-04 G19: Claude=ez Decider p=0.99
+  PNV-3.5-04 G20: Claude=bai Decider p=0.02
+  PNV-3.5-06 G19: Claude=ez Decider p=0.99
+  PNV-3.5-07 G19: Claude=ez Decider p=0.99
+  PNV-3.5-08 G19: Claude=ez Decider p=0.98
+  PNV-3.5-09 gaia nagusia G20: Decider p=0.44
+  PNV-3.5-09 G19: Claude=ez Decider p=1.00
+  PNV-p29-02 G03: Claude=ez Decider p=0.86
+  PNV-p29-02 G19: Claude=ez Decider p=0.96
+  PNV-p29-02 S03: Claude=ez Decider=0 (0.31)
+  PNV-p29-02 S05: Claude=ez Decider=0 (0.47)
+  PNV-p30-01 S05: Claude=ez Decider=+1 (0.75)
+  PNV-p30-02 G17: Claude=bai Decider p=0.17
+  PNV-p30-02 S03: Claude=ez Decider=+1 (0.42)
+  PNV-p30-04 G06: Claude=ez Decider p=0.87
+  PNV-p30-05 G17: Claude=bai Decider p=0.10
+  PNV-p30-05 S05: Claude=ez Decider=+1 (0.80)
+  PNV-p30-06 gaia nagusia G03: Decider p=0.10
+  PNV-p30-06 G03: Claude=bai Decider p=0.10
+  PNV-p30-08 S05: Claude=ez Decider=+1 (0.79)
+  PNV-4.1-01 G09: Claude=ez Decider p=0.87
+  PNV-p31-01 S03: Claude=ez Decider=+1 (0.35)
+  PNV-4.3-01 G15: Claude=bai Decider p=0.06
+  PNV-4.3-04 G17: Claude=bai Decider p=0.07
+  PNV-4.4-01 gaia nagusia G06: Decider p=0.21
+  PNV-4.4-02 G04: Claude=ez Decider p=0.95
+  PNV-4.4-02 G09: Claude=bai Decider p=0.03
+  PNV-4.4-03 G04: Claude=ez Decider p=0.84
+  PNV-4.4-04 G03: Claude=ez Decider p=0.92
+  PNV-p34-01 gaia nagusia G06: Decider p=0.04
+  PNV-p34-01 G02: Claude=bai Decider p=0.07
+  PNV-p34-01 G06: Claude=bai Decider p=0.04
+  PNV-4.5-01 gaia nagusia G06: Decider p=0.05
+  PNV-4.5-01 G02: Claude=bai Decider p=0.01
+  PNV-4.5-01 G06: Claude=bai Decider p=0.05
+  PNV-4.5-01 G19: Claude=ez Decider p=0.95
+  PNV-4.5-02 gaia nagusia G06: Decider p=0.02
+  PNV-4.5-02 G06: Claude=bai Decider p=0.02
+  PNV-4.5-02 G19: Claude=ez Decider p=0.98
+  PNV-4.5-03 gaia nagusia G06: Decider p=0.01
+  PNV-4.5-03 G06: Claude=bai Decider p=0.01
+  PNV-4.5-04 gaia nagusia G06: Decider p=0.01
+  PNV-4.5-04 G06: Claude=bai Decider p=0.01
+  PNV-4.5-04 G19: Claude=ez Decider p=0.99
+  PNV-4.6-02 G14: Claude=bai Decider p=0.08
+  PNV-4.6-03 gaia nagusia G14: Decider p=0.49
+  PNV-4.6-03 G17: Claude=bai Decider p=0.00
+  PNV-4.6-04 gaia nagusia G14: Decider p=0.11
+  PNV-4.6-04 G14: Claude=bai Decider p=0.11
+  PNV-4.6-05 gaia nagusia G14: Decider p=0.11
+  PNV-4.6-05 G06: Claude=ez Decider p=0.98
+  PNV-4.6-05 G14: Claude=bai Decider p=0.11
+  PNV-4.6-06 S03: Claude=ez Decider=0 (0.29)
+  PNV-4.6-06 S04: Claude=ez Decider=0 (0.57)
+  PNV-4.6-06 S05: Claude=ez Decider=0 (0.47)
+  PNV-p36-02 G06: Claude=ez Decider p=0.93
+  PNV-p37-01 G08: Claude=ez Decider p=0.84
+  PNV-p37-01 G20: Claude=ez Decider p=0.96
+  PNV-p37-02 G20: Claude=ez Decider p=0.86
+  PNV-p37-03 gaia nagusia G17: Decider p=0.10
+  PNV-p37-03 G17: Claude=bai Decider p=0.10
+  PNV-p37-06 G20: Claude=ez Decider p=0.84
+  PNV-p37-08 G20: Claude=ez Decider p=0.91
+  PNV-5.1-05 S08: Claude=ez Decider=+1 (0.61)
+  PNV-5.1-06 G18: Claude=ez Decider p=0.91
+  PNV-p38-02 G10: Claude=ez Decider p=0.82
+  PNV-5.2-01 G10: Claude=ez Decider p=0.84
+  PNV-5.2-02 G10: Claude=ez Decider p=0.82
+  PNV-5.2-05 S08: Claude=jarrera Decider=ez (0.36)
+  PNV-5.3-01 G17: Claude=bai Decider p=0.12
+  PNV-5.3-02 G17: Claude=bai Decider p=0.10
+  PNV-5.3-03 G17: Claude=bai Decider p=0.19
+  PNV-p40-01 G14: Claude=ez Decider p=0.92
+  PNV-5.4-03 G14: Claude=ez Decider p=0.92
+  PNV-5.4-04 G14: Claude=ez Decider p=0.83
+  PNV-5.4-05 G14: Claude=ez Decider p=0.87
+  PNV-5.4-07 G19: Claude=ez Decider p=0.90
+  PNV-5.5-02 G17: Claude=bai Decider p=0.18
+  PNV-5.5-03 G17: Claude=bai Decider p=0.13
+  PNV-5.5-03 S08: Claude=jarrera Decider=ez (0.67)
+  PNV-5.5-05 G10: Claude=ez Decider p=0.80
+  PNV-5.6-01 G17: Claude=bai Decider p=0.15
+  PNV-5.6-03 G08: Claude=ez Decider p=0.85

@@ -1,0 +1,124 @@
+# Kontaketa-moduak: 'programak' (lehenetsia; bozketak desenpate gisa) eta 'bozketak' (XV. legegintzaldiko bozketak programaren pareko).
+
+## 0. Bozketek eragindako gelaxkak
+
+H3  PP    isilik+bozka  programa ·   bozka +1  →  programak: 0,5 + desenp.  bozketak: +1.0
+H3  VOX   KONTRAESANA   programa -1  bozka +1  →  programak: -0.5           bozketak: +0.0
+L1  PNV   isilik+bozka  programa ·   bozka +2  →  programak: 0,5 + desenp.  bozketak: +2.0
+L1  PP    isilik+bozka  programa ·   bozka -2  →  programak: 0,5 − desenp.  bozketak: -2.0
+L1  VOX   isilik+bozka  programa ·   bozka -2  →  programak: 0,5 − desenp.  bozketak: -2.0
+L2  PNV   isilik+bozka  programa ·   bozka -1  →  programak: 0,5 − desenp.  bozketak: -1.0
+L2  PP    isilik+bozka  programa ·   bozka +1  →  programak: 0,5 + desenp.  bozketak: +1.0
+L3  PSOE  isilik+bozka  programa ·   bozka +1  →  programak: 0,5 + desenp.  bozketak: +1.0
+L3  FA    isilik+bozka  programa ·   bozka +0  →  programak: 0,5            bozketak: +0.0
+L3  PP    isilik+bozka  programa ·   bozka +0  →  programak: 0,5            bozketak: +0.0
+L3  VOX   isilik+bozka  programa ·   bozka +0  →  programak: 0,5            bozketak: +0.0
+N2  PSOE  isilik+bozka  programa ·   bozka +1  →  programak: 0,5 + desenp.  bozketak: +1.0
+K1  PNV   isilik+bozka  programa ·   bozka +0  →  programak: 0,5            bozketak: +0.0
+K3  PNV   isilik+bozka  programa ·   bozka +1  →  programak: 0,5 + desenp.  bozketak: +1.0
+K4  PSOE  isilik+bozka  programa ·   bozka +2  →  programak: 0,5 + desenp.  bozketak: +2.0
+K4  FA    isilik+bozka  programa ·   bozka +2  →  programak: 0,5 + desenp.  bozketak: +2.0
+K4  POD   isilik+bozka  programa ·   bozka +2  →  programak: 0,5 + desenp.  bozketak: +2.0
+K4  PP    KONTRAESANA   programa -1  bozka +2  →  programak: -0.5           bozketak: +0.5
+K4  VOX   isilik+bozka  programa ·   bozka -2  →  programak: 0,5 − desenp.  bozketak: -2.0
+E2  VOX   isilik+bozka  programa ·   bozka -2  →  programak: 0,5 − desenp.  bozketak: -2.0
+G1  PSOE  isilik+bozka  programa ·   bozka +1  →  programak: 0,5 + desenp.  bozketak: +1.0
+G1  VOX   isilik+bozka  programa ·   bozka -2  →  programak: 0,5 − desenp.  bozketak: -2.0
+G2  EHB   isilik+bozka  programa ·   bozka -2  →  programak: 0,5 − desenp.  bozketak: -2.0
+G2  PSOE  isilik+bozka  programa ·   bozka +1  →  programak: 0,5 + desenp.  bozketak: +1.0
+G3  PSOE  isilik+bozka  programa ·   bozka +1  →  programak: 0,5 + desenp.  bozketak: +1.0
+G3  POD   isilik+bozka  programa ·   bozka +1  →  programak: 0,5 + desenp.  bozketak: +1.0
+G3  VOX   isilik+bozka  programa ·   bozka -1  →  programak: 0,5 − desenp.  bozketak: -1.0
+I1  PSOE  isilik+bozka  programa ·   bozka -1  →  programak: 0,5 − desenp.  bozketak: -1.0
+I1  PP    KONTRAESANA   programa +2  bozka -1  →  programak: +1.5           bozketak: +0.5
+P1  VOX   isilik+bozka  programa ·   bozka -1  →  programak: 0,5 − desenp.  bozketak: -1.0
+
+## 1. Alderdi bakoitza bere posizioekin erantzuten (posiziorik gabekoak saltatuta)
+
+### programak
+EAJ-PNV (18 erantzun)                    PNV 100  EHB 88  PSOE 78  FA 78  POD 68  PP 45  VOX 45
+EH Bildu (25 erantzun)                   EHB 100  FA 88  POD 83  PSOE 78  PNV 76  PP 31  VOX 26
+PSOE (18 erantzun)                       PSOE 100  FA 88  EHB 83  POD 81  PNV 73  PP 49  VOX 43
+Frente Amplio (24 erantzun)              FA 100  POD 91  EHB 90  PSOE 82  PNV 70  PP 36  VOX 30
+Podemos (19 erantzun)                    POD 100  FA 98  EHB 90  PSOE 82  PNV 65  PP 36  VOX 31
+PP (21 erantzun)                         PP 100  VOX 77  PSOE 51  PNV 47  POD 37  FA 35  EHB 26
+Vox (19 erantzun)                        VOX 100  PP 76  PNV 48  PSOE 46  POD 32  FA 27  EHB 23
+
+### bozketak
+EAJ-PNV (22 erantzun)                    PNV 100  PSOE 86  EHB 83  FA 77  POD 70  PP 47  VOX 36
+EH Bildu (26 erantzun)                   EHB 100  FA 89  POD 84  PSOE 79  PNV 77  PP 29  VOX 19
+PSOE (25 erantzun)                       PSOE 100  FA 84  EHB 80  PNV 79  POD 79  PP 50  VOX 40
+Frente Amplio (26 erantzun)              FA 100  POD 90  EHB 89  PSOE 83  PNV 72  PP 37  VOX 27
+Podemos (21 erantzun)                    POD 100  FA 98  EHB 90  PSOE 84  PNV 69  PP 34  VOX 24
+PP (25 erantzun)                         PP 100  VOX 80  PSOE 50  PNV 48  FA 36  POD 36  EHB 28
+Vox (26 erantzun)                        VOX 100  PP 78  PSOE 40  PNV 39  POD 29  FA 27  EHB 19
+
+## 2. Pertsona-profilak
+
+Abertzale ezkertiarra                    programak:  EHB 95  FA 90  POD 85  PSOE 77  PNV 72  PP 32  VOX 27
+                                         bozketak:   EHB 96  FA 92  POD 86  PSOE 79  PNV 74  PP 30  VOX 20
+Abertzale zentrista                      programak:  PNV 80  EHB 77  PSOE 73  FA 73  POD 67  PP 49  VOX 48
+                                         bozketak:   PNV 85  PSOE 78  EHB 77  FA 74  POD 68  PP 51  VOX 42
+Eskuin moderatua                         programak:  PP 81  VOX 72  PSOE 54  PNV 50  POD 41  FA 40  EHB 35
+                                         bozketak:   PP 88  VOX 78  PSOE 55  PNV 52  FA 42  POD 41  EHB 34
+Eskuineko kontserbadorea                 programak:  VOX 81  PP 80  PSOE 43  PNV 43  POD 34  FA 29  EHB 24
+                                         bozketak:   VOX 88  PP 85  PSOE 44  PNV 40  POD 33  FA 31  EHB 23
+Independentista, ekonomian zentrista     programak:  EHB 77  PNV 76  PSOE 70  FA 67  POD 63  PP 49  VOX 48
+                                         bozketak:   PNV 80  EHB 77  PSOE 74  FA 68  POD 64  PP 52  VOX 43
+Langile ezkertiar ez-abertzalea          programak:  POD 83  FA 83  EHB 74  PSOE 74  PNV 61  PP 47  VOX 40
+                                         bozketak:   FA 86  POD 84  PSOE 79  EHB 75  PNV 64  PP 47  VOX 40
+Segurtasunak kezkatutako langilea        programak:  PSOE 76  FA 75  POD 73  EHB 70  PNV 63  PP 54  VOX 49
+                                         bozketak:   PSOE 79  FA 77  POD 74  EHB 69  PNV 66  PP 55  VOX 49
+Abertzale ezk. (euskara×2, nazioa×2)     programak:  EHB 96  FA 88  POD 80  PSOE 75  PNV 74  PP 29  VOX 24
+                                         bozketak:   EHB 97  FA 89  POD 81  PSOE 76  PNV 75  PP 28  VOX 18
+Langile ezk. (etxebizitza×2, lana×2)     programak:  POD 86  FA 86  EHB 78  PSOE 76  PNV 62  PP 43  VOX 40
+                                         bozketak:   FA 89  POD 86  PSOE 81  EHB 78  PNV 65  PP 42  VOX 39
+
+## 3. Alderdien arteko adostasuna (biek posizioa duten baieztapenetan, pisu gabe)
+
+### programak
+         PNV   EHB  PSOE    FA   POD    PP   VOX
+PNV      100    88    88    80    75    44    36
+EHB       88   100    82    92    94    24    12
+PSOE      88    82   100    86    83    54    40
+FA        80    92    86   100    97    32    20
+POD       75    94    83    97   100    31    21
+PP        44    24    54    32    31   100    84
+VOX       36    12    40    20    21    84   100
+
+### bozketak
+         PNV   EHB  PSOE    FA   POD    PP   VOX
+PNV      100    81    86    76    74    48    32
+EHB       81   100    77    91    92    26    12
+PSOE      86    77   100    82    82    53    38
+FA        76    91    82   100    98    35    21
+POD       74    92    82    98   100    33    19
+PP        48    26    53    35    33   100    80
+VOX       32    12    38    21    19    80   100
+
+## 4. Posiziorik gabeko gelaxkak alderdiko (27tik)
+
+       programak  bozketak
+PNV            9         5
+EHB            2         1
+PSOE           9         2
+FA             3         1
+POD            8         6
+PP             6         2
+VOX            8         1
+
+## 5. Onarpen-joeraren proba (erantzun berdina baieztapen guztietan)
+
+Baieztapenen norabidea orekatuta badago, erantzun uniformeek ez lukete bloke bat bakarrik saritu behar.
+Dena -2                                  programak:  FA 52  PSOE 51  POD 50  EHB 48  PP 45  PNV 39  VOX 37
+                                         bozketak:   FA 50  EHB 49  POD 48  PSOE 48  PP 45  VOX 43  PNV 38
+Dena -1                                  programak:  PSOE 58  PP 57  FA 55  PNV 53  POD 52  EHB 52  VOX 48
+                                         bozketak:   PP 60  PSOE 59  PNV 55  FA 55  VOX 54  EHB 52  POD 51
+Dena +0                                  programak:  PP 59  PSOE 59  PNV 58  VOX 57  FA 54  POD 53  EHB 52
+                                         bozketak:   PP 65  PSOE 63  VOX 62  PNV 62  FA 57  POD 53  EHB 52
+Dena +1                                  programak:  VOX 65  PNV 64  PP 60  PSOE 58  FA 54  POD 54  EHB 52
+                                         bozketak:   PNV 67  PP 66  VOX 65  PSOE 65  FA 56  POD 55  EHB 51
+Dena +2                                  programak:  VOX 63  PNV 61  PP 55  EHB 52  POD 50  PSOE 49  FA 48
+                                         bozketak:   PNV 62  VOX 58  PP 55  PSOE 52  POD 52  EHB 51  FA 50
+
+Norabidea: 13 baieztapenetan "ados" = ezker/abertzale (EHB, FA, POD), 14 baieztapenetan "ados" = eskuina (PP, Vox).

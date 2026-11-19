@@ -1,0 +1,311 @@
+# Claude-ren sailkapena, kodeketa-liburua v0.3.1 (02-metodologia.md §11). EAJ-PNV, 29-N programa.
+id	gaiak	D1	D2	D3	D4	D5	D6	D7	S	oharra
+PNV-p03-01	G99	ez	ez	ez	ez	0	0	-	-	-
+PNV-p03-02	G99,G22	ez	ez	ez	ez	0	0	-	-	"nunca facilitará un gobierno que dependa de Vox"
+PNV-p04-01	G17	ez	ez	ez	ez	0	0	-	S08=+1	"trabajando por el reconocimiento nacional de Euskadi" (asmo orokorra)
+PNV-p05-01	G99	ez	ez	ez	ez	0	0	-	-	aurkibide-zatia
+PNV-p05-02	G99	ez	ez	ez	ez	0	0	-	-	aurkibide-zatia
+PNV-p05-03	G99	ez	ez	ez	ez	0	0	-	-	aurkibide-zatia
+PNV-p05-04	G99	ez	ez	ez	ez	0	0	-	-	aurkibide-zatia
+PNV-p05-05	G99	ez	ez	ez	ez	0	0	-	-	aurkibide-zatia
+PNV-p05-06	G99	ez	ez	ez	ez	0	0	-	-	aurkibide-zatia
+PNV-p05-07	G99	ez	ez	ez	ez	0	0	-	-	aurkibide-zatia
+PNV-p05-08	G99	ez	ez	ez	ez	0	0	-	-	aurkibide-zatia
+PNV-p05-09	G99	ez	ez	ez	ez	0	0	-	-	aurkibide-zatia
+PNV-p05-10	G99	ez	ez	ez	ez	0	0	-	-	aurkibide-zatia
+PNV-p06-02	G99	ez	ez	ez	ez	0	0	-	-	-
+PNV-p07-01	G01,G02	ez	ez	ez	ez	0	0	-	-	-
+PNV-p07-02	G01	ez	ez	ez	ez	0	0	-	-	-
+PNV-p07-03	G02,G05	ez	ez	ez	ez	0	0	-	-	-
+PNV-p07-04	G01,G06	ez	ez	ez	ez	0	0	-	-	-
+PNV-p07-05	G17	ez	ez	ez	ez	0	0	-	-	-
+PNV-p07-06	G99	ez	ez	ez	ez	0	0	-	-	-
+PNV-p07-07	G01	ez	ez	ez	ez	0	0	-	-	-
+PNV-1.1-01	G01	ez	ez	ez	ez	1	0	-	-	-
+PNV-1.1-02	G01	ez	ez	ez	ez	1	0	-	-	-
+PNV-1.1-03	G01	ez	ez	ez	ez	2	0	-	-	aldi baterako kontratuen iruzurra saihestu
+PNV-1.1-04	G01	ez	ez	ez	ez	2	0	-	-	-
+PNV-1.1-05	G01	ez	ez	ez	ez	1	0	-	S01=0	"Reducir las prácticas especulativas" — prezio-mugarik aipatu gabe
+PNV-1.1-06	G01	ez	ez	ez	ez	1	0	-	-	-
+PNV-1.1-07	G01,G06	zabaldu	ez	ez	ez	1	0	prekarioak=onura	-	"sin trasladar toda la responsabilidad a los pequeños propietarios"
+PNV-p08-01	G01,G02	ez	ez	ez	ez	0	0	gazteak=onura	-	-
+PNV-1.2-01	G01	ez	ez	ez	ez	1	0	gazteak=onura	-	-
+PNV-1.2-02	G01	ez	ez	ez	ez	1	0	gazteak=onura	-	alokairu babestua ez aukera bakarra (jabetza ere)
+PNV-1.2-03	G02,G05	ez	ez	ez	ez	1	0	gazteak=onura	-	-
+PNV-1.2-04	G01,G02,G06	ez	ez	ez	ez	1	0	gazteak=onura	-	-
+PNV-1.2-05	G01,G06,G17	zabaldu	ez	ez	handitu|ez	1	0	gazteak=onura	-	-
+PNV-p09-01	G02	ez	hobetu	ez	ez	0	0	-	-	-
+PNV-1.3-01	G02,G17	ez	hobetu	ez	ez	2	0	langileak=onura	-	SMI propioa "siempre por encima del mínimo estatal", "nuevo estatus político" barruan
+PNV-1.3-02	G02,G17	ez	hobetu	ez	ez	2	0	langileak=onura	-	Lan Harremanen Esparru propioa, euskal hitzarmenen lehentasuna
+PNV-1.3-03	G02	ez	hobetu	ez	ez	1	0	langileak=onura	-	-
+PNV-1.3-04	G02	ez	hobetu	ez	ez	2	0	langileak=onura	-	Lan Ikuskaritza indartu (faltsu-autonomoak, ekonomia ezkutua)
+PNV-1.3-05	G02,G04	ez	hobetu	ez	ez	1	0	langileak=onura	-	mutuak koordinazioan aipatuta
+PNV-1.3-06	G02,G15	ez	hobetu	ez	ez	2	0	emakumeak=onura	-	-
+PNV-1.3-07	G02,G15	ez	hobetu	ez	ez	1	0	langileak=onura	-	-
+PNV-1.3-08	G02,G05	ez	hobetu|ez	ez	ez	1	0	langileak=onura	-	-
+PNV-1.3-09	G02,G05	ez	hobetu	ez	ez	1	0	gazteak=onura	-	praktiketako ikasleen eskubideak
+PNV-1.3-10	G02,G06	zabaldu	ez	ez	handitu	3	0	prekarioak=onura	-	langabezia-prestazioa 36 hilabetera arte, enplegagarritasunari lotuta
+PNV-1.3-11	G02	ez	ez|murriztu	ez	ez	1	0	langileak=nahasia|ez	-	MURRIZKETA?: "absentismo… medidas de prevención y control" (diálogo social bidez)
+PNV-1.3-12	G02,G08	ez	hobetu	ez	handitu	2	0	langileak=onura	-	-
+PNV-p10-01	G05,G17	ez	ez	ez	ez	0	0	-	-	-
+PNV-1.4-01	G05,G17	ez	ez	ez	ez	1	0	-	-	-
+PNV-1.4-02	G05,G16	ez	ez	ez	ez	1	0	-	-	hezkuntza "plurilingüe"
+PNV-1.4-03	G05,G15	ez	ez	ez	ez	1	0	-	-	-
+PNV-1.4-04	G05,G17	mantendu	ez	ez	ez	1	0	-	-	-
+PNV-1.4-05	G05,G02	ez	ez	ez	ez	1	0	-	-	-
+PNV-1.4-06	G05,G10	ez	ez	ez	ez	1	0	-	-	-
+PNV-1.4-07	G05,G17	ez	ez	ez	ez	1	0	-	-	-
+PNV-p10-02	G22	ez	ez	ez	ez	0	0	gazteak=onura	-	-
+PNV-1.5-01	G22	ez	ez	ez	ez	1	0	gazteak=onura	-	-
+PNV-1.5-02	G22	ez	ez	ez	ez	1	0	gazteak=onura	-	-
+PNV-1.5-03	G22	ez	ez	ez	ez	1	0	gazteak=onura	-	-
+PNV-p12-02	G99	ez	ez	ez	ez	0	0	-	-	-
+PNV-p12-03	G99	ez	ez	ez	ez	0	0	-	-	-
+PNV-p13-01	G10,G02	ez	ez	ez	ez	0	0	-	-	-
+PNV-p13-02	G10,G11	ez	ez	ez	ez	0	0	-	-	-
+PNV-p13-03	G12	ez	ez	ez	ez	0	0	-	-	-
+PNV-p13-04	G10,G11,G02	ez	ez	ez	ez	0	0	-	-	-
+PNV-p13-05	G21	ez	ez	ez	ez	0	0	-	-	-
+PNV-p13-06	G12	ez	ez	ez	ez	1	0	-	-	Euskal Y
+PNV-p13-07	G10	ez	ez	ez	ez	0	0	-	-	-
+PNV-p13-08	G10	ez	ez	ez	ez	0	0	-	-	-
+PNV-2.1-01	G10	ez	ez	ez	ez	1	0	-	-	-
+PNV-2.1-02	G10,G02	ez	ez	ez	ez	1	0	-	-	-
+PNV-2.1-03	G10	ez	ez	ez	handitu	2	0	-	-	Aiaraldea
+PNV-2.1-04	G10	ez	ez	ez	ez	1	0	-	-	-
+PNV-2.1-05	G10	ez	ez	ez	ez	1	0	autonomoak=onura	-	-
+PNV-2.1-06	G10,G02	ez	ez	ez	ez	1	0	-	-	kooperatiba-eredua
+PNV-2.1-07	G10,G20	ez	ez	ez	ez	1	0	-	-	-
+PNV-p14-01	G10,G06	ez	ez	ez	ez	0	0	autonomoak=onura	-	-
+PNV-2.2-01	G10,G08	ez	ez	ez	ez	1	0	autonomoak=onura	-	-
+PNV-2.2-02	G10	ez	ez	ez	handitu	1	0	autonomoak=onura	-	-
+PNV-2.2-03	G10	ez	ez	ez	ez	1	0	autonomoak=onura	-	-
+PNV-2.2-04	G10,G06	zabaldu	ez	ez	ez	1	0	autonomoak=onura	-	-
+PNV-2.2-05	G10,G06	zabaldu	ez	ez	ez	2	0	autonomoak=onura	-	-
+PNV-2.2-06	G10	ez	ez	ez	ez	1	0	-	-	-
+PNV-2.2-07	G10,G02	ez	hobetu	ez	ez	2	0	langileak=onura	-	-
+PNV-p15-01	G11,G10	ez	ez	ez	ez	0	0	-	-	-
+PNV-2.3-01	G11,G10	ez	ez	ez	handitu	1	0	-	-	-
+PNV-2.3-02	G11	ez	ez	ez	ez	1	0	-	-	PNIEC berrikusi industriaren beharren arabera
+PNV-2.3-03	G11	ez	ez	ez	ez	1	0	-	-	-
+PNV-2.3-04	G11,G10	ez	ez	ez	ez	1	0	-	-	-
+PNV-2.3-05	G11	ez	ez	ez	ez	1	0	-	-	-
+PNV-2.3-06	G11,G07,G09	ez	ez	jaitsi_orokorra|jaitsi_handiei	ez	3	0	-	-	elektrizitate-zerga % 0,5era iraunkorki
+PNV-2.3-07	G11,G10	ez	ez	ez	handitu	2	0	enpresahandiak=onura	-	CO2 kostu zeharkakoen konpentsazioa industriari
+PNV-2.3-08	G11,G10	ez	ez	ez	handitu	1	0	-	-	kogenerazioari laguntza
+PNV-2.3-09	G11,G10	ez	ez	ez	ez	1	0	-	-	gas naturalaren azpiegiturak indartu
+PNV-2.3-10	G11,G07	ez	ez	jaitsi_orokorra|ez	ez	1	0	-	-	-
+PNV-2.3-11	G09,G06	mantendu	ez	ez	ez	1	0	prekarioak=onura	-	-
+PNV-2.3-12	G11,G22	ez	ez	ez	ez	1	0	-	-	-
+PNV-p16-01	G11	ez	ez	ez	ez	0	0	-	-	-
+PNV-2.4-01	G11,G01	ez	ez	ez	ez	1	0	-	-	-
+PNV-2.4-02	G11	ez	ez	ez	ez	1	0	-	-	-
+PNV-2.4-03	G11,G07	ez	ez	jaitsi_orokorra|ez	handitu	1	0	-	-	-
+PNV-2.4-04	G11	ez	ez	ez	ez	1	0	-	-	-
+PNV-2.4-05	G11,G10	ez	ez	ez	ez	1	0	-	-	-
+PNV-2.4-06	G11	ez	ez	ez	handitu	1	0	-	-	-
+PNV-2.4-07	G11	ez	ez	ez	ez	1	0	-	-	-
+PNV-2.4-08	G11,G17	ez	ez	ez	ez	1	0	-	-	Kosta Legea erreformatu
+PNV-2.4-09	G11,G17	ez	ez	ez	ez	1	0	-	-	-
+PNV-2.4-10	G11	ez	ez	ez	handitu	1	0	-	-	-
+PNV-2.4-11	G11	ez	ez	ez	handitu	1	0	-	-	-
+PNV-p17-01	G21	ez	ez	ez	ez	0	0	-	-	-
+PNV-2.5-01	G21,G17,G20	ez	ez	ez	ez	2	0	-	-	PAC: Euskadirako Plan Estrategiko propioa
+PNV-2.5-02	G21	ez	ez	ez	ez	1	0	-	-	-
+PNV-2.5-03	G21	ez	ez	jaitsi_orokorra	ez	1	0	gazteak=onura	-	-
+PNV-2.5-04	G21	ez	ez	ez	ez	1	0	-	-	-
+PNV-2.5-05	G21	ez	ez	ez	handitu	1	0	-	-	-
+PNV-2.5-06	G21	ez	ez	ez	ez	1	0	-	-	Arabako Errioxa
+PNV-2.5-07	G21,G11	ez	ez	ez	ez	1	0	-	-	-
+PNV-2.5-08	G21,G20	ez	ez	ez	ez	1	0	-	-	-
+PNV-2.5-09	G21,G20	ez	ez	ez	ez	3	0	-	-	-
+PNV-2.5-10	G21,G20	ez	ez	ez	ez	1	0	-	-	-
+PNV-2.5-11	G21,G02	ez	hobetu	ez	ez	1	0	-	-	-
+PNV-2.5-12	G21,G03,G15	zabaldu	ez	ez	ez	2	0	autonomoak=onura;emakumeak=onura	-	arrantzaleen erretiro-koefiziente murriztaileak
+PNV-2.5-13	G21	ez	ez	ez	handitu	1	0	-	-	-
+PNV-2.5-14	G21,G20	ez	ez	ez	ez	1	0	-	-	-
+PNV-2.5-15	G21	ez	ez	ez	ez	1	0	gazteak=onura	-	-
+PNV-p19-01	G12	ez	ez	ez	ez	0	0	-	-	-
+PNV-p19-02	G12,G17	ez	ez	ez	ez	0	0	-	-	-
+PNV-2.6-01	G12	ez	ez	ez	handitu	2	0	-	-	Euskal Y amaitu, Iruñearekin lotuta
+PNV-2.6-02	G12,G17	ez	ez	ez	ez	2	0	-	-	aldirietako trenbide-azpiegiturak transferitu
+PNV-2.6-03	G12	ez	ez	ez	handitu	2	0	-	-	-
+PNV-2.6-04	G12	ez	ez	ez	handitu	2	0	-	-	-
+PNV-2.6-05	G12	ez	ez	ez	handitu	2	0	-	-	-
+PNV-2.6-06	G12	ez	ez	ez	handitu	3	0	-	-	-
+PNV-2.6-07	G12,G06	ez	ez	ez	handitu	1	0	-	-	-
+PNV-2.6-08	G12	ez	ez	ez	handitu	1	0	-	-	-
+PNV-2.6-09	G12	ez	ez	ez	handitu	2	0	-	-	-
+PNV-2.6-10	G12	ez	ez	ez	handitu	1	0	-	-	-
+PNV-2.6-11	G12	ez	ez	ez	handitu	2	0	-	-	-
+PNV-2.6-12	G12	ez	ez	ez	handitu	1	0	-	-	-
+PNV-2.6-13	G12,G17	ez	ez	ez	ez	1	0	-	-	-
+PNV-2.6-14	G12,G17	ez	ez	ez	ez	2	0	-	-	Pasaiako portua transferitu
+PNV-2.6-15	G12	ez	ez	ez	ez	1	0	-	-	-
+PNV-2.6-16	G12,G11	ez	ez	ez	handitu	1	0	-	-	-
+PNV-2.6-17	G12,G11	ez	ez	ez	handitu	1	0	-	-	-
+PNV-2.6-18	G12,G11	ez	ez	ez	handitu	1	0	-	-	-
+PNV-2.6-19	G12,G10	ez	ez	ez	ez	2	0	-	-	-
+PNV-p20-01	G12	ez	ez	ez	ez	0	0	-	-	-
+PNV-p20-02	G07,G08	ez	ez	ez	ez	0	0	-	-	-
+PNV-2.7-01	G07,G09	ez	ez	jaitsi_orokorra	ez	2	0	-	-	oinarrizko elikagaien BEZa 0 edo superreduzitua (aztertu)
+PNV-2.7-02	G07,G16	ez	ez	jaitsi_orokorra	ez	1	0	-	-	-
+PNV-2.7-03	G08,G17	ez	ez	ez	handitu	1	0	-	-	aurrekontu-egonkortasunaren arauak malgutu
+PNV-2.7-04	G08,G17	ez	ez	ez	handitu	1	0	-	-	-
+PNV-2.7-05	G07,G17	ez	ez	ez	ez	1	0	-	-	Kontzertua errespetatu
+PNV-2.7-06	G07,G17	ez	ez	ez	ez	2	0	-	-	Foru Ogasunen arau-gaitasuna BEZan eta Zerga Berezietan
+PNV-p22-02	G99	ez	ez	ez	ez	0	0	-	-	-
+PNV-p23-01	G13,G16	ez	ez	ez	ez	0	0	-	-	-
+PNV-p23-02	G15,G14	ez	ez	ez	ez	0	0	-	-	-
+PNV-p23-03	G14,G15	ez	ez	ez	ez	0	0	-	-	-
+PNV-p23-04	G22	ez	ez	ez	ez	0	0	-	-	-
+PNV-p23-05	G14	ez	ez	ez	ez	0	0	-	-	-
+PNV-p23-06	G99	ez	ez	ez	ez	0	0	-	-	-
+PNV-p23-07	G14,G17	ez	ez	ez	ez	0	0	-	-	-
+PNV-3.1-01	G14,G17	ez	ez	ez	ez	1	0	-	-	Ertzaintza polizia integral
+PNV-3.1-02	G14,G20	ez	ez	ez	ez	1	0	-	-	-
+PNV-3.1-03	G14,G20	ez	ez	ez	ez	1	0	-	-	-
+PNV-3.1-04	G14	ez	ez	ez	ez	1	0	-	-	-
+PNV-3.1-05	G14	ez	ez	ez	ez	1	0	-	-	berrerortzearen aurkako erreformak
+PNV-p24-01	G13,G17	ez	ez	ez	ez	0	0	-	-	-
+PNV-3.2-01	G13,G17	ez	ez	ez	ez	1	0	-	-	-
+PNV-3.2-02	G13	ez	ez	ez	ez	1	0	-	-	Euskadi "frontera norte"
+PNV-3.2-03	G13,G14,G17	ez	ez	ez	ez	1	0	-	-	-
+PNV-3.2-04	G13	ez	ez	ez	handitu	1	0	etorkinak=onura	-	-
+PNV-3.2-05	G13	ez	ez	ez	handitu	2	0	etorkinak=onura	-	Aranako harrera-zentro handiaren aurka
+PNV-3.2-06	G13,G17	ez	ez	ez	ez	1	0	-	-	-
+PNV-3.2-07	G13	ez	ez	ez	ez	1	0	etorkinak=onura	-	-
+PNV-3.2-08	G13,G02	ez	ez	ez	ez	1	0	-	-	jatorrian kontratatu
+PNV-3.2-09	G13	ez	ez	ez	ez	1	0	etorkinak=onura	S06=+1	"Avanzar en los procesos de regularización previstos en la legislación" (ez orokorra)
+PNV-3.2-10	G13,G02	ez	ez	ez	ez	1	0	etorkinak=onura	-	-
+PNV-3.2-11	G13	ez	ez	ez	ez	1	0	etorkinak=onura	-	-
+PNV-3.2-12	G13,G20	ez	ez	ez	ez	1	0	-	-	-
+PNV-3.2-13	G13,G16	ez	ez	ez	ez	1	0	etorkinak=onura	-	euskara integrazio-tresna
+PNV-p25-01	G15	ez	ez	ez	ez	0	0	emakumeak=onura	-	-
+PNV-3.3-01	G15	ez	ez	ez	ez	1	0	emakumeak=onura	-	-
+PNV-3.3-02	G15,G17	ez	ez	ez	ez	2	0	emakumeak=onura	-	-
+PNV-3.3-03	G15	ez	ez	ez	ez	1	0	-	-	-
+PNV-3.3-04	G15,G04	zabaldu|mantendu	ez	ez	ez	1	0	emakumeak=onura	-	-
+PNV-3.3-05	G15,G14	ez	ez	ez	ez	3	0	emakumeak=onura	-	abortu-zentroen inguruan 150 m
+PNV-3.3-06	G15	ez	ez	ez	ez	1	0	emakumeak=onura	-	-
+PNV-3.3-07	G15	ez	ez	ez	ez	1	0	emakumeak=onura	-	-
+PNV-3.3-08	G15,G14	ez	ez	ez	ez	2	0	emakumeak=onura	-	-
+PNV-3.3-09	G15,G14	ez	ez	ez	handitu	2	0	emakumeak=onura	-	-
+PNV-3.3-10	G15,G06	zabaldu	ez	ez	ez	1	0	emakumeak=onura	-	-
+PNV-3.3-11	G15,G06	zabaldu	ez	ez	ez	2	0	emakumeak=onura	-	-
+PNV-3.3-12	G15,G19	ez	ez	ez	ez	2	0	emakumeak=onura	-	Patronato de Protección a la Mujer-en biktimak
+PNV-p27-01	G15	ez	ez	ez	ez	0	0	-	-	-
+PNV-3.4-01	G15,G14	ez	ez	ez	ez	1	0	-	-	-
+PNV-3.4-02	G15,G14	ez	ez	ez	ez	1	0	-	-	-
+PNV-3.4-03	G15	ez	ez	ez	ez	0	0	-	-	-
+PNV-3.4-05	G15,G14	ez	ez	ez	ez	2	0	-	-	-
+PNV-3.4-06	G15,G13	ez	ez	ez	ez	2	0	etorkinak=onura	-	-
+PNV-p27-02	G14	ez	ez	ez	ez	0	0	-	-	-
+PNV-3.5-01	G14,G22	ez	ez	ez	ez	2	0	-	-	-
+PNV-3.5-02	G14	ez	ez	ez	ez	1	0	-	-	ASKATASUN ZIBILAK: Mozal Legea erreformatu
+PNV-3.5-03	G14	ez	ez	ez	ez	1	0	-	-	ASKATASUN ZIBILAK: Koroari eta erakundeei buruzko adierazpen-delituak erreformatu
+PNV-3.5-04	G14,G20	ez	ez	ez	ez	1	0	-	-	jurisdikzio unibertsala berreskuratu
+PNV-3.5-05	G14,G19	ez	ez	ez	ez	1	0	-	-	espetxe-zigor iraunkor berrikusgarriaren aurka; birgizarteratzea (ez du ETAko presoei buruz zuzenean hitz egiten)
+PNV-3.5-06	G13,G14	ez	ez	ez	ez	1	0	etorkinak=onura	-	CIEen alternatibak
+PNV-3.5-07	G20	ez	ez	ez	ez	0	0	-	-	-
+PNV-3.5-08	G20	ez	ez	ez	handitu	1	0	-	-	-
+PNV-3.5-09	G20,G14	ez	ez	ez	ez	1	0	-	-	-
+PNV-p29-02	G99	ez	ez	ez	ez	0	0	-	-	-
+PNV-p30-01	G03,G04,G06	mantendu	ez	ez	ez	0	0	pentsiodunak=onura	-	-
+PNV-p30-02	G04,G17	ez	ez	ez	ez	0	0	-	-	-
+PNV-p30-03	G06	zabaldu	ez	ez	ez	0	0	-	-	-
+PNV-p30-04	G03,G15	ez	ez	ez	ez	0	0	-	-	-
+PNV-p30-05	G03,G06,G17	mantendu	ez	ez	ez	0	0	pentsiodunak=onura	-	"No aceptaremos retrocesos en las pensiones ni recortes en los derechos sociales"
+PNV-p30-06	G03,G06	mantendu	ez	ez	ez	0	0	-	-	"sin trasladar las dificultades de hoy a quienes vivirán mañana"
+PNV-p30-07	G03,G06	ez	ez	ez	ez	0	0	-	-	-
+PNV-p30-08	G03	zabaldu|mantendu	ez	ez	ez	0	0	pentsiodunak=onura	-	-
+PNV-4.1-01	G03	mantendu	ez	ez	ez	2	0	pentsiodunak=onura	S05=+2	"revalorizarlas anualmente conforme al IPC"
+PNV-4.1-02	G03	zabaldu	ez	ez	ez	1	0	pentsiodunak=onura;prekarioak=onura	-	-
+PNV-4.1-03	G03,G02	zabaldu	ez	ez	ez	3	0	langileak=onura;pentsiodunak=onura	-	40 urte kotizatuta penalizaziorik gabe, jada erretiratuei ere
+PNV-4.1-04	G03,G15	zabaldu	ez	ez	ez	1	0	emakumeak=onura	-	-
+PNV-4.1-05	G03,G06	zabaldu	ez	ez	ez	1	0	-	-	-
+PNV-4.1-06	G03,G06	zabaldu	ez	ez	ez	2	0	-	-	-
+PNV-4.1-07	G03	mantendu	ez	ez	ez	1	0	-	-	-
+PNV-4.1-08	G03,G02	ez	ez	ez	ez	1	0	langileak=nahasia|onura	-	enpleguko gizarte-aurreikuspena "nunca como sustitución"
+PNV-4.1-09	G03,G17	ez	ez	ez	ez	2	0	-	-	Gizarte Segurantzaren araubide ekonomikoaren kudeaketa transferitu, "carácter unitario" errespetatuz
+PNV-p31-01	G04,G17	ez	ez	ez	ez	0	0	-	-	-
+PNV-4.2-01	G04	zabaldu	ez	ez	ez	1	0	-	-	-
+PNV-4.2-02	G04,G16	ez	ez	ez	ez	2	0	-	S07=+1	hizkuntza ofizialak baloratu BAME/MIR sarbidean (merezimendu gisa)
+PNV-4.2-03	G04	ez	ez	ez	ez	1	0	-	-	-
+PNV-4.2-04	G04,G17	ez	ez	ez	ez	1	0	-	-	-
+PNV-4.2-05	G04	zabaldu	ez	ez	ez	1	0	-	-	-
+PNV-4.2-06	G04	ez	ez	ez	ez	1	0	-	-	kannabis medizinala
+PNV-4.2-07	G04,G17	ez	ez	ez	ez	2	0	-	-	ezintasun iragankorren kontrol sanitarioa transferitu
+PNV-4.2-08	G04,G02	ez	hobetu	ez	ez	2	0	langileak=onura	-	-
+PNV-4.2-09	G04,G02	ez	ez	ez	ez	1	0	-	-	-
+PNV-p32-01	G06	ez	ez	ez	ez	0	0	-	-	-
+PNV-4.3-01	G06,G15	zabaldu	ez	ez	ez	2	0	emakumeak=onura|ez	-	zaintzaile ez-profesionalentzat SMIa erreferentziatzat
+PNV-4.3-02	G06	zabaldu	ez	ez	ez	1	0	-	-	-
+PNV-4.3-03	G06	zabaldu	ez	ez	handitu	1	0	-	-	-
+PNV-4.3-04	G06,G17	zabaldu	ez	ez	ez	1	0	-	-	-
+PNV-p33-01	G06,G04	ez	ez	ez	ez	0	0	-	-	-
+PNV-4.4-01	G06,G04	zabaldu	ez	ez	handitu	2	0	-	-	ELA Legea
+PNV-4.4-02	G06,G09	zabaldu	ez	ez	ez	2	0	-	-	-
+PNV-4.4-03	G06,G09	zabaldu	ez	ez	ez	2	0	prekarioak=onura	-	-
+PNV-4.4-04	G06	zabaldu	ez	ez	ez	2	0	-	-	-
+PNV-4.4-05	G06,G02	zabaldu	ez	ez	ez	1	0	-	-	-
+PNV-p34-01	G06,G02	ez	ez	ez	ez	0	0	-	-	-
+PNV-4.5-01	G06,G02	zabaldu	ez	ez	ez	2	0	langileak=onura	-	amiantoaren biktimak
+PNV-4.5-02	G06	zabaldu	ez	ez	ez	1	0	langileak=onura	-	-
+PNV-4.5-03	G06,G07	ez	ez	jaitsi_orokorra	ez	3	0	langileak=onura	-	-
+PNV-4.5-04	G06	ez	ez	ez	handitu	1	0	-	-	-
+PNV-p34-02	G06	ez	ez	ez	ez	0	0	-	-	-
+PNV-4.6-01	G06	zabaldu	ez	ez	ez	1	0	prekarioak=onura	-	-
+PNV-4.6-02	G06,G14	ez	ez	ez	ez	1	0	-	-	-
+PNV-4.6-03	G14,G06,G17	ez	ez	ez	ez	1	0	-	-	-
+PNV-4.6-04	G14,G06	ez	ez	ez	ez	1	0	-	-	-
+PNV-4.6-05	G14	ez	ez	ez	ez	1	0	-	-	-
+PNV-4.6-06	G06,G03	zabaldu|mantendu	ez	ez	ez	1	0	-	-	-
+PNV-4.6-07	G06,G17	ez	ez	ez	ez	1	0	-	-	-
+PNV-p36-02	G99	ez	ez	ez	ez	0	0	-	-	-
+PNV-p37-01	G17	ez	ez	ez	ez	0	0	-	-	-
+PNV-p37-02	G17,G07	ez	ez	ez	ez	0	0	-	-	-
+PNV-p37-03	G17,G20	ez	ez	ez	ez	0	0	-	-	-
+PNV-p37-04	G17	ez	ez	ez	ez	0	0	-	-	-
+PNV-p37-05	G17,G18	ez	ez	ez	ez	1	0	-	S08=+2;S09=+1	"reconocimiento de Euskadi como nación, el pacto, la bilateralidad y el respeto a la voluntad democrática de la sociedad vasca" — S09 ZEHARKA (ez du erreferendumik aipatzen)
+PNV-p37-06	G19,G22	ez	ez	ez	ez	0	0	-	-	-
+PNV-p37-07	G20,G17	ez	ez	ez	ez	0	0	-	-	-
+PNV-p37-08	G17	ez	ez	ez	ez	0	0	-	-	-
+PNV-p38-01	G17	ez	ez	ez	ez	0	0	-	-	-
+PNV-5.1-01	G17	ez	ez	ez	ez	1	0	-	-	Gernikako Estatutua osorik, transferentzia guztiak
+PNV-5.1-02	G17	ez	ez	ez	ez	1	0	-	-	birzentralizazioaren aurka
+PNV-5.1-03	G17	ez	ez	ez	ez	2	0	-	S08=+2	"Establecer mecanismos bilaterales de negociación y seguimiento de los acuerdos entre Euskadi y el Estado"
+PNV-5.1-04	G17	ez	ez	ez	ez	1	0	-	S08=+2	"reconocimiento nacional de Euskadi… pacto, la bilateralidad"
+PNV-5.1-05	G17	ez	ez	ez	ez	1	0	-	-	Nafarroa: Hobekuntza eta Hitzarmena, Geroa Bairekin
+PNV-5.1-06	G17,G22	ez	ez	ez	ez	2	0	-	-	Trebiñu eta Villaverde Turtzioz: herritarrek erabakitzeko eskubidea
+PNV-p38-02	G17,G07	ez	ez	ez	ez	0	0	-	S08=+2	Kontzertuaren "pacto y bilateralidad" harreman politikora zabaldu
+PNV-5.2-01	G17,G07	ez	ez	ez	ez	1	0	-	-	Kontzertuaren legea aldatu, gaitasun fiskal gehiago
+PNV-5.2-02	G17,G07	ez	ez	ez	ez	1	0	-	-	-
+PNV-5.2-03	G17,G18	ez	ez	ez	ez	1	0	-	S08=+2;S09=+1	"reconocimiento de la realidad nacional vasca, el respeto a la voluntad democrática" — S09 ZEHARKA
+PNV-5.2-04	G17	ez	ez	ez	ez	1	0	-	S08=+2	"Concierto Político… pacto y bilateralidad"
+PNV-5.2-05	G17	ez	ez	ez	ez	1	0	-	S08=+1	aldebakarreko aldaketak eragozteko bermeak
+PNV-p39-01	G14,G17	ez	ez	ez	ez	0	0	-	-	-
+PNV-5.3-01	G14,G17	ez	ez	ez	ez	2	0	-	-	instantzia guztiak EAEko Auzitegi Nagusian
+PNV-5.3-02	G14,G17	ez	ez	ez	ez	1	0	-	-	Euskal Justizia Kontseilua
+PNV-5.3-03	G14,G17	ez	ez	ez	ez	1	0	-	-	-
+PNV-p40-01	G19,G22	ez	ez	ez	ez	0	0	-	-	-
+PNV-5.4-01	G19,G22	ez	ez	ez	ez	2	0	-	-	Sekretu Ofizialen Lege berria, desklasifikazio automatikoarekin
+PNV-5.4-02	G19	ez	ez	ez	ez	2	0	-	-	martxoaren 3a
+PNV-5.4-03	G19	ez	ez	ez	ez	2	0	-	-	Mikel Zabalza
+PNV-5.4-04	G19	ez	ez	ez	ez	2	0	-	-	Aldana taberna (1980)
+PNV-5.4-05	G19	ez	ez	ez	ez	2	0	-	-	1978ko Sanferminak
+PNV-5.4-06	G19	ez	ez	ez	ez	1	0	-	-	Memoria Historiko eta Demokratikoaren legeak osorik aplikatu
+PNV-5.4-07	G22,G08	ez	ez	ez	ez	1	0	-	-	-
+PNV-p40-02	G20,G17	ez	ez	ez	ez	0	0	-	-	-
+PNV-5.5-01	G20,G17	ez	ez	ez	ez	1	0	-	-	-
+PNV-5.5-02	G20,G17	ez	ez	ez	ez	2	0	-	-	EBko Kontseiluan (ECOFIN…) ahots propioa
+PNV-5.5-03	G20,G17	ez	ez	ez	ez	1	0	-	S08=+1	errealitate nazionalak Europako erakundeetan aitortu
+PNV-5.5-04	G16,G20	ez	ez	ez	ez	1	0	-	-	euskara ofiziala EBn
+PNV-5.5-05	G20	ez	ez	ez	ez	0	0	-	-	-
+PNV-5.5-06	G20,G12	ez	ez	ez	ez	1	0	-	-	-
+PNV-5.5-07	G20,G12	ez	ez	ez	ez	1	0	-	-	-
+PNV-p41-01	G20,G17	ez	ez	ez	ez	0	0	-	-	-
+PNV-5.6-01	G20,G17	ez	ez	ez	ez	2	0	-	-	-
+PNV-5.6-02	G20,G17	ez	ez	ez	ez	1	0	-	-	-
+PNV-5.6-03	G20,G17	ez	ez	ez	ez	1	0	-	-	-
+PNV-5.6-04	G20,G10	ez	ez	ez	ez	1	0	-	-	-

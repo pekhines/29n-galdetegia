@@ -1,0 +1,166 @@
+# Galdetegia v2: gelaxka bakoitzaren azalpena, herritarrentzat (programa-gelaxkak eta isiltasunak).
+# C gelaxken azalpena datuak/c-aukera.tsv-tik dator (pipeline/galdetegia-v2-json.pl-k batzen ditu).
+# Parafrasia da, ez aipu literala; jatorrizko testua estekan (PDF + orria) dago.
+id	alderdia	azalpena
+H1	PNV	Programak "praktika espekulatiboak murriztea" eta alokairua arautzea aipatzen ditu, baina ez du prezio-mugarik edo jaitsierarik proposatzen.
+H1	EHB	Alokairuen urteko igoera % 2ra mugatu nahi du modu iraunkorrean, eta prezioak erregulatu. Ez du jaitsiera orokorrik proposatzen.
+H1	PSOE	Erreferentzia-indizetik gorako errentak aldi baterako "izoztea" proposatzen du eremu tentsionatuetan. Ez du jaitsiera orokorrik proposatzen.
+H1	FA	Legezko goi-muga: errenta garbi ertainaren % 25 edo SERPAVI indizea, txikiena. 200.000 biztanletik gorako hirietan beste % 30eko jaitsiera.
+H1	POD	Alokairuak % 40 jaistea legez, indarrean dauden kontratuetan, berritzeetan eta kontratu berrietan.
+H1	PP	Etxebizitza Legea indargabetu, eta tentsio-eremuak eta prezio-indizea kendu. Mugen ordez pizgarri fiskalak.
+H1	VOX	Etxebizitza Legea indargabetu; alokairu luzeetarako pizgarri fiskalak.
+H2	PNV	Etxebizitza garestitzen duten praktika espekulatiboak murriztea, neurri zehatzik gabe.
+H2	EHB	Pertsona juridikoek, inbertsio-funtsek eta jabe handiek etxebizitzak espekulatzeko erostea debekatu; atzerriko jabe handiei erroldatze-baldintza.
+H2	PSOE	Funts putreek egindako erosketa espekulatiboa mugatu, eta zerga berria hutsik, turismo-erabileran edo prezio abusiboan dauden jabe handien etxebizitzentzat.
+H2	FA	Jabe korporatibo handien etxebizitzak desjabetu (atalase desberdinekin); SAREBen lurzoruak enpresa publikora.
+H2	POD	Bizitzeko ez diren etxebizitzak erostea debekatu, eta 10 etxebizitzatik gorako jabe handien erabilera desjabetu (~626.000 etxebizitza).
+H2	PP	Ez du espekulazioa mugatzeko neurririk. Etxebizitza Legea indargabetu eta eskaintza handitu nahi du (zeharkako ondorioa).
+H2	VOX	Fiskalitate "astun eta disuasiogarria" funts eta sozietateen eragiketa espekulatiboentzat eta EBtik kanpoko erosleentzat.
+H3	PNV	Denboraldiko eta turismo-alokairuak arautu, alokairu iraunkorrari etxebizitzarik ken ez diezaioten.
+H3	EHB	Plataformek legez kanpoko etxebizitza turistikoak iragartzea debekatzeko lege-proposamena berriro aurkeztu.
+H3	PSOE	Auzokideek pisu turistikoak debekatu ahal izatea, eta turismo-erabilerako etxebizitzei zerga berria.
+H3	FA	Etxebizitza turistikoen (VUT) lizentziak 3 urtean iraungi eremu tentsionatuetako bizitegi-eraikinetan.
+H3	POD	Etxebizitzen turismo-erabilera debekatu etxebizitza-larrialdiak dirauen bitartean; lizentziak pixkanaka kendu.
+H3	VOX	Etxebizitza turistikoen "ugaritze masiboa" arautu eta legez kanpokoen ikuskapena indartu.
+L1	EHB	Lanaldia astean 32 ordura edo lau lan-egunera murriztea, soldata jaitsi gabe, Langileen Estatutua aldatuz.
+L1	PSOE	37,5 orduko murrizketa osatu, eta negoziazio kolektiboaren bidez 35 orduranzko aurrerapenak bultzatu.
+L1	FA	Gehienez 32 orduko lan-astea soldata jaitsi gabe, 37,5 ordutik hasita berehala.
+L1	POD	Lanaldia 30 ordura murriztu legegintzaldian, 35etik hasita, soldata murriztu gabe.
+L2	EHB	Bidegabeko kaleratzeagatik gutxienez 45 eguneko kalte-ordaina, Europako Eskubide Sozialen Batzordearen ebazpenaren arabera.
+L2	PSOE	Kaleratze bidegabea erreformatu, ordain eraginkor, proportzionatu eta disuasiogarria izan dadin (Gutun Sozial Europarra). Ez du zifrarik ematen.
+L2	FA	Kaleratze-kalte-ordaina erreformatu, benetako kaltea ordaindu eta kaleratze bidegabeak disuaditzeko. Ez du zifrarik ematen.
+L2	POD	45 eguneko kalte-ordaina berreskuratu, eta langileak kalte-ordaina edo berronartzea aukeratu. 2010 eta 2012ko lan-erreformak indargabetu.
+L2	VOX	"Sánchezen lan-legeria" (2021eko lan-erreforma) indargabetu, sindikatuen "duopolioaren" aurka. Langileen babesa murriztuko luke.
+L3	PNV	Euskadirentzat gutxieneko soldata propioa (estatukoaren gainetik), lan-harremanen esparru propioa eta euskal hitzarmenen lehentasuna.
+L3	EHB	Lanbide arteko gutxieneko soldata propioa, errealitate sozioekonomikora egokitua.
+N1	PNV	Euskadiren nazio-aitortza, mekanismo aldebikoak eta "Concierto Político" bat.
+N1	EHB	Euskal erakundeen erabakiak errespetatzea, eta Estatuarekiko harreman-esparru berriak (estatus berria), euskal gizarteak berretsita.
+N1	PSOE	Programak ez du nazio-aitortzarik ez aldebikotasunik aipatzen. Kongresuko bozketarik ere ez da aurkitu.
+N1	FA	Errepublika federal eta plurinazionala, "errealitate plurinazionalaren aitortza osoa", eta Estatuarekiko espazio aldebikoak.
+N1	POD	Prozesu konstituziogilea, plurinazionaltasuna aitortzeko (III. Errepublika).
+N1	PP	Arau berak denentzat: ez da erregimen berririk itunduko aldebikotasunez, eta ez da komunitaterik sistema komunetik aterako.
+N1	VOX	"Nazio bakarra"; Espainiaren batasunaren aurkako alderdiak legez kanpo utzi.
+N2	PNV	"Euskal gizartearen borondate demokratikoa errespetatzea" aipatzen du, erreferendumik edo independentziarik aipatu gabe (zeharka).
+N2	EHB	Euskal Herriaren erabakitzeko eskubidea aitortzea.
+N2	FA	Eredu federal-plurinazionalaren barruan "erabakitzeko eskubidea erreferendum bidez", eztabaida-helburu gisa. Ez du independentzia-aukerarik edo lotesletasunik aipatzen.
+N2	POD	Programak ez du erabakitzeko eskubidea aipatzen. Bere erreferendum bakarra monarkia edo errepublikari buruzkoa da. Testuingurua: 2021ean (aurreko legegintzaldian) hitzartutako erreferendum baten alde agertu zen Katalunian.
+N2	PP	"Legez kanpoko erreferenduma" delitu bihurtu.
+N2	VOX	Sedizioa berreskuratu eta Espainiaren batasunaren aurkako alderdiak legez kanpo utzi.
+N3	PNV	Gernikako Estatutua osorik bete, transferentzia guztiak (Gizarte Segurantzaren araubide ekonomikoaren kudeaketa barne), eta birzentralizazio-saiakerak baztertu.
+N3	EHB	Estatutuko eta Amejoramenduko eskumen guztiak transferitu (Gizarte Segurantzaren araubide ekonomikoa barne), eta birzentralizazioaren aurka.
+N3	PSOE	"Ez birzentralizatu ez zatitu": autonomien Estatuak hobeto funtzionatzea, lankidetza gehiagorekin. Ez du transferentziarik zehazten.
+N3	FA	Birzentralizazioaren aurka, Estatutuen "irakurketa federala" eta eskumen autonomikoen errespetu osoa.
+N3	POD	Programak ez ditu Estatutuak edo eskumen-transferentziak aipatzen (Senatu federala soilik).
+N3	PP	Zerga Agentziaren batasuna eta Gizarte Segurantzaren kutxa bakarra blindatu; Estatuko Administrazioa lurralde guztian.
+N3	VOX	"Merkatu bakarra eta nazio bakarra"; eskumen autonomikoen aurkako merkatu-batasuneko legea.
+N4	EHB	Espetxe-legedi arrunta preso guztiei, eta salbuespen-neurri guztien amaiera.
+N4	PP	Espetxe-politikak justiziarekin kolaboratzea eskatuko du; presoei omenaldiak debekatu; Amnistia Legea indargabetu.
+N4	VOX	Terrorismoagatik zigortuen "espetxe-pribilegioak" amaitu; ETAren delituak gizateriaren aurkako krimen.
+K1	EHB	Banku, enpresa handi eta fortuna handien zergak igo.
+K1	PSOE	Kapital-errenta altuenei zerga gehiago; IRPFaren lehen bi tarteak ukitu gabe.
+K1	FA	Ahalegin fiskal berria korporazio handien gain; Ondarean eta Oinordetzan gutxieneko komuna.
+K1	POD	Fortuna handien zerga iraunkorra; Sozietate Zergan gutxieneko tipoa % 19 (oligopolioak % 29); IRPFa igo 60.000 €tik gora.
+K1	PP	Inbertsioa galgatzen duten zergak ezabatu (zeharka aberatsen zergak igotzearen aurka).
+K1	VOX	Sozietate Zerga jaitsi, eta IRPF eta BEZ jaitsiera orokorrak.
+K2	PNV	Euskal administrazioei inbertsio-tarte handiagoa: egonkortasun-araudia berrikusi eta gastu-arau malguagoak.
+K2	EHB	135. artikuluaren erreforma indargabetu (zorraren ordainketa lehenesten du), eta austeritatera itzultzeari uko.
+K2	PSOE	Defizit eta zor-ratioen ibilbide beheranzkoa mantendu eta arau fiskalak bete.
+K2	FA	135. artikulua aldatu: egonkortasun-ibilbideak ez dira aplikatuko "egonkortasun soziala" arriskuan badago.
+K2	POD	135. artikuluaren erreforma indargabetu, zorraren ordainketa inbertsio sozialaren aurretik egon ez dadin.
+K2	PP	Defizit egiturazkoa eta zorra murriztu.
+K2	VOX	Zor publikoa murriztu, gastu "superfluo eta ideologikoa" kenduz; zerga-jaitsiera gastu-murrizketekin finantzatu.
+K3	PNV	Programak ez du defentsa-gastua aipatzen.
+K3	EHB	NATOk eskatzen duen defentsa-gastuaren igoerari uko egin.
+K3	PSOE	Europako defentsa-batasuna bultzatu eta autonomia estrategiko eta militarra indartu.
+K3	FA	NATOren % 5a esplizituki baztertu, eta gastu militarraren murrizketa eraginkorra gizarte-gastura bideratu.
+K3	POD	Berrarmatzea atzera bota, gastu militarra izoztu, NATOren % 5a baztertu eta NATOtik atera.
+K3	PP	Defentsa-industria bultzatu, eta beharrezkoa denean NATOko kontingenteak indartu.
+K3	VOX	Defentsan inbertsio gehiago, eta Indar Armatuei eta segurtasun-indarrei baliabide gehiago.
+K4	PNV	Kontzertu Ekonomikoa errespetatu, eta haren eguneratzearen bidez gaitasun arautzaile handiagoa (BEZa, zerga bereziak).
+K4	EHB	Kontzertua eta Hitzarmena autogobernuaren zutabe gisa defendatu eta zabaldu; Estatuko zerga-aldaketak aurretik itundu.
+K4	PP	Zerga Agentziaren batasuna blindatu, "ez da gehiago zatituko".
+E1	PNV	Hizkuntza ofizialak baloratu (merezimendu gisa, ez eskakizun gisa) espezializazio sanitarioko sarbidean.
+E1	EHB	Estatuko administrazioak EHn eskaintzen dituen zerbitzuetan (justizia barne) euskara jakitea baldintza izatea.
+E1	PSOE	Hizkuntza koofizialak Gorteetan erabili, eta erabilera hori arretara zabaldu.
+E1	FA	Eleaniztasun-legea: herritarrek Estatuko erakundeekin hizkuntza koofizialetan harremanak izan ahal izatea.
+E1	POD	Programak ez du administrazioko hizkuntza-eskakizuna aipatzen (hezkuntza bakarrik).
+E1	PP	"Hizkuntza-eskakizunek guztien askatasunak eta oinarrizko eskubideak errespetatuko dituzte" (eskakizunak mugatzea).
+E1	VOX	Hizkuntza erregionalak ez jakitea ez da oztopo izango osasun-langileen oposizioetan.
+E2	PNV	Euskara, katalana eta galegoa EBn ofizial egitea sustatu.
+E2	EHB	Estatuko administrazio guztietan euskararen erabilera bermatu, eta EBn ofizialtasuna lortzeko lanean jarraitu.
+E2	PSOE	Hizkuntza koofizialak Gorteetan finkatu eta EBn ofizial egitea bultzatu.
+E2	FA	Eleaniztasun-legea Estatuko erakundeetan; hizkuntza koofizialentzako plan estatala.
+E2	POD	Hizkuntza ofizialen pantaila-kuotak eta hezkuntzako eskaintza (zeharka).
+E2	PP	Gaztelania Kongresuko lan-hizkuntza izatera itzuliko da; hizkuntza koofizialak Senatuan bakarrik.
+E3	PNV	Programak ez du euskarazko kultura edo ikus-entzunezkoen finantzaketa aipatzen.
+E3	EHB	Euskarazko produkzioentzako laguntzak legez blindatu; Zinematografia Funtsaren % 15 gaztelania ez diren hizkuntzetarako.
+E3	PSOE	Hizkuntza-eredu irekiak gaztelaniaz eta hizkuntza koofizialetan; Etxepare Institutuarekin lankidetza.
+E3	FA	Hizkuntza koofizialetako eduki digitalak sortzeko laguntza-lerro berria.
+E3	POD	Estatuko hizkuntza ofizialentzako pantaila-kuotak mantendu eta haien erabilera sustatu ikus-entzunezkoetan.
+E3	PP	Programak ez du hizkuntza koofizialetako kulturaren finantzaketa aipatzen.
+E3	VOX	Programak ez du gaia aipatzen.
+O1	PNV	Programak ez du osasunaren kudeaketa publiko/pribatua aipatzen (MIR eta eskumenak bakarrik). Gestio Publikoaren legea Osasun Batzordean dago, bozketarik gabe oraindik.
+O1	EHB	15/1997 Legea indargabetu eta osasun publikoa indartu.
+O1	PSOE	Itxaron-zerrendak amaitu eta Osasun Sistema Nazionalaren izaera publikoa indartu.
+O1	FA	Osasuna % 100 publikoa eta kudeaketa zuzenekoa; arrisku-kapitalari ospitaleak erostea debekatu.
+O1	POD	15/1997 Legea indargabetu, kudeaketa publiko zuzena derrigorrezko egin, eta pribatizatutako zerbitzuak berreskuratu.
+O1	PP	Osasun-finantzaketa eta mediku gehiago; ez ditu itunak mugatzen.
+O1	VOX	Itxaron-zerrendak murrizteko lankidetza publiko-pribatua sustatu.
+O2	PNV	Programak ez du osasun-finantzaketaren gutxienekorik aipatzen.
+O2	EHB	Programak ez du osasun-finantzaketaren gutxienekorik aipatzen.
+O2	PSOE	Osasun publikoaren finantzaketa BPGaren % 7aren inguruan finkatu.
+O2	FA	Osasunerako BPGaren % 8ko zorua.
+O2	POD	Biztanleko 2.900 € (BPGaren ~% 8), kudeaketa zuzeneko osasunerako bakarrik.
+O2	PP	Osasun-finantzaketa eta profesional gehiago, zifrarik gabe.
+O2	VOX	Lehen mailako arreta indartu eta inbertsio-plana (zeharka).
+G1	PNV	"Mozal legea" deritzona erreformatu, eskubideen gaineko murrizketa neurrigabeak kenduz.
+G1	EHB	Mozal Legearekin amaitu.
+G1	FA	Mozal Legea guztiz indargabetu.
+G1	POD	Mozal Legea indargabetu, eta gomazko pilotak debekatu.
+G1	PP	Istilu bortitzen aurkako erantzuna gogortu (zeharka, Mozal Legea mantentzearen alde).
+G2	PNV	Multierreinzidentziaren aurkako lege-erreformak bultzatu, erantzun judizial azkarrago eta eraginkorrarekin. Espetxe iraunkor berrikusgarria, berriz, baztertzen du.
+G2	FA	Prebentzioan eta justizia sozialean oinarritutako segurtasun-eredua; askatasuna kentzen ez duten zigor gehiago.
+G2	POD	Bermeak indartu (Mozal Legea indargabetu, atxiloketa max. 48 h).
+G2	PP	Multierreinzidentziari erantzun penal azkarragoa, eta istiluen aurkako zigorrak gogortu.
+G2	VOX	Adingabeen erantzukizun penalaren adina jaitsi, eta espetxe iraunkor berrikusgarria zabaldu.
+G3	PNV	Ertzaintza Euskadiko polizia integral gisa aitortu, eskumen guztiekin, eta segurtasuna Euskaditik kudeatu.
+G3	EHB	Estatuko segurtasun-indarrak EAEtik eta Nafarroatik atera, eta Ertzaintzaren eta Foruzaingoaren eskumenak osorik garatu.
+G3	FA	Ertzaintza eta Foruzaingoa nazioarteko polizia-lankidetzako erakundeetan sartu.
+G3	PP	Estatuko Administrazio Orokorraren presentzia lurralde guztietan berrezarri (zeharka: ez du polizia autonomikoen eskumenik zabaltzen).
+I1	PNV	Legerian aurreikusitako erregularizazio-prozesuak (ez orokorra).
+I1	EHB	Bizileku- eta lan-baimenak eman eta irregulartasun sortua prebenitu; giza eskubideetan oinarritutako atzerritartasun-lege berria.
+I1	FA	2026ko aparteko erregularizazioa amaitu, eta erregularizazio-prozedura egonkor eta iraunkorra sortu.
+I1	POD	Atzerritarren Legea indargabetu, eta erregularizazio-prozedura iraunkorra ezarri.
+I1	PP	Erregularizazio masibo eta bereizi gabeak legez debekatu; errotzea salbuespenezkoa izango da.
+I1	VOX	"Ni uno más": erregularizazio masiboak debekatu eta errotzea ezabatu.
+I2	PNV	Integratzeak eskubideak bermatzea esan nahi du; enplegurako sarbidea eta euskara ikastea.
+I2	EHB	Osasunerako, hezkuntzarako, etxebizitzarako eta babes sozialerako oztopoak kendu, egoera administratiboa edozein dela ere.
+I2	PSOE	Integrazio-plana (500 M€) eta etorkinen eskubideak.
+I2	FA	Oztopo administratiboak kendu (erroldatze malgua, oinarrizko banku-kontua, tituluen homologazioa).
+I2	POD	Osasun-sistema unibertsala egoera irregularrekoentzat ere; amatasun-prestazioak egoera administratiboa edozein dela ere.
+I2	PP	Etorkin-kupoak, langabeziaren, etxebizitzaren eta zerbitzu publikoen gaitasunaren arabera.
+I2	VOX	"Lehentasun nazionala" etxebizitza, prestazio eta zerbitzuetan; IMV espainiarrentzat bakarrik; egoera irregularrekoei osasun-arreta kendu (larrialdiak salbu).
+P1	PNV	Pentsioak urtero KPIaren arabera errebalorizatu.
+P1	EHB	Pentsio-sistema publikoa blindatu, eta erretiro-adina luzatzeko saiakerei uko egin.
+P1	PSOE	Pentsio publikoak eta haien KPIarekiko errebalorizazioa Konstituzioan blindatu.
+P1	FA	Pentsiorako eskubidea eta KPIarekiko errebalorizazio automatikoa Konstituzioan jaso.
+P1	POD	Erretiro-adin arrunta 63 urtera; gutxieneko pentsioa SMIaren parera.
+P1	PP	Pentsioen erosahalmena mantendu, eta Toledoko Ituna berreraiki.
+N4	PNV	Programak ez ditu ETAgatik zigortutakoen espetxe-onurak aipatzen. Oro har, birgizarteratzera bideratutako espetxe-sistema defendatzen du.
+N4	PSOE	Programak ez ditu ETAgatik zigortutakoen espetxe-onurak aipatzen, eta ez da bozketarik aurkitu.
+N4	FA	Programak ez ditu ETAgatik zigortutakoen espetxe-onurak aipatzen, eta ez da bozketarik aurkitu.
+N4	POD	Programak ez ditu ETAgatik zigortutakoen espetxe-onurak aipatzen, eta ez da bozketarik aurkitu.
+N5	PNV	Eskumen euskaldunak birzentralizatzeko, inbaditzeko edo hustutzeko edozein saiakera baztertu, eta falta diren eskumenak eskatu.
+N5	EHB	Autogobernua eta eskumen guztiak defendatu, birzentralizatzeko edo atzera egiteko edozein saiakeraren aurrean.
+N5	PSOE	Autonomien Estatua lorpen handia da: "erronka ez da birzentralizatzea ez zatitzea", lankidetza gehiagorekin hobeto funtzionatzea baizik.
+N5	FA	Birzentralizazioaren eta uniformetasunaren aurka; deszentralizazio berri bat, udalerrietaraino.
+N5	POD	Programak ez du eskumenen banaketa aipatzen (errepublika plurinazionala eta Senatu federala bakarrik).
+N5	PP	Autonomien Estatua eta erkidegoen autogobernua defendatzen ditu. Estatuak bere eskumen esklusiboak lurralde osoan zuzenean erabiliko ditu, baina ez du transferitutakoak berreskuratzea proposatzen.
+N5	VOX	Zerbitzu publikoen kalitatea eta espainiar guztien eskubideak berdinak izatea bizilekua edozein dela ere, batez ere hezkuntzan, osasunean, segurtasunean eta justizian (zeharka: ez du esplizituki eskumenak itzultzea aipatzen).
+G4	PNV	Indarkeria matxistagatiko kalte-ordainak pentsio ez-kontributiboekin bateragarri egin (zeharka: egungo babes-esparrua mantentzen du).
+G4	EHB	Indarkeria matxista ukatzen duten diskurtsoei aurre egin, eta biktimak babesteko baliabideak berrikusi eta indartu.
+G4	PSOE	Genero-indarkeriaren aurkako Estatu Ituna aplikatzen jarraitu; indarkeria matxistaren biktimentzako osasun mentaleko sare publikoa.
+G4	FA	Indarkeria matxista eta LGTBIfobikoa errotik kendu, prebentzio- eta harrera-sare sendoekin.
+G4	POD	Indarkeria matxistaren definizioa zabaldu (bikotekidearena baino gehiago), eta haren aurkako politiketarako funts iraunkorra.
+G4	PP	Urruntze-aginduak zaintzeko gailuen fidagarritasuna bermatu, Barne Ministerioaren menpe (zeharka: egungo sistema mantentzen du, ez du legea indargabetzea proposatzen).
+G4	VOX	"Gizonak kriminalizatu eta emakumeak babesik gabe utzi" dituzten legeak indargabetu; genero-legeek ez dute emakumeak babestu.

@@ -1,0 +1,8 @@
+# Claude Code-ren tokiko konfigurazioa
+.claude/
+
+# Behin-behineko fitxategiak
+*.tmp
+*.bak
+*~
+.DS_Store

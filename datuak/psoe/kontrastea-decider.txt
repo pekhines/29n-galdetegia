@@ -1,0 +1,335 @@
+Gaia nagusia (Claude) Decider-ek ere: 611/671 (91%)
+Gaiak G01–G21: precision 75% · recall 79% (Claude erreferentzia)
+Baieztapenak, 'ez du aipatzen' bai/ez: 7055/7120 (99.1%)
+
+Berrikusteko desadostasunak (330):
+  PSOE-p007-02 G06: Claude=ez Decider p=0.80
+  PSOE-p007-02 G10: Claude=ez Decider p=0.82
+  PSOE-p007-02 S03: Claude=ez Decider=+1 (0.35)
+  PSOE-p007-03 G10: Claude=ez Decider p=0.82
+  PSOE-p007-04 G01: Claude=ez Decider p=0.94
+  PSOE-p007-04 G09: Claude=ez Decider p=0.81
+  PSOE-p007-04 S03: Claude=ez Decider=0 (0.31)
+  PSOE-p007-04 S04: Claude=ez Decider=0 (0.47)
+  PSOE-p007-05 G10: Claude=ez Decider p=0.89
+  PSOE-p007-05 S04: Claude=ez Decider=0 (0.32)
+  PSOE-p007-06 G01: Claude=ez Decider p=0.91
+  PSOE-p008-01 G02: Claude=ez Decider p=0.89
+  PSOE-p008-05 gaia nagusia G10: Decider p=0.34
+  PSOE-p008-06 S03: Claude=ez Decider=+1 (0.24)
+  PSOE-p009-04 G01: Claude=ez Decider p=0.81
+  PSOE-p012-02 G10: Claude=ez Decider p=0.97
+  PSOE-p012-03 G05: Claude=bai Decider p=0.08
+  PSOE-p012-05 G02: Claude=ez Decider p=0.87
+  PSOE-p013-02 G02: Claude=ez Decider p=0.88
+  PSOE-p013-05 G10: Claude=ez Decider p=0.94
+  PSOE-p013-06 G10: Claude=ez Decider p=0.87
+  PSOE-C004 G07: Claude=bai Decider p=0.01
+  PSOE-p015-01 gaia nagusia G10: Decider p=0.14
+  PSOE-p015-01 G05: Claude=bai Decider p=0.05
+  PSOE-p015-01 G10: Claude=bai Decider p=0.14
+  PSOE-C008 gaia nagusia G10: Decider p=0.21
+  PSOE-C008 G05: Claude=bai Decider p=0.01
+  PSOE-C009 gaia nagusia G10: Decider p=0.50
+  PSOE-C010 gaia nagusia G10: Decider p=0.03
+  PSOE-C010 G05: Claude=bai Decider p=0.04
+  PSOE-C010 G10: Claude=bai Decider p=0.03
+  PSOE-C011 gaia nagusia G10: Decider p=0.05
+  PSOE-C011 G05: Claude=bai Decider p=0.18
+  PSOE-C011 G10: Claude=bai Decider p=0.05
+  PSOE-C012 gaia nagusia G10: Decider p=0.08
+  PSOE-C012 G10: Claude=bai Decider p=0.08
+  PSOE-C014 gaia nagusia G10: Decider p=0.02
+  PSOE-C014 G05: Claude=bai Decider p=0.04
+  PSOE-C014 G10: Claude=bai Decider p=0.02
+  PSOE-C018 gaia nagusia G10: Decider p=0.29
+  PSOE-C018 G14: Claude=bai Decider p=0.02
+  PSOE-C020 gaia nagusia G12: Decider p=0.12
+  PSOE-C020 G12: Claude=bai Decider p=0.12
+  PSOE-C020 G21: Claude=bai Decider p=0.00
+  PSOE-C021 gaia nagusia G10: Decider p=0.31
+  PSOE-C021 G14: Claude=bai Decider p=0.05
+  PSOE-C024 G02: Claude=bai Decider p=0.20
+  PSOE-C024 G03: Claude=bai Decider p=0.05
+  PSOE-C025 G02: Claude=bai Decider p=0.12
+  PSOE-C028 G21: Claude=bai Decider p=0.08
+  PSOE-C034 G10: Claude=bai Decider p=0.13
+  PSOE-C036 G06: Claude=bai Decider p=0.02
+  PSOE-p024-02 S01: Claude=ez Decider=0 (0.38)
+  PSOE-p024-04 S01: Claude=ez Decider=+1 (0.31)
+  PSOE-p024-06 S01: Claude=ez Decider=+1 (0.72)
+  PSOE-p026-01 S01: Claude=ez Decider=+1 (0.25)
+  PSOE-p026-02 S01: Claude=ez Decider=+2 (0.96)
+  PSOE-C041 G17: Claude=bai Decider p=0.04
+  PSOE-C049 G10: Claude=ez Decider p=0.86
+  PSOE-C051 G08: Claude=ez Decider p=0.80
+  PSOE-C056 G08: Claude=ez Decider p=0.80
+  PSOE-C063 G17: Claude=bai Decider p=0.19
+  PSOE-C063 S01: Claude=jarrera Decider=ez (0.32)
+  PSOE-p031-01 S01: Claude=ez Decider=+1 (0.58)
+  PSOE-C070 S01: Claude=ez Decider=+1 (0.30)
+  PSOE-C070 S04: Claude=ez Decider=+1 (0.25)
+  PSOE-C073 G17: Claude=bai Decider p=0.08
+  PSOE-p032-03 S01: Claude=ez Decider=-1 (0.38)
+  PSOE-C076 S01: Claude=ez Decider=+1 (0.42)
+  PSOE-p033-02 gaia nagusia G01: Decider p=0.23
+  PSOE-p035-01 G02: Claude=ez Decider p=0.98
+  PSOE-p035-01 S04: Claude=ez Decider=+1 (0.67)
+  PSOE-p035-02 G07: Claude=ez Decider p=0.84
+  PSOE-p035-02 S04: Claude=ez Decider=+1 (0.68)
+  PSOE-p035-02 S05: Claude=ez Decider=+2 (0.84)
+  PSOE-p035-03 G02: Claude=ez Decider p=0.94
+  PSOE-p035-04 G02: Claude=ez Decider p=0.88
+  PSOE-p035-05 G06: Claude=bai Decider p=0.11
+  PSOE-p035-05 S05: Claude=ez Decider=+1 (0.55)
+  PSOE-p036-01 gaia nagusia G06: Decider p=0.34
+  PSOE-p036-03 S04: Claude=ez Decider=+2 (0.59)
+  PSOE-p036-04 G02: Claude=ez Decider p=0.96
+  PSOE-p036-05 G10: Claude=ez Decider p=0.92
+  PSOE-p036-06 S05: Claude=ez Decider=+1 (0.33)
+  PSOE-p037-01 gaia nagusia G07: Decider p=0.02
+  PSOE-p037-01 G02: Claude=ez Decider p=0.97
+  PSOE-p037-01 G07: Claude=bai Decider p=0.02
+  PSOE-p037-01 S04: Claude=ez Decider=+1 (0.71)
+  PSOE-p037-03 S04: Claude=ez Decider=+1 (0.78)
+  PSOE-p037-03 S05: Claude=ez Decider=+1 (0.36)
+  PSOE-p037-04 G02: Claude=ez Decider p=0.98
+  PSOE-p037-05 S05: Claude=ez Decider=0 (0.27)
+  PSOE-C087 G09: Claude=ez Decider p=0.87
+  PSOE-C089 gaia nagusia G06: Decider p=0.46
+  PSOE-C089 G09: Claude=ez Decider p=0.97
+  PSOE-C091 G09: Claude=ez Decider p=0.89
+  PSOE-C093 gaia nagusia G06: Decider p=0.02
+  PSOE-C093 G06: Claude=bai Decider p=0.02
+  PSOE-p039-01 S05: Claude=ez Decider=+1 (0.41)
+  PSOE-C098 G07: Claude=bai Decider p=0.02
+  PSOE-C098 S04: Claude=ez Decider=+1 (0.45)
+  PSOE-C098 S05: Claude=ez Decider=0 (0.34)
+  PSOE-C102 G02: Claude=bai Decider p=0.16
+  PSOE-C102 G04: Claude=bai Decider p=0.05
+  PSOE-C103 G02: Claude=bai Decider p=0.10
+  PSOE-C105 G02: Claude=bai Decider p=0.14
+  PSOE-C106 G06: Claude=bai Decider p=0.17
+  PSOE-C113 G06: Claude=bai Decider p=0.02
+  PSOE-C117 G02: Claude=ez Decider p=0.98
+  PSOE-C124 G06: Claude=bai Decider p=0.03
+  PSOE-p045-01 gaia nagusia G06: Decider p=0.11
+  PSOE-p045-01 G06: Claude=bai Decider p=0.11
+  PSOE-p045-01 S03: Claude=ez Decider=+1 (0.33)
+  PSOE-p045-02 S03: Claude=ez Decider=+1 (0.76)
+  PSOE-p045-04 S03: Claude=ez Decider=+1 (0.58)
+  PSOE-p045-04 S04: Claude=ez Decider=+1 (0.42)
+  PSOE-p046-02 S03: Claude=ez Decider=+1 (0.46)
+  PSOE-p046-05 gaia nagusia G06: Decider p=0.11
+  PSOE-p046-05 G06: Claude=bai Decider p=0.11
+  PSOE-p046-05 S03: Claude=ez Decider=+1 (0.62)
+  PSOE-p046-06 S03: Claude=ez Decider=+1 (0.33)
+  PSOE-p047-01 S03: Claude=ez Decider=+1 (0.35)
+  PSOE-p047-01 S04: Claude=ez Decider=+1 (0.70)
+  PSOE-p047-02 gaia nagusia G06: Decider p=0.25
+  PSOE-p047-02 S03: Claude=ez Decider=+1 (0.47)
+  PSOE-p047-02 S04: Claude=ez Decider=+1 (0.78)
+  PSOE-C126 G10: Claude=ez Decider p=0.90
+  PSOE-C131 S04: Claude=ez Decider=+1 (0.54)
+  PSOE-C132 S04: Claude=ez Decider=+1 (0.55)
+  PSOE-C133 G10: Claude=ez Decider p=0.90
+  PSOE-C133 S04: Claude=ez Decider=+1 (0.46)
+  PSOE-C134 G06: Claude=bai Decider p=0.07
+  PSOE-C135 S04: Claude=ez Decider=+1 (0.48)
+  PSOE-C137 S03: Claude=ez Decider=+1 (0.39)
+  PSOE-C139 G21: Claude=bai Decider p=0.07
+  PSOE-C139 S03: Claude=ez Decider=+1 (0.46)
+  PSOE-C141 S03: Claude=ez Decider=+1 (0.37)
+  PSOE-C143 S03: Claude=ez Decider=+1 (0.36)
+  PSOE-C152 S03: Claude=ez Decider=0 (0.26)
+  PSOE-C155 G06: Claude=bai Decider p=0.06
+  PSOE-C162 G06: Claude=bai Decider p=0.15
+  PSOE-C166 G10: Claude=bai Decider p=0.00
+  PSOE-C173 G10: Claude=bai Decider p=0.13
+  PSOE-C178 G20: Claude=bai Decider p=0.06
+  PSOE-C181 G17: Claude=bai Decider p=0.03
+  PSOE-p055-01 gaia nagusia G16: Decider p=0.01
+  PSOE-p055-01 G16: Claude=bai Decider p=0.01
+  PSOE-C186 gaia nagusia G16: Decider p=0.01
+  PSOE-C186 G06: Claude=bai Decider p=0.02
+  PSOE-C186 G16: Claude=bai Decider p=0.01
+  PSOE-C187 gaia nagusia G04: Decider p=0.39
+  PSOE-C187 G16: Claude=bai Decider p=0.01
+  PSOE-C188 gaia nagusia G16: Decider p=0.01
+  PSOE-C188 G16: Claude=bai Decider p=0.01
+  PSOE-C189 gaia nagusia G16: Decider p=0.01
+  PSOE-C189 G16: Claude=bai Decider p=0.01
+  PSOE-C190 gaia nagusia G16: Decider p=0.02
+  PSOE-C190 G16: Claude=bai Decider p=0.02
+  PSOE-C191 gaia nagusia G16: Decider p=0.01
+  PSOE-C191 G16: Claude=bai Decider p=0.01
+  PSOE-C192 S04: Claude=ez Decider=+2 (0.72)
+  PSOE-C202 G17: Claude=bai Decider p=0.06
+  PSOE-C207 G03: Claude=bai Decider p=0.11
+  PSOE-C209 G04: Claude=bai Decider p=0.18
+  PSOE-C210 G09: Claude=bai Decider p=0.09
+  PSOE-C215 G04: Claude=ez Decider p=0.81
+  PSOE-C220 gaia nagusia G06: Decider p=0.16
+  PSOE-C220 G06: Claude=bai Decider p=0.16
+  PSOE-C222 gaia nagusia G06: Decider p=0.14
+  PSOE-C222 G06: Claude=bai Decider p=0.14
+  PSOE-C223 gaia nagusia G06: Decider p=0.06
+  PSOE-C223 G06: Claude=bai Decider p=0.06
+  PSOE-C224 G06: Claude=bai Decider p=0.06
+  PSOE-C225 gaia nagusia G06: Decider p=0.16
+  PSOE-C225 G06: Claude=bai Decider p=0.16
+  PSOE-C226 gaia nagusia G06: Decider p=0.23
+  PSOE-C227 G06: Claude=bai Decider p=0.09
+  PSOE-C228 gaia nagusia G06: Decider p=0.03
+  PSOE-C228 G06: Claude=bai Decider p=0.03
+  PSOE-p060-01 S03: Claude=ez Decider=+1 (0.75)
+  PSOE-p060-01 S04: Claude=ez Decider=0 (0.42)
+  PSOE-C229 S03: Claude=ez Decider=+1 (0.63)
+  PSOE-C230 G08: Claude=ez Decider p=0.82
+  PSOE-C230 G21: Claude=bai Decider p=0.18
+  PSOE-C232 gaia nagusia G17: Decider p=0.31
+  PSOE-C233 G06: Claude=bai Decider p=0.01
+  PSOE-p064-05 G11: Claude=ez Decider p=0.98
+  PSOE-p065-02 G09: Claude=ez Decider p=0.83
+  PSOE-C242 G06: Claude=bai Decider p=0.04
+  PSOE-C247 G10: Claude=ez Decider p=0.85
+  PSOE-C248 G10: Claude=ez Decider p=0.85
+  PSOE-C251 G14: Claude=bai Decider p=0.05
+  PSOE-C252 gaia nagusia G14: Decider p=0.27
+  PSOE-C254 gaia nagusia G14: Decider p=0.34
+  PSOE-C254 G08: Claude=ez Decider p=0.81
+  PSOE-C254 G11: Claude=ez Decider p=0.99
+  PSOE-C258 gaia nagusia G14: Decider p=0.20
+  PSOE-C260 G06: Claude=bai Decider p=0.01
+  PSOE-C261 G06: Claude=bai Decider p=0.02
+  PSOE-C266 G10: Claude=bai Decider p=0.06
+  PSOE-C272 G11: Claude=ez Decider p=0.85
+  PSOE-C273 G11: Claude=ez Decider p=0.86
+  PSOE-p071-02 G11: Claude=ez Decider p=0.91
+  PSOE-C294 G10: Claude=bai Decider p=0.11
+  PSOE-p073-01 gaia nagusia G11: Decider p=0.16
+  PSOE-p073-01 G11: Claude=bai Decider p=0.16
+  PSOE-C295 gaia nagusia G11: Decider p=0.12
+  PSOE-C295 G11: Claude=bai Decider p=0.12
+  PSOE-C297 gaia nagusia G11: Decider p=0.12
+  PSOE-C297 G11: Claude=bai Decider p=0.12
+  PSOE-C297 G15: Claude=bai Decider p=0.07
+  PSOE-C298 gaia nagusia G11: Decider p=0.15
+  PSOE-C298 G11: Claude=bai Decider p=0.15
+  PSOE-C298 G14: Claude=bai Decider p=0.12
+  PSOE-C302 gaia nagusia G20: Decider p=0.26
+  PSOE-p076-03 G03: Claude=ez Decider p=0.82
+  PSOE-p076-03 G06: Claude=ez Decider p=0.89
+  PSOE-p077-03 G02: Claude=ez Decider p=0.83
+  PSOE-C310 G05: Claude=bai Decider p=0.12
+  PSOE-C311 G02: Claude=ez Decider p=0.94
+  PSOE-C312 G10: Claude=bai Decider p=0.14
+  PSOE-C314 G02: Claude=ez Decider p=0.87
+  PSOE-C316 G02: Claude=ez Decider p=0.90
+  PSOE-C319 G06: Claude=ez Decider p=1.00
+  PSOE-C320 G06: Claude=ez Decider p=1.00
+  PSOE-C321 G06: Claude=ez Decider p=1.00
+  PSOE-C323 G15: Claude=ez Decider p=0.99
+  PSOE-C324 G05: Claude=bai Decider p=0.08
+  PSOE-C324 G15: Claude=ez Decider p=0.99
+  PSOE-C325 G15: Claude=ez Decider p=0.98
+  PSOE-C326 G15: Claude=ez Decider p=0.98
+  PSOE-C329 G04: Claude=ez Decider p=1.00
+  PSOE-C329 G14: Claude=bai Decider p=0.06
+  PSOE-C334 G14: Claude=bai Decider p=0.16
+  PSOE-C341 G06: Claude=bai Decider p=0.18
+  PSOE-C342 G14: Claude=bai Decider p=0.19
+  PSOE-C343 G06: Claude=bai Decider p=0.15
+  PSOE-C347 G14: Claude=bai Decider p=0.16
+  PSOE-C354 G10: Claude=bai Decider p=0.05
+  PSOE-p088-02 G15: Claude=ez Decider p=0.87
+  PSOE-p088-04 G08: Claude=ez Decider p=0.84
+  PSOE-p088-05 G14: Claude=ez Decider p=0.86
+  PSOE-p089-01 G14: Claude=ez Decider p=0.80
+  PSOE-C366 gaia nagusia G04: Decider p=0.41
+  PSOE-C368 G14: Claude=ez Decider p=0.99
+  PSOE-C368 G19: Claude=ez Decider p=0.90
+  PSOE-C369 gaia nagusia G06: Decider p=0.26
+  PSOE-C370 gaia nagusia G06: Decider p=0.40
+  PSOE-C373 G14: Claude=ez Decider p=0.90
+  PSOE-p090-03 S01: Claude=ez Decider=+1 (0.43)
+  PSOE-C379 S03: Claude=ez Decider=+1 (0.60)
+  PSOE-C381 S01: Claude=ez Decider=+1 (0.44)
+  PSOE-p091-02 S08: Claude=ez Decider=-1 (0.24)
+  PSOE-p091-02 S09: Claude=ez Decider=-1 (0.35)
+  PSOE-C384 G08: Claude=ez Decider p=0.88
+  PSOE-C386 G08: Claude=ez Decider p=0.86
+  PSOE-p092-01 S06: Claude=ez Decider=+1 (0.28)
+  PSOE-C394 gaia nagusia G15: Decider p=0.50
+  PSOE-p094-01 gaia nagusia G14: Decider p=0.22
+  PSOE-p094-01 G10: Claude=bai Decider p=0.04
+  PSOE-p094-02 gaia nagusia G14: Decider p=0.18
+  PSOE-p094-02 G06: Claude=ez Decider p=0.90
+  PSOE-p094-02 G10: Claude=bai Decider p=0.10
+  PSOE-p094-02 G14: Claude=bai Decider p=0.18
+  PSOE-C399 gaia nagusia G14: Decider p=0.24
+  PSOE-C400 gaia nagusia G14: Decider p=0.15
+  PSOE-C400 G06: Claude=ez Decider p=0.95
+  PSOE-C400 G14: Claude=bai Decider p=0.15
+  PSOE-C401 gaia nagusia G14: Decider p=0.09
+  PSOE-C401 G06: Claude=ez Decider p=0.91
+  PSOE-C401 G14: Claude=bai Decider p=0.09
+  PSOE-C402 gaia nagusia G14: Decider p=0.09
+  PSOE-C402 G06: Claude=ez Decider p=0.94
+  PSOE-C402 G10: Claude=bai Decider p=0.03
+  PSOE-C402 G14: Claude=bai Decider p=0.09
+  PSOE-C403 gaia nagusia G14: Decider p=0.13
+  PSOE-C403 G06: Claude=ez Decider p=0.96
+  PSOE-C403 G14: Claude=bai Decider p=0.13
+  PSOE-C404 gaia nagusia G14: Decider p=0.20
+  PSOE-C405 gaia nagusia G14: Decider p=0.47
+  PSOE-C406 gaia nagusia G10: Decider p=0.04
+  PSOE-C406 G10: Claude=bai Decider p=0.04
+  PSOE-C407 gaia nagusia G10: Decider p=0.02
+  PSOE-C407 G10: Claude=bai Decider p=0.02
+  PSOE-C408 gaia nagusia G14: Decider p=0.28
+  PSOE-C408 G10: Claude=bai Decider p=0.11
+  PSOE-C410 gaia nagusia G14: Decider p=0.11
+  PSOE-C410 G14: Claude=bai Decider p=0.11
+  PSOE-C411 gaia nagusia G14: Decider p=0.19
+  PSOE-C411 G14: Claude=bai Decider p=0.19
+  PSOE-p097-03 G14: Claude=ez Decider p=0.88
+  PSOE-C412 G14: Claude=ez Decider p=0.86
+  PSOE-C412 G17: Claude=bai Decider p=0.02
+  PSOE-C415 G14: Claude=ez Decider p=0.84
+  PSOE-C415 G19: Claude=ez Decider p=0.83
+  PSOE-C417 gaia nagusia G05: Decider p=0.50
+  PSOE-C417 G15: Claude=ez Decider p=0.98
+  PSOE-C417 G16: Claude=bai Decider p=0.02
+  PSOE-C418 G14: Claude=ez Decider p=0.85
+  PSOE-C430 G08: Claude=ez Decider p=0.81
+  PSOE-p100-01 G08: Claude=ez Decider p=0.81
+  PSOE-p100-02 G01: Claude=bai Decider p=0.08
+  PSOE-p100-02 G02: Claude=bai Decider p=0.17
+  PSOE-C434 G08: Claude=ez Decider p=0.84
+  PSOE-C435 G08: Claude=ez Decider p=0.87
+  PSOE-p101-01 G02: Claude=ez Decider p=0.92
+  PSOE-C439 G21: Claude=bai Decider p=0.08
+  PSOE-p102-01 G08: Claude=ez Decider p=0.97
+  PSOE-C446 G08: Claude=ez Decider p=0.92
+  PSOE-C447 G08: Claude=ez Decider p=0.83
+  PSOE-C451 G05: Claude=bai Decider p=0.06
+  PSOE-p105-03 S04: Claude=ez Decider=+1 (0.70)
+  PSOE-p105-04 G19: Claude=ez Decider p=0.90
+  PSOE-p106-03 G19: Claude=ez Decider p=0.81
+  PSOE-p106-05 S04: Claude=ez Decider=+1 (0.64)
+  PSOE-p107-01 G01: Claude=ez Decider p=0.89
+  PSOE-p107-01 S01: Claude=ez Decider=+1 (0.35)
+  PSOE-C458 S04: Claude=ez Decider=+1 (0.57)
+  PSOE-C474 G17: Claude=bai Decider p=0.04
+  PSOE-C476 S03: Claude=ez Decider=+1 (0.58)
+  PSOE-C476 S04: Claude=ez Decider=0 (0.34)
+  PSOE-C477 G09: Claude=ez Decider p=0.81
+  PSOE-C483 G08: Claude=bai Decider p=0.11
+  PSOE-p111-01 G20: Claude=bai Decider p=0.08
+  PSOE-C484 G20: Claude=bai Decider p=0.16
+  PSOE-C490 G20: Claude=ez Decider p=0.90
+  PSOE-C492 G20: Claude=ez Decider p=0.87
+  PSOE-C497 G14: Claude=bai Decider p=0.16
+  PSOE-C500 G04: Claude=bai Decider p=0.19
+  PSOE-p034-01 G02: Claude=ez Decider p=0.86

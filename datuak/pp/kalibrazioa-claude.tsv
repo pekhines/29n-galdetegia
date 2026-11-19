@@ -1,0 +1,44 @@
+# Claude-ren etiketa independenteak (Decider-en emaitzak ikusi gabe), 2026-11-16.
+# Zutabeak: id  gaiak  D1  D2  D3  D4  D5  D6  D7(taldea=balioa;… "ez" ez direnak bakarrik)  S(Sxx=balioa;… "ez" ez direnak bakarrik)
+# "a|b" = bi etiketak onargarriak (kasu eztabaidagarria). D6: 1=bai 0=ez.
+id	gaiak	D1	D2	D3	D4	D5	D6	D7	S
+PP-N003	G08	ez	ez	ez	murriztu	2	0	-	-
+PP-N004	G08	ez	ez	ez	berrantolatu|murriztu	2	0	-	-
+PP-N005	G08	ez	ez	ez	berrantolatu	2	0	-	-
+PP-N006	G08,G02	ez	mantendu	ez	berrantolatu	1	0	-	-
+PP-N012	G08,G10	ez	ez	ez|jaitsi_orokorra	berrantolatu	2	0	-	-
+PP-N018	G17,G03,G07	mantendu	ez	ez	ez	2	0	-	S08=-1|-2
+PP-N041	G13,G02	ez	ez	ez	ez	2	0	etorkinak=kaltea|nahasia	-
+PP-N042	G13	murriztu	ez	ez	ez	2	0	etorkinak=kaltea	S06=-2
+PP-N043	G13,G15	ez	ez	ez	ez	2	0	etorkinak=kaltea|nahasia	-
+PP-N096	G16,G05	ez	ez	ez	ez	2	0	-	-
+PP-N097	G16	ez	ez	ez	ez	1	0	-	S07=-1
+PP-N100	G17,G07	zabaldu	ez	ez	handitu	2	0	-	S08=-1|-2
+PP-N101	G17	ez	ez	ez	ez	2	0	-	S08=-2
+PP-N108	G03	mantendu	ez	ez|jaitsi_orokorra	ez	2	0	pentsiodunak=onura;gazteak=ez|onura	S05=+2
+PP-N114	G06,G07	zabaldu	ez	jaitsi_orokorra	handitu	3	0	pentsiodunak=onura|ez;emakumeak=onura|ez	-
+PP-N127	G16	ez	ez	ez	ez	2	0	-	-
+PP-N129	G19	ez	ez	ez	ez	2	0	-	-
+PP-N131	G19,G14	ez	ez	ez	ez	2	0	-	S10=-2
+PP-N144	G01	ez|zabaldu	ez	ez	berrantolatu|ez	3	0	gazteak=ez|onura	-
+PP-N145	G01	ez	ez	ez	ez	2	0	gazteak=kaltea|nahasia;prekarioak=kaltea|nahasia	S01=-2
+PP-N150	G01	ez	ez	ez	handitu	2	1	-	-
+PP-N153	G01,G07	ez	ez	jaitsi_orokorra	ez	3	0	gazteak=onura	-
+PP-N156	G01,G07	ez	ez	jaitsi_orokorra	ez	3	0	gazteak=onura;langileak=onura;prekarioak=onura	S01=-1|0
+PP-N157	G01,G14	ez	ez	ez	ez	3	0	-	-
+PP-N161	G02,G06	ez	ez|hobetu	jaitsi_orokorra|ez	handitu|ez	3	0	autonomoak=onura;emakumeak=onura;langileak=onura|ez	-
+PP-N163	G06,G05	zabaldu	ez	ez	handitu	3	0	emakumeak=onura|ez;langileak=onura|ez	-
+PP-N169	G02,G05,G10	ez	hobetu|murriztu	ez	ez	2	1	langileak=onura|nahasia	-
+PP-N174	G02,G07	ez	hobetu|ez	jaitsi_orokorra|ez	ez	2	0	langileak=onura|ez;enpresahandiak=onura|ez	-
+PP-N175	G02,G03,G04	murriztu|mantendu	murriztu|hobetu	ez	ez	2	0	langileak=nahasia|kaltea	-
+PP-N177	G07	ez	ez	jaitsi_orokorra	ez	3	0	langileak=onura;prekarioak=onura;gazteak=onura	-
+PP-N180	G07,G09	ez	ez	jaitsi_orokorra	ez	3	0	langileak=onura;prekarioak=onura;pentsiodunak=onura	-
+PP-N181	G07,G10	ez	ez	jaitsi_handiei|jaitsi_orokorra	ez	3	0	enpresahandiak=onura;autonomoak=onura	-
+PP-N183	G07	ez	ez	jaitsi_handiei	ez	1	1	errentaaltuak=onura	S04=-1|-2
+PP-N185	G07,G17	ez	ez	jaitsi_orokorra|jaitsi_handiei|ez	ez	1	0	-	S04=-1|0
+PP-N212	G05	murriztu|mantendu	ez	ez	handitu|ez	2	0	-	-
+PP-N218	G05	zabaldu	ez	ez	ez|handitu	2	0	gazteak=onura;prekarioak=onura	-
+PP-N219	G04,G17	zabaldu|mantendu	ez	ez	ez|handitu	1	0	-	S03=+1
+PP-N220	G04,G02	zabaldu	hobetu	ez	handitu	3	0	langileak=onura|ez	S03=+1
+PP-N228	G11	ez	ez	ez	ez	2	0	-	-
+PP-N229	G09,G07,G11	zabaldu	ez	jaitsi_orokorra	ez	3	0	prekarioak=onura;langileak=onura;pentsiodunak=onura|ez;enpresahandiak=onura|ez	-

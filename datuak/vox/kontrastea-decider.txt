@@ -1,0 +1,116 @@
+Gaia nagusia (Claude) Decider-ek ere: 125/138 (91%)
+Gaiak G01–G21: precision 69% · recall 75% (Claude erreferentzia)
+Baieztapenak, 'ez du aipatzen' bai/ez: 1374/1410 (97.4%)
+
+Berrikusteko desadostasunak (111):
+  VOX-001-1 S06: Claude=ez Decider=-2 (0.94)
+  VOX-001-2 G13: Claude=ez Decider p=0.97
+  VOX-001-3 gaia nagusia G10: Decider p=0.14
+  VOX-001-3 G10: Claude=bai Decider p=0.14
+  VOX-002-1 G10: Claude=ez Decider p=1.00
+  VOX-002-1 S04: Claude=ez Decider=-2 (0.70)
+  VOX-002-2 G10: Claude=ez Decider p=1.00
+  VOX-002-2 S04: Claude=ez Decider=-2 (0.74)
+  VOX-002-4 S04: Claude=ez Decider=-2 (0.67)
+  VOX-002-5 G10: Claude=ez Decider p=1.00
+  VOX-002-5 S04: Claude=ez Decider=-2 (0.91)
+  VOX-003 G07: Claude=ez Decider p=0.91
+  VOX-003 G10: Claude=ez Decider p=1.00
+  VOX-003 S04: Claude=ez Decider=-1 (0.33)
+  VOX-004 G09: Claude=ez Decider p=0.84
+  VOX-004 G10: Claude=ez Decider p=1.00
+  VOX-005 G05: Claude=bai Decider p=0.01
+  VOX-006 gaia nagusia G21: Decider p=0.43
+  VOX-006 G10: Claude=ez Decider p=1.00
+  VOX-007 G02: Claude=ez Decider p=0.81
+  VOX-007 G10: Claude=ez Decider p=0.99
+  VOX-008-1 G10: Claude=ez Decider p=1.00
+  VOX-008-3 gaia nagusia G20: Decider p=0.15
+  VOX-008-3 G20: Claude=bai Decider p=0.15
+  VOX-008-6 G10: Claude=ez Decider p=0.99
+  VOX-008-8 G10: Claude=ez Decider p=0.99
+  VOX-008-9 G10: Claude=ez Decider p=0.96
+  VOX-010 G14: Claude=bai Decider p=0.09
+  VOX-010 S06: Claude=ez Decider=-2 (0.46)
+  VOX-012 S06: Claude=ez Decider=-2 (0.95)
+  VOX-013 S06: Claude=ez Decider=-2 (0.80)
+  VOX-014 G14: Claude=bai Decider p=0.17
+  VOX-014 S06: Claude=ez Decider=-2 (0.29)
+  VOX-015 S06: Claude=ez Decider=-2 (0.44)
+  VOX-017 gaia nagusia G20: Decider p=0.30
+  VOX-018 S06: Claude=ez Decider=-2 (0.36)
+  VOX-019 S06: Claude=ez Decider=-2 (0.91)
+  VOX-020 S03: Claude=ez Decider=0 (0.34)
+  VOX-020 S06: Claude=ez Decider=-2 (0.70)
+  VOX-021 G10: Claude=ez Decider p=0.87
+  VOX-022 S06: Claude=ez Decider=-2 (0.63)
+  VOX-023 gaia nagusia G13: Decider p=0.19
+  VOX-023 G13: Claude=bai Decider p=0.19
+  VOX-025 G17: Claude=bai Decider p=0.14
+  VOX-025 S03: Claude=ez Decider=0 (0.58)
+  VOX-025 S08: Claude=ez Decider=-2 (0.35)
+  VOX-025 S09: Claude=ez Decider=-2 (0.29)
+  VOX-026 S06: Claude=ez Decider=-2 (0.70)
+  VOX-027 G13: Claude=bai Decider p=0.19
+  VOX-032 S06: Claude=ez Decider=-2 (0.58)
+  VOX-037 G05: Claude=bai Decider p=0.07
+  VOX-040 gaia nagusia G08: Decider p=0.44
+  VOX-041 S06: Claude=ez Decider=-2 (0.61)
+  VOX-042 G17: Claude=bai Decider p=0.19
+  VOX-051 G20: Claude=bai Decider p=0.15
+  VOX-002-0 G10: Claude=ez Decider p=1.00
+  VOX-002-0 S04: Claude=ez Decider=-2 (0.88)
+  VOX-043-0 S04: Claude=ez Decider=-2 (0.69)
+  VOX-094-0 gaia nagusia G06: Decider p=0.45
+  VOX-095-0 G03: Claude=bai Decider p=0.05
+  VOX-053 G20: Claude=bai Decider p=0.07
+  VOX-055 G14: Claude=bai Decider p=0.17
+  VOX-061 G21: Claude=bai Decider p=0.07
+  VOX-061 S03: Claude=ez Decider=0 (0.34)
+  VOX-063 S03: Claude=ez Decider=0 (0.22)
+  VOX-065 S03: Claude=ez Decider=0 (0.33)
+  VOX-071 gaia nagusia G13: Decider p=0.35
+  VOX-071 G05: Claude=ez Decider p=0.94
+  VOX-071 G14: Claude=bai Decider p=0.20
+  VOX-071 G15: Claude=bai Decider p=0.16
+  VOX-071 G16: Claude=ez Decider p=0.84
+  VOX-072 G13: Claude=bai Decider p=0.07
+  VOX-073 G16: Claude=ez Decider p=0.90
+  VOX-074 G13: Claude=bai Decider p=0.00
+  VOX-075 G16: Claude=ez Decider p=0.88
+  VOX-077 G05: Claude=ez Decider p=0.85
+  VOX-078 S08: Claude=ez Decider=-2 (0.50)
+  VOX-078 S09: Claude=ez Decider=-2 (0.72)
+  VOX-079 G20: Claude=ez Decider p=0.99
+  VOX-081 G19: Claude=ez Decider p=0.91
+  VOX-085 G19: Claude=ez Decider p=0.90
+  VOX-088 G20: Claude=ez Decider p=0.98
+  VOX-088 S06: Claude=ez Decider=-2 (0.63)
+  VOX-089 gaia nagusia G14: Decider p=0.43
+  VOX-090 G11: Claude=bai Decider p=0.06
+  VOX-091 G20: Claude=ez Decider p=0.96
+  VOX-092 G17: Claude=bai Decider p=0.01
+  VOX-092 S08: Claude=ez Decider=-2 (0.63)
+  VOX-092 S09: Claude=ez Decider=-2 (0.75)
+  VOX-094-1 G07: Claude=bai Decider p=0.09
+  VOX-094-4 G05: Claude=bai Decider p=0.16
+  VOX-097 G14: Claude=bai Decider p=0.05
+  VOX-098 gaia nagusia G15: Decider p=0.00
+  VOX-098 G15: Claude=bai Decider p=0.00
+  VOX-100 G14: Claude=ez Decider p=1.00
+  VOX-101 G14: Claude=ez Decider p=1.00
+  VOX-102 G14: Claude=ez Decider p=1.00
+  VOX-103 gaia nagusia G18: Decider p=0.32
+  VOX-104 S08: Claude=ez Decider=-2 (0.41)
+  VOX-104 S09: Claude=ez Decider=-2 (0.33)
+  VOX-105 S09: Claude=ez Decider=-2 (0.46)
+  VOX-106 G14: Claude=ez Decider p=0.99
+  VOX-106 S09: Claude=ez Decider=-2 (0.49)
+  VOX-107 G14: Claude=ez Decider p=0.98
+  VOX-108 G14: Claude=ez Decider p=0.89
+  VOX-113 G21: Claude=bai Decider p=0.07
+  VOX-114 gaia nagusia G11: Decider p=0.10
+  VOX-114 G11: Claude=bai Decider p=0.10
+  VOX-115 gaia nagusia G11: Decider p=0.27
+  VOX-115 G12: Claude=ez Decider p=0.99
+  VOX-115 G21: Claude=bai Decider p=0.13

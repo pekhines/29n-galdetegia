@@ -1,0 +1,172 @@
+Gaia nagusia (Claude) Decider-ek ere: 199/225 (88%)
+Gaiak G01–G21: precision 59% · recall 76% (Claude erreferentzia)
+Baieztapenak, 'ez du aipatzen' bai/ez: 2266/2300 (98.5%)
+
+Berrikusteko desadostasunak (167):
+  EHB-04-04 gaia nagusia G03: Decider p=0.50
+  EHB-04-04 S04: Claude=ez Decider=+2 (0.63)
+  EHB-04-04 S05: Claude=ez Decider=0 (0.25)
+  EHB-05-01 G16: Claude=ez Decider p=0.85
+  EHB-05-02 G16: Claude=ez Decider p=0.81
+  EHB-05-03 G16: Claude=ez Decider p=0.85
+  EHB-05-05 G17: Claude=bai Decider p=0.03
+  EHB-05-07 G16: Claude=ez Decider p=0.92
+  EHB-05-08 G16: Claude=ez Decider p=0.81
+  EHB-05-08 S01: Claude=ez Decider=+1 (0.47)
+  EHB-05-10 G16: Claude=ez Decider p=0.89
+  EHB-06-01 G16: Claude=ez Decider p=0.87
+  EHB-06-02 G16: Claude=ez Decider p=0.84
+  EHB-06-06 G17: Claude=bai Decider p=0.15
+  EHB-06-07 G16: Claude=ez Decider p=0.84
+  EHB-07-01 G16: Claude=ez Decider p=0.88
+  EHB-07-04 G06: Claude=bai Decider p=0.04
+  EHB-07-05 G17: Claude=bai Decider p=0.06
+  EHB-07-07 G06: Claude=bai Decider p=0.13
+  EHB-07-08 G08: Claude=ez Decider p=0.87
+  EHB-07-09 G17: Claude=bai Decider p=0.09
+  EHB-07-10 S05: Claude=ez Decider=+1 (0.62)
+  EHB-08-01 G16: Claude=ez Decider p=0.86
+  EHB-08-02 G16: Claude=ez Decider p=0.82
+  EHB-08-02 S05: Claude=ez Decider=0 (0.28)
+  EHB-08-03 G16: Claude=ez Decider p=0.87
+  EHB-08-03 S05: Claude=ez Decider=+1 (0.38)
+  EHB-08-04 G02: Claude=bai Decider p=0.15
+  EHB-08-04 G16: Claude=ez Decider p=0.97
+  EHB-08-06 S01: Claude=ez Decider=+1 (0.38)
+  EHB-08-06 S04: Claude=ez Decider=+1 (0.34)
+  EHB-08-08 G16: Claude=ez Decider p=0.90
+  EHB-08-09 G16: Claude=ez Decider p=0.88
+  EHB-09-02 G21: Claude=bai Decider p=0.06
+  EHB-09-04 G06: Claude=bai Decider p=0.18
+  EHB-09-04 G16: Claude=ez Decider p=0.82
+  EHB-10-04 G16: Claude=ez Decider p=0.92
+  EHB-10-05 G16: Claude=ez Decider p=0.97
+  EHB-10-06 G16: Claude=ez Decider p=0.88
+  EHB-10-07 G16: Claude=ez Decider p=0.81
+  EHB-10-08 G16: Claude=ez Decider p=0.80
+  EHB-10-12 G05: Claude=bai Decider p=0.20
+  EHB-10-13 G16: Claude=ez Decider p=0.94
+  EHB-11-04 S03: Claude=ez Decider=+1 (0.30)
+  EHB-11-06 G17: Claude=bai Decider p=0.19
+  EHB-11-06 S03: Claude=jarrera Decider=ez (0.40)
+  EHB-11-08 S03: Claude=ez Decider=+1 (0.61)
+  EHB-11-10 G17: Claude=bai Decider p=0.02
+  EHB-11-13 G08: Claude=ez Decider p=0.81
+  EHB-12-01 G16: Claude=ez Decider p=0.86
+  EHB-12-01 S03: Claude=ez Decider=+1 (0.34)
+  EHB-12-02 S03: Claude=ez Decider=+2 (0.69)
+  EHB-12-03 G04: Claude=ez Decider p=0.86
+  EHB-12-03 G16: Claude=ez Decider p=0.89
+  EHB-12-04 G16: Claude=ez Decider p=0.94
+  EHB-12-05 G03: Claude=ez Decider p=0.95
+  EHB-12-06 G19: Claude=bai Decider p=0.10
+  EHB-12-10 gaia nagusia G16: Decider p=0.26
+  EHB-13-02 gaia nagusia G06: Decider p=0.41
+  EHB-13-02 G01: Claude=ez Decider p=0.83
+  EHB-13-05 gaia nagusia G06: Decider p=0.45
+  EHB-13-05 G03: Claude=ez Decider p=0.93
+  EHB-13-05 S05: Claude=ez Decider=+2 (0.65)
+  EHB-13-06 G16: Claude=ez Decider p=0.91
+  EHB-13-09 G16: Claude=ez Decider p=0.93
+  EHB-14-01 G16: Claude=ez Decider p=0.95
+  EHB-14-03 G10: Claude=ez Decider p=0.81
+  EHB-14-03 S04: Claude=ez Decider=+2 (0.85)
+  EHB-14-05 G16: Claude=ez Decider p=0.84
+  EHB-14-06 G09: Claude=bai Decider p=0.09
+  EHB-14-06 S04: Claude=ez Decider=+1 (0.50)
+  EHB-14-07 G01: Claude=bai Decider p=0.05
+  EHB-14-08 G07: Claude=ez Decider p=1.00
+  EHB-14-08 G17: Claude=bai Decider p=0.14
+  EHB-14-08 S04: Claude=ez Decider=+1 (0.19)
+  EHB-14-09 G07: Claude=ez Decider p=0.97
+  EHB-14-10 G07: Claude=ez Decider p=0.95
+  EHB-14-10 S03: Claude=ez Decider=+1 (0.53)
+  EHB-14-10 S04: Claude=ez Decider=+1 (0.34)
+  EHB-14-10 S05: Claude=ez Decider=+1 (0.76)
+  EHB-15-01 G10: Claude=ez Decider p=0.93
+  EHB-15-02 G16: Claude=ez Decider p=0.93
+  EHB-15-03 G16: Claude=ez Decider p=0.83
+  EHB-15-04 G16: Claude=ez Decider p=0.88
+  EHB-15-05 G16: Claude=ez Decider p=0.96
+  EHB-15-07 G16: Claude=ez Decider p=0.81
+  EHB-16-04 G02: Claude=bai Decider p=0.08
+  EHB-17-04 G16: Claude=ez Decider p=0.80
+  EHB-17-08 G16: Claude=ez Decider p=0.85
+  EHB-18-01 G17: Claude=bai Decider p=0.04
+  EHB-18-03 gaia nagusia G01: Decider p=0.21
+  EHB-18-05 S04: Claude=ez Decider=+1 (0.46)
+  EHB-18-07 G16: Claude=ez Decider p=0.95
+  EHB-18-09 G11: Claude=ez Decider p=0.87
+  EHB-19-01 G04: Claude=bai Decider p=0.10
+  EHB-19-04 G16: Claude=ez Decider p=0.84
+  EHB-19-05 G16: Claude=ez Decider p=0.80
+  EHB-19-06 G16: Claude=ez Decider p=0.81
+  EHB-19-08 G14: Claude=ez Decider p=0.83
+  EHB-19-09 G16: Claude=ez Decider p=0.83
+  EHB-19-10 G16: Claude=ez Decider p=0.91
+  EHB-19-11 G16: Claude=ez Decider p=0.85
+  EHB-19-12 G13: Claude=bai Decider p=0.05
+  EHB-20-02 G16: Claude=ez Decider p=0.96
+  EHB-20-03 G06: Claude=bai Decider p=0.09
+  EHB-20-04 G14: Claude=bai Decider p=0.18
+  EHB-20-08 gaia nagusia G10: Decider p=0.40
+  EHB-20-09 gaia nagusia G10: Decider p=0.08
+  EHB-20-09 G10: Claude=bai Decider p=0.08
+  EHB-21-01 gaia nagusia G10: Decider p=0.08
+  EHB-21-01 G10: Claude=bai Decider p=0.08
+  EHB-21-02 gaia nagusia G10: Decider p=0.01
+  EHB-21-02 G10: Claude=bai Decider p=0.01
+  EHB-21-02 G14: Claude=bai Decider p=0.00
+  EHB-21-03 gaia nagusia G10: Decider p=0.05
+  EHB-21-03 G10: Claude=bai Decider p=0.05
+  EHB-21-04 gaia nagusia G10: Decider p=0.46
+  EHB-21-05 gaia nagusia G10: Decider p=0.02
+  EHB-21-05 G10: Claude=bai Decider p=0.02
+  EHB-21-06 gaia nagusia G10: Decider p=0.01
+  EHB-21-06 G05: Claude=bai Decider p=0.06
+  EHB-21-06 G10: Claude=bai Decider p=0.01
+  EHB-21-07 gaia nagusia G10: Decider p=0.01
+  EHB-21-07 G10: Claude=bai Decider p=0.01
+  EHB-21-08 gaia nagusia G10: Decider p=0.02
+  EHB-21-08 G10: Claude=bai Decider p=0.02
+  EHB-21-09 gaia nagusia G10: Decider p=0.03
+  EHB-21-09 G10: Claude=bai Decider p=0.03
+  EHB-21-09 G14: Claude=bai Decider p=0.01
+  EHB-22-05 gaia nagusia G16: Decider p=0.45
+  EHB-23-02 gaia nagusia G17: Decider p=0.24
+  EHB-23-02 S08: Claude=ez Decider=+1 (0.45)
+  EHB-23-02 S09: Claude=ez Decider=+1 (0.30)
+  EHB-23-03 S08: Claude=ez Decider=+2 (0.61)
+  EHB-23-03 S09: Claude=ez Decider=+1 (0.20)
+  EHB-23-04 gaia nagusia G17: Decider p=0.28
+  EHB-23-04 G18: Claude=ez Decider p=0.92
+  EHB-23-04 S08: Claude=ez Decider=+2 (0.54)
+  EHB-23-05 gaia nagusia G17: Decider p=0.37
+  EHB-23-05 S08: Claude=ez Decider=+1 (0.46)
+  EHB-23-05 S09: Claude=ez Decider=+1 (0.32)
+  EHB-23-06 S08: Claude=ez Decider=0 (0.19)
+  EHB-23-08 gaia nagusia G17: Decider p=0.17
+  EHB-23-08 G17: Claude=bai Decider p=0.17
+  EHB-23-09 gaia nagusia G17: Decider p=0.14
+  EHB-23-09 G17: Claude=bai Decider p=0.14
+  EHB-23-09 S09: Claude=ez Decider=0 (0.32)
+  EHB-24-01 gaia nagusia G17: Decider p=0.47
+  EHB-24-01 S09: Claude=ez Decider=0 (0.24)
+  EHB-24-02 gaia nagusia G17: Decider p=0.41
+  EHB-24-02 S09: Claude=ez Decider=+1 (0.59)
+  EHB-24-04 G02: Claude=bai Decider p=0.15
+  EHB-24-04 G16: Claude=ez Decider p=0.91
+  EHB-24-06 G10: Claude=ez Decider p=0.95
+  EHB-24-06 S04: Claude=ez Decider=0 (0.34)
+  EHB-26-01 gaia nagusia G16: Decider p=0.18
+  EHB-26-01 G16: Claude=bai Decider p=0.18
+  EHB-26-01 G17: Claude=bai Decider p=0.01
+  EHB-26-02 gaia nagusia G16: Decider p=0.13
+  EHB-26-02 G16: Claude=bai Decider p=0.13
+  EHB-26-02 G17: Claude=bai Decider p=0.01
+  EHB-28-01 G18: Claude=ez Decider p=0.89
+  EHB-28-01 S09: Claude=ez Decider=+2 (0.26)
+  EHB-28-06 G21: Claude=bai Decider p=0.13
+  EHB-28-07 G16: Claude=ez Decider p=0.96
+  EHB-28-08 G16: Claude=ez Decider p=0.86
+  EHB-29-03 G18: Claude=ez Decider p=0.86

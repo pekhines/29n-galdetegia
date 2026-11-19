@@ -1,0 +1,143 @@
+# Claude-ren sailkapena, kodeketa-liburua v0.3.1 (02-metodologia.md §11). Vox, 29-N programa "Es sentido común".
+id	gaiak	D1	D2	D3	D4	D5	D6	D7	S	oharra
+VOX-001-1	G13,G14,G20	ez	ez	ez	ez	1	0	etorkinak=kaltea	-	"inbaditzaile guztiak" berehala kanporatu
+VOX-001-2	G14,G20	ez	ez	ez	handitu	1	0	-	-	muga militarizatu
+VOX-001-3	G10,G14	ez	ez	ez	handitu	1	0	-	-	-
+VOX-001-4	G22,G14	ez	ez	ez	ez	1	0	-	-	Sánchez traizioagatik epaitzea sustatu
+VOX-001-5	G20	ez	ez	ez	ez	1	0	-	-	-
+VOX-002-1	G07	ez	ez	jaitsi_orokorra	ez	1	0	-	-	IRPF jaitsi; seme-alaben araberako tipoa
+VOX-002-2	G07,G09	ez	ez	jaitsi_orokorra	ez	1	0	-	-	BEZ jaitsi
+VOX-002-3	G07,G10	ez	ez	jaitsi_handiei	ez	1	0	enpresahandiak=onura	S04=-2	Sozietate Zerga jaitsi
+VOX-002-4	G07,G10	ez	ez	jaitsi_orokorra	ez	3	0	autonomoak=onura	-	autonomoen kuota 0 € SMItik behera
+VOX-002-5	G07	ez	ez	jaitsi_orokorra	ez	0	0	-	-	zerga guztiak sistematikoki murriztu
+VOX-003	G08	ez	ez	ez	murriztu	0	0	-	-	MURRIZKETA? defizit-kontrola, gastu "superfluo eta ideologikoa" kendu
+VOX-004	G07,G08	ez	hobetu	jaitsi_orokorra	handitu	2	0	-	-	-
+VOX-005	G10,G05	ez	ez	jaitsi_orokorra	handitu	1	0	-	-	-
+VOX-006	G21,G07	ez	ez	jaitsi_orokorra	ez	1	0	-	-	-
+VOX-007	G03,G06	mantendu	ez	ez	ez	0	0	-	-	pentsioak hazkunde ekonomikoaren bidez; ez du KPIrik aipatzen
+VOX-008-1	G09,G11,G07	ez	ez	jaitsi_orokorra	ez	1	0	-	-	energiaren zergak jaitsi
+VOX-008-2	G11,G10	ez	ez	ez	ez	2	0	-	-	-
+VOX-008-3	G20,G10	ez	ez	ez	ez	0	0	-	-	-
+VOX-008-4	G11,G10	ez	ez	jaitsi_orokorra	ez	2	0	-	-	ATZERAPENA: errekuntza-motorren debekua eta CO2 zergak atzera bota
+VOX-008-5	G10,G11	ez	ez	ez	ez	1	0	-	-	-
+VOX-008-6	G11	ez	ez	ez	ez	2	0	-	-	zentral nuklearrak mantendu eta berriak
+VOX-008-7	G10	ez	ez	ez	ez	1	0	-	-	-
+VOX-008-8	G02	ez	ez	ez	ez	0	0	gazteak=onura	-	erretorika
+VOX-008-9	G02	ez	murriztu	ez	ez	1	0	langileak=kaltea	-	2021eko lan-erreforma indargabetu; sindikatuen aurka
+VOX-008-10	G10	ez	ez	jaitsi_orokorra	ez	0	0	-	-	-
+VOX-009	G13	ez	ez	ez	ez	2	0	etorkinak=kaltea	S06=-2	"Ni uno más"; erregularizazio masiboak debekatu
+VOX-010	G13,G14	ez	ez	ez	ez	1	0	etorkinak=kaltea	-	ESKUBIDE-MURRIZKETA: nazionalitatea galtzeko kasuak zabaldu
+VOX-011	G13	murriztu	ez	ez	ez	2	0	etorkinak=kaltea	S06=-2	errotzea (arraigo) ezabatu
+VOX-012	G13	ez	ez	ez	ez	1	0	etorkinak=kaltea	-	-
+VOX-013	G13	murriztu	ez	ez	ez	1	0	etorkinak=kaltea	-	"Remigración"
+VOX-014	G13,G14	ez	ez	ez	ez	1	0	etorkinak=kaltea	-	ESKUBIDE-MURRIZKETA: "kultura arrotzak" ezartzeagatik deportatu
+VOX-015	G13,G06	murriztu	ez	ez	ez	1	0	etorkinak=kaltea	-	adingabe bakarrik etorritakoak itzuli
+VOX-016	G13,G08	ez	ez	ez	murriztu	1	0	-	-	GKEei diru-laguntzak kendu
+VOX-017	G20,G13	ez	ez	ez	murriztu	1	0	-	-	-
+VOX-018	G13,G01,G06	murriztu	ez	ez	ez	2	0	etorkinak=kaltea	-	ESKUBIDE-MURRIZKETA: "lehentasun nazionala" etxebizitza, haurtzaindegi, laguntza eta zerbitzuetan
+VOX-019	G13	murriztu	ez	ez	ez	2	0	etorkinak=kaltea	-	-
+VOX-020	G04,G13	murriztu	ez	ez	ez	2	0	etorkinak=kaltea	-	ESKUBIDE-MURRIZKETA: egoera irregularrekoei osasun-arreta kendu (larrialdiak salbu)
+VOX-021	G07,G13	ez	ez	igo_orokorra	ez	1	0	etorkinak=kaltea	-	diru-bidalketen gaineko zerga
+VOX-022	G06,G13	murriztu	ez	ez	ez	2	0	etorkinak=kaltea	-	IMV espainiarrentzat bakarrik
+VOX-023	G13	ez	ez	ez	ez	1	0	-	-	-
+VOX-024	G08	zabaldu	ez	ez	handitu	0	0	-	-	-
+VOX-025	G08,G17	ez	ez	ez	ez	0	0	-	-	-
+VOX-026	G01,G13	ez	ez	ez	ez	0	0	-	-	-
+VOX-027	G01,G13	murriztu	ez	ez	ez	2	0	etorkinak=kaltea	-	etxebizitza babestuan lehentasun nazionala
+VOX-028	G01	ez	ez	ez	ez	1	0	-	-	lurzorua liberalizatu
+VOX-029	G01	zabaldu	ez	ez	handitu	2	0	-	-	etxebizitza babestua lankidetza publiko-pribatuaren bidez
+VOX-030	G01	ez	ez	jaitsi_orokorra	ez	2	0	-	S01=-2	Etxebizitza Legea indargabetu
+VOX-031	G01,G14	ez	ez	ez	ez	3	0	-	-	okupazioa: 24 orduko kaleratzea
+VOX-032	G01,G13	ez	ez	ez	ez	2	0	etorkinak=kaltea	-	ESKUBIDE-MURRIZKETA: legez kanpoko etorkinei alokatzea debekatu
+VOX-033	G01,G07	ez	ez	jaitsi_orokorra	ez	0	0	-	-	-
+VOX-034	G01,G07	ez	ez	jaitsi_orokorra	ez	3	0	-	-	lehen etxebizitza: BEZ % 0, ITP % 100 hobaria
+VOX-035	G01,G07	ez	ez	igo_handiei	ez	2	0	-	-	funts espekulatzaileei eta EBtik kanpoko erosleei zerga-karga
+VOX-036	G08	ez	ez	ez	ez	0	0	-	-	-
+VOX-037	G10,G05	ez	ez	ez	ez	1	0	-	-	-
+VOX-038	G08	ez	ez	ez	ez	1	0	-	-	-
+VOX-039	G08	ez	ez	ez	ez	2	0	-	-	-
+VOX-040	G08,G22	ez	ez	ez	ez	2	0	-	-	-
+VOX-041	G08,G13	ez	ez	ez	ez	2	0	-	-	-
+VOX-042	G10,G17	ez	ez	ez	ez	1	0	-	S08=-2	"una sola Nación"; merkatu-batasuneko legea
+VOX-043-1	G08	ez	ez	ez	murriztu	1	0	-	-	MURRIZKETA? gastu "ez-ezinbestekoak" kentzeko auditoria
+VOX-043-2	G08,G02	ez	murriztu	ez	murriztu	1	0	-	-	MURRIZKETA: Administrazioa gutxienekora; sindikatu eta GKEen diru-laguntzak kendu
+VOX-044	G11,G10	ez	ez	ez	ez	0	0	-	-	ATZERAPENA: Itun Berdea eta isuri baxuko eremuak (ZBE) kendu
+VOX-045	G12,G08	ez	ez	ez	ez	1	0	-	-	-
+VOX-046	G19	ez	ez	ez	ez	1	0	-	-	ATZERAPENA: Memoria Demokratikoaren Legea "gainditu"
+VOX-047	G15	murriztu	ez	ez	ez	1	0	emakumeak=kaltea	-	ESKUBIDE-MURRIZKETA: genero-indarkeriaren legeak indargabetu
+VOX-048	G21,G20	ez	ez	ez	ez	1	0	-	-	Mercosur baztertu
+VOX-049	G21	ez	ez	ez	ez	0	0	-	-	-
+VOX-050	G21	ez	ez	ez	handitu	1	0	-	-	-
+VOX-051	G21,G20	ez	ez	ez	murriztu	1	0	-	-	-
+VOX-052	G21,G20	ez	ez	ez	ez	1	0	-	-	-
+VOX-002-0	G07	ez	ez	jaitsi_orokorra	ez	0	0	-	-	erretorika: "infierno fiscal"
+VOX-008-0	G10,G11	ez	ez	ez	ez	0	0	-	-	-
+VOX-043-0	G08,G07	ez	ez	jaitsi_orokorra	murriztu	1	1	-	-	MURRIZKETA: zerga-jaitsiera "gastu superfluoak gutxienekora" murriztuz finantzatu
+VOX-094-0	G06	zabaldu	ez	ez	ez	0	0	-	-	-
+VOX-095-0	G06,G03	zabaldu	ez	ez	handitu	1	0	pentsiodunak=onura	-	mendekotasun-aurrekontua, egoitza-plazak
+VOX-053	G21,G20	ez	ez	ez	ez	1	0	-	-	-
+VOX-054	G11,G21	ez	ez	ez	ez	1	0	-	-	-
+VOX-055	G21,G11,G14	ez	ez	ez	handitu	1	0	-	-	-
+VOX-056	G21,G08	ez	ez	ez	ez	1	0	-	-	-
+VOX-057	G21	ez	ez	ez	handitu	1	0	-	-	-
+VOX-058	G21,G05	ez	ez	ez	ez	1	0	gazteak=onura	-	-
+VOX-059	G21	ez	ez	ez	ez	0	0	-	-	ehiza defendatu
+VOX-060	G04,G16	ez	ez	ez	ez	2	0	-	S07=-2	hizkuntza erregionalak ez jakitea ez da oztopo izango osasun-oposizioetan
+VOX-061	G04,G21	zabaldu	ez	ez	handitu	1	0	-	-	-
+VOX-062	G04	ez	ez	ez	berrantolatu	2	0	-	S03=-1	itxaron-zerrendak: lankidetza publiko-pribatua sustatu
+VOX-063	G04,G02	ez	hobetu	ez	handitu	2	0	langileak=onura	-	osasun-langileen baldintzak; "turismo sanitarioa" amaitu
+VOX-064	G04,G15	zabaldu	ez	ez	ez	1	0	emakumeak=onura	-	-
+VOX-065	G04	zabaldu	ez	ez	handitu	2	0	-	-	-
+VOX-066	G05,G16	ez	ez	ez	ez	2	0	-	-	ATZERAPENA: curriculum bateratua; "hezkuntza espainieraz lurralde osoan"
+VOX-067	G05	ez	ez	ez	ez	1	0	-	-	ikastetxea aukeratzeko askatasuna
+VOX-068	G05	zabaldu	ez	ez	ez	1	0	gazteak=onura	-	-
+VOX-069	G05	ez	ez	ez	ez	1	0	-	-	LOMLOE indargabetu
+VOX-070	G05,G13	ez	ez	ez	ez	2	0	etorkinak=kaltea	-	ESKUBIDE-MURRIZKETA: "beste kulturetako" ikasleentzat ikasgelako gehienezko kopurua
+VOX-071	G13,G14,G15	ez	ez	ez	ez	2	0	etorkinak=kaltea	-	burka eta nikaba debekatu
+VOX-072	G05,G13	ez	ez	ez	ez	2	0	etorkinak=kaltea	-	-
+VOX-073	G05,G13	ez	ez	ez	murriztu	2	0	etorkinak=kaltea	-	-
+VOX-074	G05,G13	murriztu	ez	ez	ez	2	0	etorkinak=kaltea	-	ESKUBIDE-MURRIZKETA: lehentasun nazionala ikastetxe, beka eta haurtzaindegietan
+VOX-075	G05	ez	ez	ez	ez	0	0	-	-	-
+VOX-076	G16,G07	ez	ez	jaitsi_orokorra	ez	1	0	-	-	-
+VOX-077	G16	ez	ez	ez	ez	0	0	-	-	-
+VOX-078	G16,G15	ez	ez	jaitsi_orokorra	ez	1	0	-	-	selekzioak: "separatismoari egindako lagapenen aurka"
+VOX-079	G14	ez	ez	ez	handitu	0	0	-	-	-
+VOX-080	G14	ez	ez	ez	ez	2	0	gazteak=kaltea	-	adingabeen erantzukizun penalaren adina jaitsi
+VOX-081	G14	ez	ez	ez	ez	1	0	-	-	espetxe iraunkor berrikusgarria zabaldu
+VOX-082	G14,G22	ez	ez	ez	ez	1	0	-	-	-
+VOX-083	G14,G20	ez	ez	ez	handitu	1	0	-	-	-
+VOX-084	G14,G02	ez	hobetu	ez	handitu	2	0	-	-	-
+VOX-085	G14,G02	ez	hobetu	ez	handitu	2	0	-	-	-
+VOX-086	G14	ez	ez	ez	handitu	2	0	-	-	-
+VOX-087	G15,G14	ez	ez	ez	ez	0	0	emakumeak=onura	-	-
+VOX-088	G13,G14	ez	ez	ez	handitu	1	0	etorkinak=kaltea	-	-
+VOX-089	G14,G20	ez	hobetu	ez	handitu	1	0	-	-	defentsa-gastua handitu
+VOX-090	G14,G11	ez	ez	ez	ez	0	0	-	-	-
+VOX-091	G14	ez	ez	ez	ez	0	0	-	-	-
+VOX-092	G20,G17	ez	ez	ez	ez	0	0	-	-	-
+VOX-093	G20	ez	ez	ez	handitu	1	0	-	-	-
+VOX-094-1	G06,G07	zabaldu	ez	jaitsi_orokorra	ez	2	0	-	-	familia ugarien onurak lehen seme-alabatik
+VOX-094-2	G06,G07	zabaldu	ez	jaitsi_orokorra	ez	2	0	-	-	-
+VOX-094-3	G06,G03	zabaldu	ez	ez	handitu	2	0	-	-	seme-alabak zaintzen dituztenen kotizazioa Estatuak ordaindu
+VOX-094-4	G06,G05	zabaldu	ez	jaitsi_orokorra	ez	2	0	-	-	0-3 urteko hezkuntza doan
+VOX-095-1	G06	zabaldu	ez	jaitsi_orokorra	ez	1	0	-	-	-
+VOX-096	G06	ez	ez	ez	ez	1	0	-	-	-
+VOX-097	G06,G14	ez	ez	ez	ez	0	0	-	-	-
+VOX-098	G15,G04	murriztu	ez	ez	ez	1	0	emakumeak=kaltea	-	ESKUBIDE-MURRIZKETA? "bizitza sortzetik heriotza naturalera arte" (abortua/eutanasia); ez du indargabetzea esplizituki aipatzen
+VOX-099	G15,G02,G06	ez	hobetu	ez	handitu	1	0	emakumeak=onura	-	-
+VOX-100	G22	ez	ez	ez	ez	2	0	-	-	BJKN: epaileek hautatu
+VOX-101	G22	ez	ez	ez	ez	0	0	-	-	-
+VOX-102	G22,G08	ez	ez	ez	handitu	0	0	-	-	-
+VOX-103	G18,G14,G22	ez	ez	ez	ez	2	0	-	S08=-2;S09=-2	ASKATASUN ZIBILAK: sedizioa berreskuratu; Espainiaren batasunaren aurkako alderdiak legez kanpo utzi
+VOX-104	G16	ez	ez	ez	ez	0	0	-	-	-
+VOX-105	G14	ez	ez	ez	ez	1	0	-	-	ASKATASUN ZIBILAK: sinboloei egindako irainen zigorrak gogortu
+VOX-106	G22,G08	ez	ez	ez	handitu	0	0	-	-	-
+VOX-107	G08	ez	ez	ez	ez	1	0	-	-	-
+VOX-108	G08,G01	ez	ez	ez	ez	1	0	-	-	-
+VOX-109	G19,G14	ez	ez	ez	ez	2	0	-	S10=-2	terrorismoagatik zigortuen "espetxe-pribilegioak" amaitu; ETAren delituak gizateriaren aurkako krimen
+VOX-110	G22	ez	ez	ez	ez	0	0	-	-	-
+VOX-111	G14	ez	ez	ez	ez	0	0	-	-	-
+VOX-112	G12	ez	ez	ez	handitu	1	0	-	-	-
+VOX-113	G12,G21	ez	ez	ez	handitu	1	0	-	-	-
+VOX-114	G11,G12	ez	ez	ez	handitu	1	0	-	-	-
+VOX-115	G11,G21	ez	ez	ez	handitu	1	0	-	-	arroen arteko trasbasea

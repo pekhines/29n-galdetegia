@@ -1,0 +1,264 @@
+# Claude-ren sailkapena, kodeketa-liburua v0.3 (02-metodologia.md §11). PP, 29-N programa.
+id	gaiak	D1	D2	D3	D4	D5	D6	D7	S	oharra
+PP-I06-01	G99	ez	ez	ez	ez	0	0	-	-	-
+PP-I06-02	G99	ez	ez	ez	ez	0	0	-	-	-
+PP-I06-03	G99	ez	ez	ez	ez	0	0	-	-	-
+PP-I08-04	G99	ez	ez	ez	ez	0	0	-	-	-
+PP-I08-05	G99	ez	ez	ez	ez	0	0	-	-	-
+PP-I08-06	G08	ez	ez	ez	ez|murriztu	0	0	-	-	ZEHARKA: "Estado hinchado"
+PP-I08-07	G22	ez	ez	ez	ez	0	0	-	-	-
+PP-I08-08	G17	ez	ez	ez	ez	0	0	-	-	ZEHARKA: eskumenen "intercambios" kritika [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+PP-I09-09	G99	ez	ez	ez	ez	0	0	-	-	-
+PP-I09-10	G99	ez	ez	ez	ez	0	0	-	-	-
+PP-I09-11	G99	ez	ez	ez	ez	0	0	-	-	-
+PP-I09-12	G08,G14,G13	ez	ez	ez	ez	0	0	-	-	-
+PP-I09-13	G22	ez	ez	ez	ez	0	0	-	-	-
+PP-I09-14	G17	ez	ez	ez	ez	0	0	-	-	ZEHARKA: berdintasuna "no vuelva a ser objeto de negociación" [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+PP-I09-15	G10	ez	ez	ez	ez	0	0	-	-	-
+PP-I09-16	G99	ez	ez	ez	ez	0	0	-	-	-
+PP-I12-17	G08	ez	ez	ez	murriztu|berrantolatu	1	0	-	-	"reducir estructura política y gastos innecesarios"
+PP-N001	G08	ez	ez	ez	murriztu|berrantolatu	3	0	-	-	MURRIZKETA?: "qué gastos se suprimen, qué estructuras se reducen"
+PP-N002	G08,G12	mantendu|zabaldu	ez	ez	berrantolatu	1	0	-	-	inbertsioak "conforme dispongamos de recursos"
+PP-N003	G08	ez	ez	ez	murriztu	2	0	-	-	Estatuaren enpresa-partaidetzak saldu
+PP-N004	G08	ez	ez	ez	murriztu|berrantolatu	2	0	-	-	MURRIZKETA?: zorra murriztu EBko arauen arabera
+PP-N005	G08	ez	ez	ez	berrantolatu	2	0	-	-	-
+PP-N006	G08,G02	ez	mantendu	ez	berrantolatu	1	0	-	-	MURRIZKETA?: erdia erretiratzean "repensar qué debemos hacer con cada servicio"
+PP-N007	G08,G10	ez	ez	ez	ez	3	0	autonomoak=onura	-	araudi-murrizketa (25%/35%), EBko arau-pausa
+PP-N008	G08	ez	ez	ez	ez	2	0	-	-	-
+PP-N009	G08	zabaldu	ez	ez	ez	2	0	pentsiodunak=onura	-	-
+PP-N010	G08	zabaldu	ez	ez	ez	2	0	prekarioak=onura	-	prestazioak ofizioz
+PP-N011	G08,G07	ez	ez	ez	ez	2	0	-	-	-
+PP-N012	G08,G10	ez	ez	ez|jaitsi_orokorra	berrantolatu	2	0	-	-	diru-laguntzen ordez zerga-onurak
+PP-N013	G13,G14	zabaldu	ez	ez	handitu	2	0	etorkinak=kaltea	-	Ceuta: itzulerak + ospitalea, etxebizitza
+PP-N014	G17,G07	ez	ez	ez|jaitsi_orokorra	ez	2	0	-	-	Ceuta/Melilla
+PP-N015	G17,G08	ez	ez	ez	handitu	3	0	-	-	Estatuaren presentzia "con especial atención al País Vasco, Navarra y Cataluña" [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+PP-N016	G17	ez	ez	ez	ez	1	0	-	-	Estatuak bere eskumen esklusiboak zuzenean [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+PP-N017	G18,G14	ez	ez	ez	ez	2	0	-	S09=-2	"recuperaremos… el delito de convocatoria de referéndum ilegal"
+PP-N018	G17,G03,G07	mantendu	ez	ez	ez	2	0	-	-	Gizarte Segurantzaren kutxa bakarra blindatu (EAEko transferentzia blokeatzen du) [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+PP-N019	G14	ez	ez	ez	handitu	3	0	gazteak=onura	-	-
+PP-N020	G14	ez	ez	ez	ez	2	0	-	-	okupazioa/lapurreta berrerortzea
+PP-N021	G14	ez	ez	ez	ez	2	0	-	-	ASKATASUN ZIBILAK: desordena publikoen delitua zabaldu
+PP-N022	G14	ez	ez	ez	ez	2	0	-	-	-
+PP-N023	G14	ez	ez	ez	ez	2	0	-	-	ASKATASUN ZIBILAK: sare sozialetako deiak zigortu
+PP-N024	G14	ez	ez	ez	ez	3	0	-	-	-
+PP-N025	G14	ez	ez	ez	ez	2	0	-	-	-
+PP-N026	G14	ez	ez	ez	ez	2	0	-	-	-
+PP-N027	G14,G01	ez	ez	ez	ez	1	0	-	-	-
+PP-N028	G15,G14	ez	ez	ez	handitu	2	0	emakumeak=onura	-	-
+PP-N029	G15	ez	ez	ez	ez	2	0	emakumeak=onura	-	-
+PP-N030	G14	ez	ez	ez	ez	2	0	-	-	-
+PP-N031	G14	ez	ez	ez	ez	2	0	-	-	-
+PP-N032	G14,G02	ez	hobetu	ez	handitu	2	0	langileak=onura	-	polizia/guardia zibila: soldata-parekatzea
+PP-N033	G14	ez	ez	ez	handitu	2	0	-	-	-
+PP-N034	G14	ez	ez	ez	ez	2	0	-	-	-
+PP-N035	G13	ez	ez	ez	ez	2	0	-	-	-
+PP-I28-18	G22	ez	ez	ez	ez	1	0	-	-	-
+PP-I38-19	G17	ez	ez	ez	ez	0	0	-	-	ZEHARKA: "Se ha negociado la soberanía nacional" [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+PP-I40-20	G17	ez	ez	ez	ez	1	0	-	-	ZEHARKA: "ni la diferencia puede convertirse en privilegio" [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+PP-I52-21	G10,G01,G07	ez	ez	ez	ez	0	0	-	-	-
+PP-N036	G13	ez	ez	ez	handitu	2	0	etorkinak=kaltea	-	mugako errefusa igerian sartzen direnei ere
+PP-N037	G13	ez	ez	ez	ez	3	0	etorkinak=kaltea	-	-
+PP-N038	G13	ez	ez	ez	ez	2	0	etorkinak=nahasia	-	-
+PP-N039	G13,G02	ez	ez|hobetu	ez	ez	2	0	-	-	-
+PP-N040	G13,G02	ez	ez	ez	ez	2	0	etorkinak=nahasia	-	puntuzko bisak, jatorrian kontratua
+PP-N041	G13,G02	ez	ez	ez	ez	2	0	etorkinak=kaltea|nahasia	-	urteko kupoak
+PP-N042	G13	murriztu	ez	ez	ez	2	0	etorkinak=kaltea	S06=-2	"prohibir las regularizaciones masivas"; erroldatzea ez nahikoa laguntzetarako
+PP-N043	G13,G15	ez	ez	ez	ez	2	0	etorkinak=kaltea|nahasia	-	integrazio-konpromisoa; burka debekatu
+PP-N044	G13,G14	ez	ez	ez	ez	2	0	etorkinak=kaltea	-	-
+PP-N045	G13	ez	ez	ez	ez	2	0	etorkinak=kaltea	-	CIEetako egonaldia luzatu
+PP-N046	G13,G06	ez	ez	ez	ez	3	0	etorkinak=kaltea	-	adingabe migratzaileak: itzulera lehenetsi
+PP-N047	G12,G14	ez	ez	ez	handitu	1	0	-	-	-
+PP-N048	G11,G14	ez	ez	ez	handitu	2	0	-	-	-
+PP-N049	G14	ez	ez	ez	ez	2	0	-	-	-
+PP-N050	G14	ez	ez	ez	handitu	2	0	-	-	-
+PP-N051	G14	ez	ez	ez	handitu	2	0	-	-	-
+PP-N052	G20	ez	ez	ez	handitu	2	0	-	-	defentsa-inbertsio urteanitza
+PP-N053	G20,G02	ez	hobetu	ez	handitu	2	0	langileak=onura	-	militarrak: efektibo eta soldata gehiago
+PP-N054	G20	ez	ez	ez	ez	2	0	-	-	-
+PP-N055	G20,G10	ez	ez	ez	handitu	2	0	-	-	-
+PP-N056	G22	ez	ez	ez	ez	2	0	-	-	-
+PP-N057	G22,G19	ez	ez	ez	ez	2	0	-	-	terrorismoagatik kondenatuak hautaezin
+PP-N058	G22	ez	ez	ez	ez	1	0	-	-	-
+PP-N059	G17,G22	ez	ez	ez	ez	2	0	-	-	"No habrá cesiones en… Hacienda general, Seguridad Social…"; transferentziak berdintasunaren arabera ebaluatu [v0.3.1: S08 kenduta — eskumen-transferentzia ≠ nazio-aitortza/aldebikotasuna]
+PP-N060	G22,G14	ez	ez	ez	ez	2	0	-	S10=-1	ZEHARKA: amnistia-legea indargabetu; terrorismoagatik kondenatuak ezin indultatu
+PP-N061	G22	ez	ez	ez	ez	2	0	-	-	-
+PP-N062	G22	ez	ez	ez	ez	2	0	-	-	-
+PP-N063	G22	ez	ez	ez	ez	2	0	-	-	-
+PP-N064	G22	ez	ez	ez	ez	2	0	-	-	-
+PP-N065	G22,G08	ez	ez	ez	ez	2	0	-	-	-
+PP-N066	G22,G08,G17	ez	ez	ez	ez	2	0	-	-	-
+PP-N067	G22	ez	ez	ez	ez	3	0	-	-	-
+PP-N068	G22	ez	ez	ez	ez	3	0	-	-	-
+PP-N069	G22	ez	ez	ez	ez	2	0	-	-	-
+PP-N070	G22	ez	ez	ez	ez	3	0	-	-	-
+PP-N071	G22	ez	ez	ez	ez	2	0	-	-	-
+PP-N072	G22	ez	ez	ez	ez	3	0	-	-	-
+PP-N073	G22	ez	ez	ez	ez	2	0	-	-	-
+PP-N074	G22	ez	ez	ez	ez	2	0	-	-	-
+PP-N075	G22	ez	ez	ez	ez	2	0	-	-	-
+PP-N076	G22	ez	ez	ez	ez	2|3	0	-	-	-
+PP-N077	G22,G14	ez	ez	ez	ez	1	0	-	-	-
+PP-N078	G22	ez	ez	ez	ez	2	0	-	-	-
+PP-N079	G22	ez	ez	ez	ez	3	0	-	-	-
+PP-N080	G22,G08	ez	ez	ez	ez	2	0	-	-	-
+PP-N081	G22	ez	ez	ez	ez	2	0	-	-	-
+PP-N082	G22,G08	ez	ez	ez	ez	2	0	-	-	-
+PP-N084	G22,G08	ez	ez	ez	ez	2	0	-	-	-
+PP-N085	G22	ez	ez	ez	ez	2	0	-	-	-
+PP-N086	G22	ez	ez	ez	ez	0	0	-	-	-
+PP-N087	G22	ez	ez	ez	ez	2	0	-	-	-
+PP-N088	G22	ez	ez	ez	ez	2	0	-	-	-
+PP-N089	G22	ez	ez	ez	ez	2	0	-	-	-
+PP-N090	G22	ez	ez	ez	ez	2	0	-	-	-
+PP-N091	G22,G19	ez	ez	ez	ez	2	0	-	-	1968ko Sekretu Ofizialen Legea ordeztu, desklasifikazio-epeekin
+PP-N092	G17,G06	mantendu	ez	ez	ez	2	0	-	-	Estatuaren Goi Ikuskaritza indartu erkidegoetan
+PP-N093	G04,G06	mantendu	ez	ez	ez	2	0	-	-	-
+PP-N094	G10,G17	ez	ez	ez	ez	2	0	-	-	merkatu-batasuna: erkidegoen baldintza gehigarriak mugatu
+PP-N095	G05,G17	ez	ez	ez	ez	2	0	-	-	PAU bateratua
+PP-N096	G16,G05	ez	ez	ez	ez	2	0	-	-	HIZKUNTZA: gaztelaniaz ikasteko eskubidea etapa guztietan (murgiltze-ereduetan eragina)
+PP-N097	G16	ez	ez	ez	ez	1	0	-	S07=-1	"Los requisitos lingüísticos respetarán las libertades y los derechos fundamentales de todos"
+PP-N098	G13,G06	murriztu	ez	ez	ez	2	0	etorkinak=kaltea	-	MURRIZKETA: laguntzetarako lehentasuna "arraigoaren" arabera
+PP-N099	G21,G01,G06	zabaldu	ez	ez	handitu	2	0	-	-	-
+PP-N100	G17,G07	zabaldu	ez	ez	handitu	2	0|1	-	S08=-1	finantzaketa multilaterala; "ningún privilegio a cambio de apoyo político"
+PP-N101	G17	ez	ez	ez	ez	2	0	-	S08=-2	"ni habrá nuevos regímenes singulares negociados bilateralmente"
+PP-N102	G17,G08	ez	ez	ez	ez|murriztu	2	0	-	-	finantzaketa-mekanismo bereziak (FLA) pixkanaka kendu
+PP-N103	G17,G08,G01	ez	ez	ez	handitu|berrantolatu	2	0	-	-	-
+PP-N104	G17,G08	ez	ez	ez	ez	2	0	-	-	-
+PP-N105	G21,G17	ez	ez	ez	handitu	3	0	-	-	-
+PP-N106	G17,G12	ez	ez	ez	handitu	2	0	-	-	-
+PP-N107	G08,G03	ez|murriztu	ez	ez	murriztu	1	0	-	-	MURRIZKETA?: defizita eta zorra murriztu; pentsio-erabakiak "impacto en las siguientes generaciones" (109 neurria ezkutatuta)
+PP-N108	G03	mantendu	ez	ez|jaitsi_orokorra	ez	2|3	0	pentsiodunak=onura	S05=+2	"suban cada año con el IPC"
+PP-N110	G06,G03	zabaldu|mantendu	ez	ez	ez	1	0	pentsiodunak=onura	-	IMSERSO modernizatu (testuan alboko zutabearen hondarra)
+PP-N111	G15	ez	ez	ez	ez	1	0	-	-	-
+PP-N112	G06,G02,G03	zabaldu	ez	ez	ez	2	0	-	-	desgaitasuna
+PP-N113	G06	zabaldu	ez	ez	ez	1	0	-	-	-
+PP-N114	G06,G07	zabaldu	ez	jaitsi_orokorra	handitu	3	0	pentsiodunak=onura	-	-
+PP-N115	G15	ez	ez	ez	ez	2	0	-	-	ATZERAPENA: Ley Trans berrikusi, sexuaren autodeterminazio erregistrala kendu
+PP-N116	G12	ez	ez	ez	berrantolatu	1	0	-	-	-
+PP-N117	G12,G11	ez	ez	ez	handitu	3	0|1	-	-	300.000 M€ 15 urtean "junto con el sector privado"
+PP-N118	G12	ez	ez	ez	handitu	2	0	-	-	-
+PP-N119	G12	ez	ez	ez	handitu	1	0	-	-	konexio berriak "progresivamente"
+PP-N120	G12	ez	ez	ez	handitu	1	0	-	-	-
+PP-N121	G12	ez	ez	ez	handitu	2	0	-	-	-
+PP-N122	G12	ez	ez	ez	handitu	3	0	-	-	-
+PP-N123	G12,G11	ez	ez	ez	ez	1	0	-	-	-
+PP-N124	G12	ez	ez	ez	ez	2	0	-	-	-
+PP-N125	G12	ez	ez	ez	ez	1	0	-	-	-
+PP-N126	G11,G21,G12	ez	ez	ez	handitu	3	0	-	-	40.000 M€ 2030 arte
+PP-N127	G16,G22	ez	ez	ez	ez	2	0	-	-	HIZKUNTZA: Kongresuan gaztelania bakarrik; koofizialak Senatuan bakarrik
+PP-N128	G17	ez	ez	ez	ez	1	0	-	-	-
+PP-N129	G19	ez	ez	ez	ez	2	0	-	-	Memoria Demokratikoaren Legea indargabetu
+PP-N130	G19	ez	ez	ez	ez	2	0	-	-	-
+PP-N131	G19,G14	ez	ez	ez	ez	2	0	-	S10=-2	"no habrá tercer grado ni libertad condicional… sin arrepentimiento veraz"
+PP-N133	G05,G19	ez	ez	ez	ez	2	0	-	-	-
+PP-N134	G16	ez	ez	ez	ez	1	0	-	-	-
+PP-N135	G16	ez	ez	ez	ez	2	0	-	-	mezenasgo-legea
+PP-N136	G16	ez	ez	ez	ez	2	0	-	-	Tauromakia Sari Nazionala berreskuratu
+PP-N137	G16,G20	ez	ez	ez	ez	2	0	-	-	-
+PP-N138	G16,G20	ez	ez	ez	ez	1	0	-	-	-
+PP-N139	G16	ez	ez	ez	ez	2	0	-	-	-
+PP-N140	G13	ez	ez	ez	ez	1	0	etorkinak=kaltea	-	-
+PP-N141	G13	ez	ez	ez	ez	2	0	etorkinak=kaltea	-	-
+PP-N142	G13,G14	ez	ez	ez	ez	2	0	etorkinak=kaltea	-	-
+PP-N143	G13	ez	ez	ez	ez	1	0	-	-	-
+PP-N144	G01	ez|zabaldu	ez	ez	berrantolatu|ez	3	0	-	-	lizentziak 3 hilabetean isilbide positiboarekin
+PP-N145	G01	ez	ez	ez	ez	2	0	-	S01=-2	ESKUBIDE-MURRIZKETA: Etxebizitza Legea indargabetu, tentsio-eremuak eta prezio-indizea kendu
+PP-N146	G01	ez	ez	ez	ez	2	0	-	-	-
+PP-N147	G01	ez	ez	ez	ez	1	0	-	-	-
+PP-N148	G01,G07	ez	ez	jaitsi_orokorra	handitu	3	0	-	-	-
+PP-N149	G01	ez	ez	ez	ez	2	0	-	-	-
+PP-N150	G01	ez	ez	ez	handitu	2	1	-	-	-
+PP-N151	G01,G17	ez	ez	ez	berrantolatu	1	0	-	-	-
+PP-N152	G01,G02,G13	ez	ez	ez	ez	1	0	-	-	-
+PP-N153	G01,G07	ez	ez	jaitsi_orokorra	ez	3	0	gazteak=onura	-	-
+PP-N154	G01	ez	ez	ez	handitu|ez	3	0	gazteak=onura	-	abal publikoa "a quien pueda pagar la hipoteca"
+PP-N155	G01,G07	ez	ez	jaitsi_orokorra	ez	3	0	gazteak=onura	-	-
+PP-N156	G01,G07	ez	ez	jaitsi_orokorra	ez	3	0	prekarioak=onura	S01=-1|0	ZEHARKA: mugen ordez pizgarri fiskalak
+PP-N157	G01,G14	ez	ez	ez	ez	3	0	-	-	-
+PP-N158	G06,G07	zabaldu|ez	ez	jaitsi_orokorra	ez	2	0	prekarioak=onura	-	kenkari itzulgarria, IRPF kuotarik gabekoei ere
+PP-N159	G06,G04,G15	zabaldu	ez	ez	ez	2	0	emakumeak=onura	-	"El concebido no nacido computará" laguntzetarako
+PP-N160	G06,G02	ez	hobetu	ez	ez	1	0	langileak=onura	-	-
+PP-N161	G02,G06	ez	ez	jaitsi_orokorra|ez	ez|handitu	3	0	autonomoak=onura;emakumeak=onura	-	-
+PP-N162	G06,G02	ez	hobetu|murriztu	ez	ez	1	0	langileak=onura|nahasia	-	"bancos de horas" anbiguoa
+PP-N163	G06,G05	zabaldu	ez	ez	handitu	3	0	-	-	0-3 doan, plaza "pública o concertada"
+PP-N165	G06	zabaldu|mantendu	ez	ez	ez	1	0	-	-	-
+PP-N166	G06	zabaldu	ez	ez	ez	1	0	prekarioak=onura	-	-
+PP-N168	G14,G06	ez	ez	ez	ez	3	0	-	-	-
+PP-N169	G02,G05,G10	ez	hobetu|murriztu	ez	ez	2	1	langileak=onura|nahasia	-	"flexibilidad, para que las empresas innoven" anbiguoa
+PP-N170	G10,G02	ez	ez	jaitsi_orokorra	ez	3	0	autonomoak=onura	-	-
+PP-N171	G10,G07	ez	ez	jaitsi_orokorra	ez	3	0	autonomoak=onura	-	-
+PP-N172	G10,G06	zabaldu	ez	ez	ez	2	0	autonomoak=onura	-	-
+PP-N174	G02,G07	ez	ez|hobetu	jaitsi_orokorra|ez	ez	2	0	-	-	-
+PP-N175	G02,G03,G04	murriztu|mantendu	murriztu|hobetu	ez	ez	2	0	langileak=nahasia|kaltea	-	MURRIZKETA?: "atajaremos el absentismo", mutuak aldi baterako ezintasunean, IT "ondo kudeatzen" duten enpresak saritu
+PP-N176	G10,G02	ez	ez	ez	ez	1	0	-	-	-
+PP-N177	G07	ez	ez	jaitsi_orokorra	ez	3	0	langileak=onura;prekarioak=onura;gazteak=onura;autonomoak=onura	-	-
+PP-N178	G07,G09	ez	ez	jaitsi_orokorra	ez	2	0	-	-	-
+PP-N179	G07	ez	ez	jaitsi_orokorra	ez	3	0	gazteak=onura;langileak=onura;autonomoak=onura	-	-
+PP-N180	G07,G09	ez	ez	jaitsi_orokorra	ez	3	0	-	-	-
+PP-N181	G07,G10	ez	ez	jaitsi_handiei|jaitsi_orokorra	ez	3	0	-	-	-
+PP-N182	G07	ez	ez	ez	ez	2	0	-	-	-
+PP-N183	G07	ez	ez	jaitsi_handiei	ez	1	1	-	S04=-1	ZEHARKA: "eliminaremos los impuestos que frenan la inversión" (zein diren zehaztu gabe)
+PP-N184	G07	ez	ez	jaitsi_handiei|jaitsi_orokorra	ez	1	0	-	-	-
+PP-N185	G07,G17	ez	ez	jaitsi_orokorra|jaitsi_handiei|ez	ez	1	0	-	S04=-1|0	ZEHARKA: erkidegoak ezin behartu zergak igotzera
+PP-N186	G10,G22	ez	ez	ez	ez	2	0	-	-	araudi-murrizketa
+PP-N187	G10,G02	ez	ez|murriztu	ez	ez	3	0	autonomoak=onura	-	MURRIZKETA?: 250 langile arteko enpresen betebeharrak "simplificar", hazkunde-atalaseak berrikusi
+PP-N188	G10,G05,G07	ez	ez	jaitsi_handiei	ez	3	0	-	-	profesional etorriei %20ko zerga 6 urtez
+PP-N189	G10,G07	ez	ez	jaitsi_handiei|jaitsi_orokorra	ez	1	0	autonomoak=onura	-	-
+PP-N190	G10	ez	ez	ez	ez	3	0	autonomoak=onura	-	-
+PP-N191	G10,G07	ez	ez	jaitsi_handiei	ez	3	0	enpresahandiak=onura	-	-
+PP-N192	G10,G11	ez	ez	ez	ez	3	0	enpresahandiak=onura	-	ingurumen-baimenak tramite bakarrean
+PP-N193	G10,G04,G21	ez	ez	ez	ez	2	0	-	-	-
+PP-N194	G10	ez	ez	ez	ez	1	0	-	-	-
+PP-N195	G21	ez	ez	ez	ez	1	0	-	-	-
+PP-N196	G21,G07	ez	ez	jaitsi_orokorra	ez	2	0	gazteak=onura	-	-
+PP-N197	G21,G20	ez	ez	ez	ez	3	0	-	-	PAC "sin recortes"
+PP-N198	G21	ez	ez	ez	ez	2	0	-	-	-
+PP-N199	G21,G11	ez	ez	ez	handitu	2	0	-	-	-
+PP-N201	G21,G20	ez	ez	ez	ez	2	0	-	-	-
+PP-N202	G21,G10	ez	ez	ez	ez	0	0	-	-	-
+PP-N203	G21,G02	ez	ez	jaitsi_orokorra	handitu	3	0	gazteak=onura	-	-
+PP-N204	G21,G15	zabaldu	ez	ez	ez	1	0	emakumeak=onura	-	-
+PP-N205	G21,G11	ez	ez	ez	handitu	2	0	-	-	-
+PP-N206	G21,G11,G07	ez	ez	jaitsi_orokorra	ez	1	0	-	-	-
+PP-N207	G21,G11	ez	ez	ez	ez	1	0	-	-	ehizaren trabak murriztu
+PP-N208	G21,G11	ez	ez	ez	ez	2	0	-	-	Kosta Lege berria
+PP-N209	G05	zabaldu	ez	ez	handitu	2	0	-	-	LOMLOE ordeztu
+PP-N211	G05,G02	ez	hobetu	ez	ez	2	0	-	-	-
+PP-N212	G05	murriztu|mantendu	ez	ez	handitu|ez	2	0	-	-	MURRIZKETA?: itun-eskolak blindatu eta finantzaketa "coste real" (pribatizazio-seinalea)
+PP-N213	G05,G06	mantendu	ez	ez	ez	1	0	-	-	-
+PP-N214	G05	ez	ez	ez	ez	2	0	-	-	-
+PP-N215	G05	ez	ez	ez	ez	2	0	-	-	-
+PP-N216	G05,G02	zabaldu	ez	jaitsi_handiei|jaitsi_orokorra	handitu	2	0	-	-	-
+PP-N217	G05	ez	ez	ez	ez	1	0	-	-	-
+PP-N218	G05	zabaldu	ez	ez	ez|handitu	2	0	gazteak=onura;prekarioak=onura	-	-
+PP-N219	G04,G17	zabaldu|mantendu	ez	ez	ez|handitu	1	0	-	S03=+1	-
+PP-N220	G04,G02	zabaldu	hobetu	ez	handitu	3	0	langileak=onura	S03=+1	4.500 mediku gehiago
+PP-N221	G04,G02	zabaldu	hobetu	ez	ez	1	0	-	-	-
+PP-N222	G04	zabaldu	ez	ez	ez	1	0	-	-	-
+PP-N223	G04	zabaldu	ez	ez	handitu	3	0	gazteak=onura	S03=+1	-
+PP-N224	G04,G10	zabaldu	ez	ez	handitu	2	0	-	-	-
+PP-N225	G04,G06,G07	mantendu|zabaldu	ez	jaitsi_orokorra	ez	2	0	-	-	-
+PP-N226	G04,G06	zabaldu	ez	ez	ez	2	0	-	-	eutanasiaren aurkako tonua
+PP-N227	G04,G17	zabaldu	ez	ez	handitu	2	0	-	S03=+1	-
+PP-N228	G11	ez	ez	ez	ez	2	0	-	-	zentral nuklearren itxiera-egutegia kendu
+PP-N229	G09,G07,G11	zabaldu	ez	jaitsi_orokorra	ez	3	0	prekarioak=onura	-	-
+PP-N230	G11,G12	ez	ez	ez	ez	3	0	-	-	-
+PP-N231	G11	ez	ez	ez	ez	3	0	-	-	-
+PP-N232	G11	ez	ez	ez	ez	1	0	-	-	KLIMA: deskarbonizazio-erritmoak berrikusi, "retiraremos" betebeharrak
+PP-N233	G11	ez	ez	ez	ez	1	0	-	-	"No impondremos obligaciones adicionales"
+PP-N234	G20	ez	ez	ez	ez	1	0	-	-	-
+PP-N235	G20	ez	ez	ez	ez	0	0	-	-	-
+PP-N236	G20,G21	ez	ez	ez	ez	2	0	-	-	-
+PP-N237	G20	ez	ez	ez	ez	1	0	-	-	-
+PP-N238	G20,G13	ez	ez	ez	ez	1	0	-	-	-
+PP-N239	G20	ez	ez	ez	ez	1	0	-	-	-
+PP-N240	G20	ez	ez	ez	ez	1	0	-	-	-
+PP-N241	G20	ez	ez	ez	ez	1	0	-	-	-
+PP-N242	G20	ez	ez	ez	ez	0	0	-	-	-
+PP-N243	G20	ez	ez	ez	ez	1	0	-	-	-
+PP-N244	G20	ez	ez	ez	ez	1	0	-	-	-
+PP-N245	G20,G10	ez	ez	ez	ez	1	0	-	-	-
+PP-N246	G20	ez	ez	ez	ez	1	0	-	-	-
+PP-N247	G20,G13	ez	ez	ez	berrantolatu|murriztu	1	0	-	-	garapenerako lankidetza "auditaremos y redirigiremos"
+PP-N248	G20	ez	ez	ez	ez	0	0	-	-	-
+PP-N249	G20	ez	ez	ez	handitu	2	0	-	-	-
